@@ -28,7 +28,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{ca yéf i tel}</s>{, nicases a tel e fokeq.}</sh>
+        <sh><s>{ca yéf i tel}</s>{, nicases a tel e fokeq.}</sh>
         <ja><s>私の妻</s>だ、私が鍵を渡したのは。</ja>
       </li>
     </xl>
@@ -42,11 +42,11 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{ofev}</s>{, ditat qikis a'c e fecaq ica qâz.}</sh>
+        <sh><s>{ofev}</s>{, ditat qikis a'c e fecaq ica qâz.}</sh>
         <ja><s>早く</s>、父親への手紙を書いてください。</ja>
       </li>
       <li>
-        <sh>{}<s>{te sot a zissohiz}</s>{, dôkak e zeqil ivo sokulsác.}</sh>
+        <sh><s>{te sot a zissohiz}</s>{, dôkak e zeqil ivo sokulsác.}</sh>
         <ja><s>今学生が</s>、教室のパソコンを破壊した。</ja>
       </li>
     </xl>
@@ -73,7 +73,8 @@
       したがって、この文で表現したい内容は {axodol} を除いた「彼が私の家からネックレスを持ち去った」という部分であり、「ネックレスが高価である」という情報はあくまで補足であるというニュアンスになります。
     </p>
     <p>
-      挿入構文の場合に限り、副詞を助詞句の間に置くことができます。
+      挿入構文の場合に限り、副詞を助詞句と助詞句の間に置くことができます。
+      この場合でも、1 つの助詞句の中に割り込んで置くことはできません。
     </p>
     <xl>
       <li>
@@ -100,6 +101,21 @@
       したがって、甘いもの以外の飴が机の上にあるかもしれません。
       一方、2 つ目の文は挿入構文を用いているので、「甘い」を意味する {amay} は「2 個の飴」を補足説明しているにすぎません。
       すなわち、この文が主に意味する内容は机の上に 2 個の飴があることなので、それらの飴以外に飴はないことになります。
+    </p>
+    <p>
+      固有名詞および {fes} や {ces} などの指示語のように、その語句だけで何を指しているかが 1 つに定まるものに対して、さらに何らかの修飾語句で説明を加えたいときは、常に挿入構文を用います。
+      すでに 1 つに決まるものに対して、さらに修飾語句で意味を限定する必要はないので、必然的にその修飾語句は補足説明になるためだと考えてください。
+    </p>
+    <xl>
+      <li>
+        <sh>{xolacac a ces vo raxas, }<s>{salot a e solkut avâc ehiv}</s>{.}</sh>
+        <ja>彼は<s>最も広い国である</s>ロシアで暮らしている。</ja>
+      </li>
+    </xl>
+    <p>
+      この例にある {raxas} は「ロシア」という意味の単語ですが、ロシアは世界に 1 つしかありません。
+      したがって、それを何らかの語句で修飾したい場合は、その語句は挿入構文になります。
+      実際、上の例では {salat} 以下が挿入構文になっています。
     </p>
   </element>
 
@@ -140,7 +156,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{a hitál}</s>{!}</sh>
+        <sh><s>{a hitál}</s>{!}</sh>
         <ja><s>鳥だ</s>!</ja>
       </li>
     </xl>
@@ -155,7 +171,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{e ayerif}</s>{.}</sh>
+        <sh><s>{e ayerif}</s>{.}</sh>
         <ja><s>綺麗だなあ</s>。</ja>
       </li>
     </xl>
@@ -165,7 +181,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{s'}</s>{e ayerif.}</sh>
+        <sh><s>{s'}</s>{e ayerif.}</sh>
         <ja>綺麗だなあ。</ja>
       </li>
     </xl>
@@ -184,6 +200,7 @@
     <word><so>名</so><sh>{hif}</sh><ja>上</ja></word>
     <word><so>名</so><sh>{dèt}</sh><ja>机</ja></word>
     <word><so>名</so><sh>{malek}</sh><ja>飴</ja></word>
+    <word><so>名</so><sh>{raxas}</sh><ja>ロシア</ja></word>
     <word><so>縮</so><sh>{s'}</sh><ja>{salat}</ja></word>
   </word-list>
 
