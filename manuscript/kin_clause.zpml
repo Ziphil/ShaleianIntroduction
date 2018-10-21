@@ -55,7 +55,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{rafat}</s>{ a tel e kin lohisis a tel vo hivas.}</sh>
+        <sh><s>{rafat}</s>{ a tel e kin lohisis a tel vo hivas.}</sh>
         <ja>私は空を飛び<s>たい</s>。</ja>
       </li>
     </xl>
@@ -65,7 +65,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{deqes}</s>{ a tel ca sotis e kin tayelis a ces e nasfek.}</sh>
+        <sh><s>{deqes}</s>{ a tel ca sotis e kin tayelis a ces e nasfek.}</sh>
         <ja>私は子供に庭を掃除さ<s>せた</s>。</ja>
       </li>
     </xl>
@@ -74,7 +74,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{kéces}</s>{ a ces e kin poqosec a ces te tazîk e hîxlon fe fakrêy.}</sh>
+        <sh><s>{kéces}</s>{ a ces e kin poqosec a ces te tazîk e hîxlon fe fakrêy.}</sh>
         <ja>昨日は夜空を彼女と一緒に眺めていたと彼は<s>言った</s>。</ja>
       </li>
     </xl>
@@ -84,7 +84,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{zazes}</s>{ e tel a kin qòcases a ces e tel obâl.}</sh>
+        <sh><s>{zazes}</s>{ e tel a kin qòcases a ces e tel obâl.}</sh>
         <ja>彼が私を突然呼んだので私は<s>驚いた</s>。</ja>
       </li>
     </xl>
@@ -157,27 +157,28 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces e kin }<s>{terac}</s>{ a ʻxastil e cèrzaf.}</sh>
-        <ja>シャスティルは紅茶を<s>飲んでいる</s>と彼は言った。</ja>
+        <sh>{fedakes a ces e kin }<s>{terac}</s>{ a ʻxastil e cèrzaf vo vocik.}</sh>
+        <ja>シャスティルがテラスで紅茶を<s>飲んでいる</s>ことに彼は気づいた。</ja>
       </li>
     </xl>
     <p>
       {kin} 節内の動詞 {terac} は現在時制で用いられています。
-      この現在時制が表す時間は、この文が話された瞬間ではなく、主節の {kéces} が表す行為が行われた時間と同じになります。
-      つまり、彼が言った時間とシャスティルが紅茶を飲んでいる時間が同じだということです。
+      この現在時制が表す時間は、この文が話された瞬間ではなく、主節の {fedakes} が表す行為が成立した時間と同じになります。
+      つまり、彼が気づいた時間とシャスティルが紅茶を飲んでいる時間が同じだということです。
     </p>
     <p>
       仮に {kin} 節内の動詞が過去時制だったとします。
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces e kin }<s>{terec}</s>{ a ʻxastil e cèrzaf.}</sh>
-        <ja>シャスティルは紅茶を<s>飲んでいた</s>と彼は言った。</ja>
+        <sh>{fedakes a ces e kin }<s>{terec}</s>{ a ʻxastil e cèrzaf vo vocik.}</sh>
+        <ja>シャスティルがテラスで紅茶を<s>飲んでいた</s>ことに彼は気づいた。</ja>
       </li>
     </xl>
     <p>
-      この場合、{kin} 節の {terec} の過去時制が表す時間は、主節の {kéces} が成立した時間より前になります。
-      すなわち、彼が言った時間より前にシャスティルが紅茶を飲んでいたことになります。
+      この場合、{kin} 節の {terec} の過去時制が表す時間は、主節の {fedakes} が成立した時間より前になります。
+      すなわち、彼が気づいた時間より前にシャスティルが紅茶を飲んでいたことになります。
+      言い方を変えれば、昔シャスティルがテラスで紅茶を飲んでいたことに後になって気づいたわけです。
     </p>
     <p>
       なお、連結詞や助接詞が接続詞として用いられている場合は、主節の時制も接続詞節の時制も、通常通りその文が話されたか書かれた時間から見た現在や過去を表します。
@@ -204,7 +205,9 @@
     <word><so>動</so><sh>{har}</sh><ja>気分良くさせる</ja></word>
     <word><so>動</so><sh>{qerit}</sh><ja>聴く</ja></word>
     <word><so>名</so><sh>{yepil}</sh><ja>歌</ja></word>
+    <word><so>動</so><sh>{fedak}</sh><ja>気づく</ja></word>
     <word><so>名</so><sh>{cèrzaf}</sh><ja>紅茶</ja></word>
+    <word><so>名</so><sh>{vocik}</sh><ja>テラス</ja></word>
   </word-list>
 
 </section>

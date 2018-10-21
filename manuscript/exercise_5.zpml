@@ -66,7 +66,7 @@
   <element> <!-- 総合 -->
     <state>次の文を日本語に訳しなさい。</state>
     <li>{vîtices ovop a tel vo naflat e fakel ivo vosrac afêc ica sod i'l.}</li>
-    <li>{}</li>
+    <li>{hikutec zi zál a hîxlon avotiq ica xif alikxel.}</li>
     <li>{duliqetes a ces e tel. pa pâmat a ces e kozis ike'n lis?}</li>
     <li>{xâyat e zál ovel edès, ni let te keqilec a zál vo amerikas.}</li>
     <li>{vade qiketes a tel ozacàt emic ini ris aqôc, debat e'l te saq ovel iti zedat lesis a'l e dol.}</li>
@@ -74,7 +74,7 @@
 
   <answer>
     <li>私は家から近いカフェにいた女性を公園で再び見かけた。</li>
-    <li></li>
+    <li>私たちは輝く星でいっぱいの夜空に覆われていた。</li>
     <li>彼は私に電話しなかった。彼はそうするという約束を忘れているのだろうか?</li>
     <li>私たちはアメリカに住んでいたときほど幸せではない。</li>
     <li>私は他の誰よりも熱心に働いたので、今は何もしようと思えないほど疲れている。</li>
@@ -83,7 +83,7 @@
   <element> <!-- 総合 -->
     <state>次の文をシャレイア語に訳しなさい。</state>
     <li>この駅の周辺にはたくさんの神社がある。</li>
-    <li></li>
+    <li>私が彼を呼んでいるのに気づいていないかのように、彼は黙っている。</li> <!-- feli を接続詞として用いた例 -->
     <li>私はできるだけ速くこの図書室を掃除しなければならない。</li>
     <li>あなたが所持しているワインの中で最も高価なワインはどれですか?</li>
     <li>私の姉が亡くなったと彼に言ったとき、まるで亡くなったのが彼の姉であるかのように彼は悲しんだ。</li>
@@ -91,7 +91,7 @@
 
   <answer>
     <li>{qetat a kedxovas avôl vo fecil ica kolot afik.}</li>
-    <li></li>
+    <li>{semisat a ces feli dufedakat a's e'n qòcasac e's a tel.}</li>
     <li>{dozat tayelis a tel e sokulxoq afik otîv ehiv ini qifat las.}</li>
     <li>{pa salat e pet a celvir axodol ehiv ive met kûtat e a loc?}</li>
     <li>{te kéces a tel ca ces e'n vahixes a hinof i tel, dodes e's feli les a hinof i ces.}</li>
@@ -102,6 +102,9 @@
     <word><so>動</so><sh>{belset}</sh><ja>いたずらする</ja></word>
     <word><so>動</so><sh>{zisqom}</sh><ja>消極的な</ja></word>
     <word><so>名</so><sh>{zîk}</sh><ja>昔</ja></word>
+    <word><so>動</so><sh>{hikut}</sh><ja>覆う</ja></word>
+    <word><so>動</so><sh>{votiq}</sh><ja>いっぱいの</ja></word>
+    <word><so>動</so><sh>{likxel}</sh><ja>輝く</ja></word>
     <word><so>名</so><sh>{kozis}</sh><ja>約束</ja></word>
     <word><so>動</so><sh>{xây}</sh><ja>幸せにする</ja></word>
     <word><so>動</so><sh>{qiket}</sh><ja>働く</ja></word>
