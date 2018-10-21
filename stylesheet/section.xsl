@@ -319,7 +319,7 @@
 
   <xsl:template match="half-space" mode="#all">
     <fo:inline font-family="{$japanese-font-family}">
-      <xsl:text> </xsl:text>
+      <xsl:text>&#x2002;</xsl:text>
     </fo:inline>
   </xsl:template>
 

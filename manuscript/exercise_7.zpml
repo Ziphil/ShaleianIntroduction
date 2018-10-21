@@ -68,8 +68,8 @@
     <li></li>
     <li></li>
     <li></li>
-    <li></li>
-    <li></li>
+    <li>{}</li>
+    <li>{di'kécis a'c e [[te lôk acál]] lo di'dulis e [[câvo]]. ri lis, qifit câsos ovop a tel e loc. pa e ayát?}</li>
   </element>
 
   <answer>
@@ -77,24 +77,24 @@
     <li></li>
     <li></li>
     <li></li>
-    <li></li>
+    <li>「またね」と言って、「さようなら」とは言わないで。そうすれば、またあなたに会えるでしょ?</li>
   </answer>
 
   <element> <!-- 総合 -->
     <state>次の文をシャレイア語に訳しなさい。</state>
-    <li></li>
+    <li></li> <!-- 比較表現 -->
     <li>ここで売られている腕時計は私の腕時計より 10 倍以上高い。</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>私は、私の携帯電話をなくした彼に「ごめんなさい」と言ってほしい。</li>
+    <li>彼のような優しい人が怒っているのを想像することなどできようか。</li> <!-- 反語 -->
+    <li>ねえ、流れ星だよ!<half-space/>初めてなんだ、流れ星を見るのは。</li>
   </element>
 
   <answer>
     <li></li>
     <li>{salat e axodol emic ilevo vâl atiset ini sokiq i tel a met qoletac e vo fêd.}</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>{rafat a tel e'n kécis e [[dibe]] a ces, padofes a e sòlaq i tel.}</li>
+    <li>{pa kilat pafisos a tel e'n bâgit e zis asafey itace ces.}</li>
+    <li>{sê, a xiflohis! la tal acates, licac a tel e met.} </li>
   </answer>
 
   <word-list>

@@ -29,25 +29,25 @@
     <li>兄が結婚したという話を私は知っている。</li>
     <li>このワインは私が泣いてしまっているほどおいしい。</li>
     <li>私はレモンのように酸っぱいお菓子を食べた。</li>
-    <li>私は彼のような優しい人と一緒に旅行したい。</li>
+    <li>私は彼のような頼もしい人と一緒に旅行したい。</li>
   </element>
 
   <answer>
     <li>{sokat a tel e rát ike'n fexases a nîl.}</li>
     <li>{salat a celvir afik e asaret iti rédac a tel.}</li>
     <li>{sôdes a tel e retat asítet ifeli cilít.}</li>
-    <li>{rafat qorasis a tel fe zis asafey itace ces.}</li>
+    <li>{rafat qorasis a tel fe zis akelzef itace ces.}</li>
   </answer>
 
   <element> <!-- 23, 24 -->
     <state>次の文を比較表現を用いてシャレイア語に訳しなさい。</state>
-    <li>私の弟は私より頼もしい。</li>
+    <li>私の弟は私より優しい。</li>
     <li>私はイチゴと同じくらい甘いお酒を飲んだ。</li>
     <li>彼女は私の友達の中で最もおとなしい。</li>
   </element>
 
   <answer>
-    <li>{salat a qaled i tel e akelzef emic ini tel.}</li>
+    <li>{salat a qaled i tel e asafey emic ini tel.}</li>
     <li>{teres a tel e korac amay evêl ini micés.}</li>
     <li>{salat a ces e asiref ehic ive refet i tel.}</li>
   </answer>

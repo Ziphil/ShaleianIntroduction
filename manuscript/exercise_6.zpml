@@ -86,7 +86,7 @@
 
   <element> <!-- 総合 -->
     <state>次の文をシャレイア語に訳しなさい。</state>
-    <li>彼は安くない服を買おうとしない。</li>
+    <li>彼は高価でない服を買おうとしない。</li>
     <li>どうすれば息子に熱心に勉強させられるのか分からない。</li>
     <li>私には 2 月 29 日生まれの友達が 2 人いる。</li>
     <li>この公園では、明日で 108 歳になるおばあさんが毎日散歩している。</li>
@@ -94,7 +94,7 @@
   </element>
 
   <answer>
-    <li>{duzedat fegis a ces e solak aduhap.}</li>
+    <li>{duzedat fegis a ces e solak aduxodol.}</li>
     <li>{dusokat a tel e kin deqis a'l qi pil e'n sohizis ozacàt a qasot.}</li>
     <li>{kavat a tel e refet al'aqec xáfes e te taq ac'29 ben ac'2.}</li>
     <li>{vomac catsatos vo naflat afik te taq atov a fíled nisis a ca alosod ile latvác 108 te tacar.}</li>
