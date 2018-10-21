@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="縮約">
+
+  <example-list>
+    <li>
+      <sh>{foqones a tel e kin kufis a'l e celvir atufil aquk.}</sh>
+      <ja>私はあの珍しいワインを手に入れるのを諦めた。</ja>
+    </li>
+    <li>
+      <sh>{meloses a tel e'n lekutis a'l ca hilvit.}</sh>
+      <ja>私は飛行機に乗るのに遅れた。</ja>
+    </li>
+    <li>
+      <sh>{di'cafosis a'c ca tel e keteq acik.}</sh>
+      <ja>私にその写真を見せて。</ja>
+    </li>
+  </example-list>
+
+  <element title="名詞の縮約形">
+    <p>
+      {tel}, {loc}, {ces}, {cit} の 4 つの単語は文中で頻繁に出てくるので、文が冗長になるのを防ぐため、それぞれ最後の 1 文字だけを取って {'l}, {'c}, {'s}, {'t} になる場合があります。
+      この短くした形を「縮約形」といいます。
+      これらの縮約形の前にはスペースを入れません。
+    </p>
+    <p>
+      この 4 つの縮約形は、もとの単語が同じ文の中で 2 回目以降に現れた箇所で、その単語の代わりに使われます。
+      文中の最初の出現箇所で縮約形を使うことは基本的にありません。
+    </p>
+    <xl>
+      <li>
+        <sh>{foqones a tel e kin kufis a}<s>{'l}</s>{ e celvir atufil aquk.}</sh>
+        <ja>私はあの珍しいワインを手に入れるのを諦めた。</ja>
+      </li>
+      <li>
+        <sh>{te kécos a ces e nodom, mafetos okôk a}<s>{'s}</s>{ e nemok.}</sh>
+        <ja>彼は嘘をつくときに必ず鼻を触る。</ja>
+      </li>
+    </xl>
+    <p>
+      1 つ目の例文では {tel} の縮約形の {'l} が用いられていて、2 つ目では {ces} の縮約形の {'s} が用いられています。
+      どちらも、最初に出てくる {tel} や {ces} に対しては縮約形が使われていないことに注目してください。
+    </p>
+    <p>
+      例外的に、命令文での {loc} に対しては、文中で最初に出てきたものに対しても縮約形の {'c} が用いられることがあり、さらにほとんどの場合に縮約形の方が使われます。
+    </p>
+    <xl>
+      <li>
+        <sh>{ditat hanotis a}<s>{'c}</s>{ ca tel e soqal acik.}</sh>
+        <ja>そのボールを私に放り投げてください。</ja>
+      </li>
+    </xl>
+    <p>
+      口語では縮約形が多用される傾向にあり、{tel}, {loc}, {ces}, {cit} の全てについて、文中での最初の出現箇所においても縮約形が用いられることがあります。
+      また、詩や歌詞などリズムを重んじる文章でも、音節の個数を調節するために、文の最初の出現箇所でも縮約形が用いられることがあります。
+    </p>
+  </element>
+
+  <element title="{kin} の縮約形">
+    <p>
+      {kin} もしばしば {'n} に縮約されます。
+      この縮約形は、文中での何番目の出現かに関係なく使われます。
+    </p>
+    <xl>
+      <li>
+        <sh>{meloses a tel e}<s>{'n}</s>{ lekutis a'l ca hilvit.}</sh>
+        <ja>私は飛行機に乗る<s>の</s>に遅れた。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{ditat} の縮約形">
+    <p>
+      命令文を作る {ditat} も {di'} という縮約形をもっています。
+      {di'} に縮約された場合は、{di'} の次の単語との間のスペースがなくなります。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{di'}</s>{cafosis a'c ca tel e keteq acik.}</sh>
+        <ja>私にその写真を見せ<s>て</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      {ditat} を {di'} に縮約した場合、命令の丁寧度が下がります。
+      縮約せずに {ditat} を用いた場合は、日本語の「～してください」のような比較的丁寧な依頼になりますが、縮約して {di'} にすると、日本語の「～しなさい」や「～して」のような言い方になります。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>縮</so><sh>{'l}</sh><ja>{tel}</ja></word>
+    <word><so>縮</so><sh>{'c}</sh><ja>{loc}</ja></word>
+    <word><so>縮</so><sh>{'s}</sh><ja>{ces}</ja></word>
+    <word><so>縮</so><sh>{'t}</sh><ja>{cit}</ja></word>
+    <word><so>動</so><sh>{foqon}</sh><ja>諦める</ja></word>
+    <word><so>動</so><sh>{kuf}</sh><ja>手に入れる</ja></word>
+    <word><so>名</so><sh>{celvir}</sh><ja>ワイン</ja></word>
+    <word><so>動</so><sh>{tufil}</sh><ja>珍しい</ja></word>
+    <word><so>動</so><sh>{mafet}</sh><ja>触る</ja></word>
+    <word><so>名</so><sh>{nemok}</sh><ja>鼻</ja></word>
+    <word><so>動</so><sh>{hanot}</sh><ja>放り投げる</ja></word>
+    <word><so>縮</so><sh>{'n}</sh><ja>{kin}</ja></word>
+    <word><so>動</so><sh>{melos}</sh><ja>遅れる</ja></word>
+    <word><so>名</so><sh>{hilvit}</sh><ja>飛行機</ja></word>
+    <word><so>縮</so><sh>{di'}</sh><ja>{ditat}</ja></word>
+    <word><so>動</so><sh>{cafos}</sh><ja>見せる</ja></word>
+  </word-list>
+
+</section>

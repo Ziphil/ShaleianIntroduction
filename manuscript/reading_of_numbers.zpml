@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="数の表記と読み">
+
+  <element title="数の表記">
+    <p>
+      シャレイア語では数は 10 進法で表記します。
+      したがって、私たちが普段 0 から 9 までの数字を用いて数を表記しているのと同じように表記します。
+      ただし、細かい点が多少異なるので、その違いについて述べておきます。
+    </p>
+    <p>
+      まず、日本やアメリカでは 3 桁ごとにコンマで区切って数を読みやすくすることがありますが、シャレイア語で桁を区切る場合は 3 桁ごとではなく 4 桁ごとに区切ります。
+      区切り位置には、[1&#x2006;5342] や [4648&#x2006;3860&#x2006;7037] のように小さめのスペースを入れ、タデックを挿入することはしません。
+      小数点以下も同様に 4 桁ずつスペースで区切る場合があります。
+    </p>
+    <p>
+      整数部分と小数部分の間には点を打ちますが、この点はデックやタデックとは違って文字の高さの中央の位置に書きます。
+      この小数点の転写には、似たような記号である中黒 (U+00B7) を用います。
+      例えば、[3&#xB7;14] や [23&#xB7;1407] のようになります。
+    </p>
+    <p>
+      最後に、整数部分が 0 であるような小数は、整数部分の 0 を書きません。
+      したがって、0.5 は [&#xB7;5] と書くことになります。
+    </p>
+  </element>
+
+  <element title="整数の読み">
+    <p>
+      0 から 9 までの数字は以下の表の通りに読みます。
+      整数部分を読むときと小数部分を読むときで読みが異なるので注意してください。
+    </p>
+    <table header-size="2">
+      <tr><td rowspan="2">数字</td><td colspan="2">読み</td><td-blank rowspan="2"/><td rowspan="2">数字</td><td colspan="2">読み</td></tr>
+      <tr><td>整数</td><td>小数</td><td>整数</td><td>小数</td></tr>
+      <tr><td>0</td><td>{nof}</td><td>{mul}</td><td-blank/><td>5</td><td>{xal}</td><td>{jes}</td></tr>
+      <tr><td>1</td><td>{tis}</td><td>{daf}</td><td-blank/><td>6</td><td>{ric}</td><td>{lam}</td></tr>
+      <tr><td>2</td><td>{qec}</td><td>{cid}</td><td-blank/><td>7</td><td>{sez}</td><td>{ziq}</td></tr>
+      <tr><td>3</td><td>{yos}</td><td>{hut}</td><td-blank/><td>8</td><td>{kaq}</td><td>{get}</td></tr>
+      <tr><td>4</td><td>{piv}</td><td>{bac}</td><td-blank/><td>9</td><td>{von}</td><td>{fus}</td></tr>
+    </table>
+    <p>
+      まずは 4 桁以下の整数の読み方を説明します。
+      4 桁以下の整数を読むときは、各位の数字の整数部分としての読みの後に以下に示す位取りを表す接尾辞を付け、それらを位の大きい方から順に並べます。
+    </p>
+    <table>
+      <tr><td>位</td><td>接辞</td></tr>
+      <tr><td>10</td><td>[et]</td></tr>
+      <tr><td>100</td><td>[il]</td></tr>
+      <tr><td>1000</td><td>[as]</td></tr>
+    </table>
+    <p>
+      例えば [6236] は、以下の図に示すように {ricasqecilyosetric} と読みます。
+    </p>
+    <img src="image/reading_of_a_simple_integer.svg"/>
+    <p>
+      位が 0 の場合は何も読まずに飛ばすので、[203] は {qecilyos} と読みます。
+    </p>
+    <img src="image/reading_of_a_simple_integer_with_zero.svg"/>
+    <p>
+      5 桁以上の整数を読む場合は、まず下から 4 桁ずつに区切り、それぞれを今説明した方法で読みます。
+      そして、それぞれの 4 桁分の読みの後に以下に示す位取りの接尾辞を付け、位の大きい方から順に並べます。
+      なお、読みを綴って記すときは、4 桁分の読みと位取りの接尾辞の後にフェークを置きます。
+    </p>
+    <table>
+      <tr><td>位</td><td>接辞</td><td-blank/><td>位</td><td>接辞</td></tr>
+      <tr><td>1 万</td><td>[otik]</td><td-blank/><td>1 京</td><td>[opik]</td></tr>
+      <tr><td>1 億</td><td>[oqek]</td><td-blank/><td>1 垓</td><td>[oxak]</td></tr>
+      <tr><td>1 兆</td><td>[oyok]</td><td-blank/><td>1 𥝱</td><td>[orik]</td></tr>
+    </table>
+    <p>
+      例えば [1649726236] は、以下の図に示すように読みます。
+    </p>
+    <img src="image/reading_of_a_complex_integer.svg"/>
+    <p>
+      4 桁ずつ区切ったときにその 4 桁が全て 0 になる箇所は、何も読まずに飛ばします。
+      そのため、[600007311] の読みは以下のようになります。
+    </p>
+    <img src="image/reading_of_a_complex_integer_with_zero.svg"/>
+  </element>
+
+  <element title="小数の読み">
+    <p>
+      初めに整数部分が 0 であるような小数の読み方を説明します。
+      小数部分が 4 桁以下の場合は、各位の小数部分としての読みの後に位取りを示す接尾辞を付け、順に並べます。
+      このときの接尾辞ですが、整数を読むときは位が左に行くにつれて [et], [il], [as] と変わりましたが、小数を読むときは逆に位が右に行くにつれて {et}, {il}, {as} とします。
+      なお、小数点自身は読みません。
+    </p>
+    <p>
+      例えば [&#xB7;4561] は、以下の図に示すように {bacjesetlamildafas} と読みます。
+      各数字の読みが整数部分の場合と異なることに注意してください。
+    </p>
+    <img src="image/reading_of_a_simple_decimal.svg"/>
+    <p>
+      小数部分が 5 桁以上の場合は、小数点に近い方から 4 桁ずつ区切り、まずこの 4 桁分を読みます。
+      そして、それぞれの 4 桁分の読みに位取りの接尾辞を付け、順に並べます。
+      このときの接尾辞も整数部分のときとは逆順で、右に行くにつれて [otik], [oqek], [oyok] と変わります。
+    </p>
+    <p>
+      [&#xB7;456137733] の読みは以下のようになります。
+    </p>
+    <img src="image/reading_of_a_complex_decimal.svg"/>
+    <p>
+      整数部分も小数部分ももつような数を読む場合は、整数部分をまず読んで、その後に小数部分を読みます。
+      読みを綴る際は、整数部分の読みと小数部分の読みの間にフェークを入れます。
+      小数点は読みません。
+      例えば、[203&#xB7;4561] は {qecilyos-bacjesetlamildafas} と読むことになります。
+    </p>
+  </element>
+
+  <element title="動詞型不定詞と名詞型不定詞の数詞">
+    <p>
+      上に述べた数の読み方は、動詞型不定詞としての数詞の語幹の読み方です。
+      動詞型不定詞の数詞は常に形容詞として用いられるので、文中では形容詞を表す接頭辞の [a] がさらに付け加えられます。
+    </p>
+    <p>
+      数詞は、読みを綴っても数字を用いても表記することができます。
+      ここで注意すべき点として、読みを綴りで記す場合は形容詞を表す接頭辞の [a] を書きますが、数字で表記する場合は [a] を書きません。
+      例えば、[3] の語幹の読みは {yos} なので、文中では {ayos} の形で用いられこの通りに読まれますが、数字を用いるときは単に [3] とだけ書いて {ayos} と読みます。
+    </p>
+    <p>
+      一方、数詞には名詞型不定詞のものもあります。
+      名詞型不定詞の数詞は、動詞型不定詞としての数詞の語幹の読みにおける最後の母音を、[a]&#xA0;→&#xA0;[e]&#xA0;→&#xA0;[i]&#xA0;→&#xA0;[a] および [o] → [u] → [o] の規則で変化させて読みます。
+      例えば、[16] の動詞型不定詞としての読みは {tisetric} なので、名詞型不定詞としての読みは {tisetrac} になります。
+    </p>
+    <p>
+      名詞型不定詞の数詞も数字で記すことができます。
+      その場合、例えば [16] と記して {tisetrac} と読むことになります。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{nof}</sh><ja>0</ja></word>
+    <word><so>動</so><sh>{mul}</sh><ja>0//10</ja></word>
+    <word><so>動</so><sh>{tis}</sh><ja>1</ja></word>
+    <word><so>動</so><sh>{daf}</sh><ja>1//10</ja></word>
+    <word><so>動</so><sh>{qec}</sh><ja>2</ja></word>
+    <word><so>動</so><sh>{cid}</sh><ja>2//10</ja></word>
+    <word><so>動</so><sh>{yos}</sh><ja>3</ja></word>
+    <word><so>動</so><sh>{hut}</sh><ja>3//10</ja></word>
+    <word><so>動</so><sh>{piv}</sh><ja>4</ja></word>
+    <word><so>動</so><sh>{bac}</sh><ja>4//10</ja></word>
+    <word><so>動</so><sh>{xal}</sh><ja>5</ja></word>
+    <word><so>動</so><sh>{jes}</sh><ja>5//10</ja></word>
+    <word><so>動</so><sh>{ric}</sh><ja>6</ja></word>
+    <word><so>動</so><sh>{lam}</sh><ja>6//10</ja></word>
+    <word><so>動</so><sh>{sez}</sh><ja>7</ja></word>
+    <word><so>動</so><sh>{ziq}</sh><ja>7//10</ja></word>
+    <word><so>動</so><sh>{kaq}</sh><ja>8</ja></word>
+    <word><so>動</so><sh>{get}</sh><ja>8//10</ja></word>
+    <word><so>動</so><sh>{von}</sh><ja>9</ja></word>
+    <word><so>動</so><sh>{fus}</sh><ja>9//10</ja></word>
+  </word-list>
+
+</section>

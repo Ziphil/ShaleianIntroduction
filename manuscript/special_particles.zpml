@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="特殊助接詞">
+
+  <example-list>
+    <li>
+      <sh>{pa sokat a loc e socad ike'n kâkes a valgot ca fosnal afik?}</sh>
+      <ja>この村に熊が現れたという事件を知っていますか?</ja>
+    </li>
+    <li>
+      <sh>{dusalat a tel e asafey iti feracis a'l e loc.}</sh>
+      <ja>私はあなたの手伝いをするほど優しくない。</ja>
+    </li>
+    <li>
+      <sh>{sâfat a tel e korac, ti vomac teros a'l e met te taq atov.}</sh>
+      <ja>私は毎日飲んでいるくらいお酒が好きだ。</ja>
+    </li>
+    <li>
+      <sh>{déxat a tiris vo qôd ovel ifeli laxqov.}</sh>
+      <ja>赤ちゃんがあそこでまるで人形のように眠っている。</ja>
+    </li>
+  </example-list>
+
+  <element title="特殊助接詞の用法">
+    <p>
+      特殊助接詞の用法は単語によって異なるので、それらを包括して説明できる一般論があるわけではありませんが、いくつか共通の法則があります。
+    </p>
+    <p>
+      まず、特殊助接詞は原則として非動詞修飾形のみが用いられます。
+      ただし、これについては後述しますが、一部の場合において原形を用いた言い換えをすることができ、このときに限って原形が現れます。
+    </p>
+    <p>
+      また、一般助接詞の場合と同様に、特殊助接詞が助詞として用いられるときは後ろに名詞を伴い、接続詞として用いられるときは後ろに節を伴います。
+    </p>
+    <p>
+      特殊助接詞が接続詞として用いられているときは後ろに節が置かれますが、その節の時制の意味は、{kin} 節や限定節と同様、主節の時間を基準に決まります。
+      ただし、後述する原形による言い換えを行ったときは、その文が発話もしくは記述された時間基準になります。
+    </p>
+    <p>
+      なお、{i} は特殊助接詞ですが、この用法については<section-number title="動詞と助詞句"/>で説明した通りなので、ここで改めて扱うことはしません。
+    </p>
+  </element>
+
+  <element title="{ke}">
+    <p>
+      特殊助接詞の {ke} は、常に非動詞修飾形の助詞として用いられます。
+      このとき、{ike} の後ろに {kin} 節を伴って {ike} とその {kin} 節全体で名詞を修飾し、その名詞の内容を表します。
+      日本語の「～という」に相当すると考えてください。
+    </p>
+    <p>
+      具体例を見てみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa sokat a loc e socad }<s>{ike'n kâkes a valgot ca fosnal afik}</s>{?}</sh>
+        <ja><s>この村に熊が現れたという</s>事件を知っていますか?</ja>
+      </li>
+    </xl>
+    <p>
+      なお、{ike} の後は常に {kin} が置かれるので、上の例文のように {kin} が縮約されて {ike'n} という形になることがほとんどです。
+      また、{ke} に接続詞の用法はないので、{kin} を省略することはできません。
+    </p>
+  </element>
+
+  <element title="{ti}">
+    <p>
+      特殊助接詞の {ti} は、原則として非動詞修飾形の接続詞として用いられます。
+      {iti} の後ろに節を直接伴って {iti} 節全体で形容詞や副詞を修飾し、その形容詞や副詞の程度を表します。
+    </p>
+    <xl>
+      <li>
+        <sh>{dusalat a tel e asafey }<s>{iti feracis a'l e loc}</s>{.}</sh>
+        <ja>私は<s>あなたの手伝いをするほど</s>優しくない。</ja>
+      </li>
+    </xl>
+    <p>
+      上の例では、{iti} 節が {asafey} を修飾し、「優しい」というのが「あなたの手伝いをする程度の優しさ」くらいであることを表しています。
+    </p>
+    <p>
+      {iti} 節は形容詞か副詞を修飾すると説明しましたが、動詞を修飾したい場合もあるでしょう。
+      その場合は、その動詞に {ovel} の副詞として修飾させ、その {ovel} を {iti} 節で修飾します。
+      <section-number title="不定詞の活用 II"/>で学んだ、副詞型不定詞由来の副詞を動詞に修飾させたい場合と同じです。
+    </p>
+    <xl>
+      <li>
+        <sh>{sâfat a tel e korac }<s>{ovel}</s>{ }<s>{iti vomac teros a'l e met te taq atov}</s>{.}</sh>
+        <ja>私は<s>毎日飲んでいるくらい</s>お酒が好きだ。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「好きだ」の度合いを {iti} 節で表すために、動詞の {sâfat} に {ovel} を修飾させ、さらにその {ovel} を {iti} 節で修飾しています。
+    </p>
+  </element>
+
+  <element title="特殊助接詞の言い換え">
+    <p>
+      {ti} の使い方は基本的に上に述べた通りです。
+      ただし、上で説明した通りに文を作った後で、以下のような手順で原形を用いる形に言い換えることが可能です。
+    </p>
+    <ul>
+      <li>非動詞修飾形の {iti} を原形の {ti} に変える</li>
+      <li>{ti} 節全体を文末に移動させる</li>
+      <li>{ti} 節の直前にタデックを置く</li>
+    </ul>
+    <p>
+      ただし、3 つ目の手順で置くタデックは任意で、省略しても構いません。
+    </p>
+    <p>
+      例えば、2 つ前の例文を言い換えると以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{dusalat a tel e asafey, }<s>{ti feracis a'l e loc}</s>{.}</sh>
+        <ja>私は<s>あなたの手伝いをするほど</s>優しくない。</ja>
+      </li>
+    </xl>
+    <p>
+      もともとの {iti} 節が {ovel} を修飾していた場合は、この言い換えをした後に {ovel} を省略することができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{sâfat a tel e korac, }<s>{ti vomac teros a'l e met te taq atov}</s>{.}</sh>
+        <ja>私は<s>毎日飲んでいるくらい</s>お酒が好きだ。</ja>
+      </li>
+    </xl>
+    <p>
+      この言い換えをした後では、一般助接詞を接続詞として使った場合と同じような見た目になります。
+      ただし、一般助接詞の場合は副詞的用法をとることができましたが、特殊助接詞は副詞的用法にはできません。
+    </p>
+    <p>
+      なお、このような言い換えは、{ti} 以外の特殊助接詞でも、それが形容詞や副詞を修飾する接続詞として用いられていればいつでも可能です。
+      {ti} 以外の例としては、以下に取り上げる {feli} などがあり、また<section-number title="比較表現 I"/>でも出てきます。
+    </p>
+  </element>
+
+  <element title="{feli} と {tace}">
+    <p>
+      特殊助接詞の {feli} と {tace} は、ともに日本語の「～のように」に相当します。
+    </p>
+    <p>
+      まず {feli} は、非動詞修飾形の助詞として用いられると、形容詞や副詞を修飾して、その意味の度合いを比喩によって表します。
+      日本語の「まるで～のように」という表現をイメージすると分かりやすいでしょう。
+      動詞を修飾したい場合は、{ti} の場合と同様に {vel} を介します。
+    </p>
+    <xl>
+      <li>
+        <sh>{gisives ca ces e zat agilit }<s>{ifeli ginet}</s>{.}</sh>
+        <ja>彼は<s>針のように</s>尖ったものを刺された。</ja>
+      </li>
+      <li>
+        <sh>{déxat a tiris vo qôd }<s>{ovel}</s>{ }<s>{ifeli laxqov}</s>{.}</sh>
+        <ja>赤ちゃんがあそこで<s>まるで人形のように</s>眠っている。</ja>
+      </li>
+    </xl>
+    <p>
+      非動詞修飾形の {feli} は、以下のように接続詞としても用いることができます。
+      英語の as if のように使うことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pehorat e ces ovel }<s>{ifeli paqofat a's e xasol}</s>{.}</sh>
+        <ja>彼は<s>魂をなくしてしまったかのように</s>上の空だ。</ja>
+      </li>
+    </xl>
+    <p>
+      接続詞として使用している場合は、{ti} のときと同様に以下のような言い換えが可能です。
+    </p>
+    <xl>
+      <li>
+        <sh>{pehorat e ces }<s>{feli paqofat a's e xasol}</s>{.}</sh>
+        <ja>彼は<s>魂をなくしてしまったかのように</s>上の空だ。</ja>
+      </li>
+    </xl>
+    <p>
+      次に {tace} は、非動詞修飾形の助詞として名詞を修飾し、その名詞の代表例を提示します。
+      英語では such as などに相当します。
+    </p>
+    <xl>
+      <li>
+        <sh>{dulîdis a tel e xoq aqonef }<s>{itace fit}</s>{.}</sh>
+        <ja>私は<s>これのような</s>つまらない本は読まないだろう。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、{xoq aqonef} という名詞の塊を {itace fit} が修飾し、「つまらない本」の代表例として「これ」を提示しています。
+    </p>
+    <p>
+      なお、{tace} には接続詞の用法はありません。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>助</so><sh>{ke}</sh><ja>～という</ja></word>
+    <word><so>名</so><sh>{socad}</sh><ja>事件</ja></word>
+    <word><so>名</so><sh>{valgot}</sh><ja>熊</ja></word>
+    <word><so>名</so><sh>{fosnal}</sh><ja>村</ja></word>
+    <word><so>助</so><sh>{ti}</sh><ja>～するほど</ja></word>
+    <word><so>動</so><sh>{ferac}</sh><ja>手伝う</ja></word>
+    <word><so>名</so><sh>{korac}</sh><ja>酒</ja></word>
+    <word><so>名</so><sh>{taq}</sh><ja>日</ja></word>
+    <word><so>動</so><sh>{tov}</sh><ja>それぞれの</ja></word>
+    <word><so>助</so><sh>{feli}</sh><ja>まるで～のように</ja></word>
+    <word><so>助</so><sh>{tace}</sh><ja>～のような</ja></word>
+    <word><so>動</so><sh>{gisiv}</sh><ja>刺す</ja></word>
+    <word><so>動</so><sh>{gilit}</sh><ja>尖った</ja></word>
+    <word><so>名</so><sh>{ginet}</sh><ja>針</ja></word>
+    <word><so>名</so><sh>{tiris}</sh><ja>赤ちゃん</ja></word>
+    <word><so>名</so><sh>{laxqov}</sh><ja>人形</ja></word>
+    <word><so>動</so><sh>{pehor}</sh><ja>上の空にする</ja></word>
+    <word><so>名</so><sh>{xasol}</sh><ja>魂</ja></word>
+    <word><so>動</so><sh>{qonef}</sh><ja>つまらない</ja></word>
+    <word><so>名</so><sh>{fit}</sh><ja>これ</ja></word>
+  </word-list>
+
+</section>

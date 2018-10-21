@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="比較表現 II">
+
+  <example-list>
+    <li>
+      <sh>{di'nîpis a'c zi fêd ofev evêl ini qifat las.}</sh>
+      <ja>できるだけすぐにここから去れ。</ja>
+    </li>
+    <li>
+      <sh>{salot a ces e azécak ehiv ive lef i tel.}</sh>
+      <ja>彼は私の知人の中で最も勇敢だ。</ja>
+    </li>
+    <li>
+      <sh>{zêhises a ces e sálak acasat ehiv ica gulilsoz.}</sh>
+      <ja>彼は最も頭痛に効果的な薬を作り上げた。</ja>
+    </li>
+    <li>
+      <sh>{salet a lasav afik e aniscadey edès, ni revet a'l e'n lat.}</sh>
+      <ja>このアニメは思っていたほど感動的でなかった。</ja>
+    </li>
+  </example-list>
+
+  <element title="同等表現">
+    <p>
+      <section-number title="比較表現 I"/>で学んだ優劣表現と全く同様の方法で、「/A/ は /B/ と同じくらい /X/ だ」のような、2 つものの性質を比較してそれが同程度だということを述べる文を作ることができます。
+      違いは、「より」を意味する {mic} の代わりに「同じくらい」を意味する {vêl} を使うという点だけです。
+    </p>
+    <p>
+      優劣表現と構文は同じなので、いくつか例文を挙げるだけに留めておきます。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a cakul i loc e avaf }<s>{evêl}</s>{ }<s>{ini doldaz}</s>{.}</sh>
+        <ja>あなたの鞄は<s>ゾウと同じくらい</s>大きい。</ja>
+      </li>
+      <li>
+        <sh>{pa kocaqat a laxol kavat a e nelas alot }<s>{evêl}</s>{ }<s>{ini met i nellot}</s>{?}</sh>
+        <ja><s>キリンの首と同じくらい</s>長い首をもつ人間は存在しますか?</ja>
+      </li>
+      <li>
+        <sh>{di'nîpis a'c zi fêd ofev }<s>{evêl}</s>{ }<s>{ini qifat las}</s>{.}</sh>
+        <ja><s>できるだけ</s>すぐにここから去れ。</ja>
+      </li>
+    </xl>
+    <p>
+      1 つ目の文は通常の比較表現の構文の例で、2 つ目の文は {alot evêl ini met i nellot} という形容詞句として比較表現を用いた例です。
+    </p>
+    <p>
+      3 つ目の例文は、「すぐにここから去る」と「すぐにここから去ることが可能である」という 2 つの文の「すぐに」の度合いを比較して、それが同じくらいであることを命令しています。
+      そのため、「できるだけすぐに」の意味になるわけです。
+      {evêl ini qifat las} もしくは {evêl ini kilat las} は、「できるだけ」を意味する定形表現なので、このまま覚えてしまっても良いでしょう。
+    </p>
+  </element>
+
+  <element title="最上表現">
+    <p>
+      最後に 3 つ目のパターンの比較表現として、「/A/ は /B/ の中で最も /X/ だ」のような、特定の範囲の中で最もある性質を顕著にもっていることを表す文の作り方を説明します。
+    </p>
+    <p>
+      「彼は私の知人の中で最も勇敢だ」という文を例として作ってみましょう。
+      まず、比較の範囲を表す部分を取り除いて「彼は勇敢だ」という文を作ります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a ces e azécak.}</sh>
+        <ja>彼は勇敢だ。</ja>
+      </li>
+    </xl>
+    <p>
+      次に、比較する性質を表す形容詞か副詞を、副詞型不定詞の {hiv} を副詞にして修飾させます。
+      この {hiv} は「最も～」にような意味をもちます。
+      続いて、特殊助接詞の {ve} を非動詞修飾形にし、その直後に比較の範囲を表す名詞を置き、{ive} 句全体を {ehiv} の直後に置きます。
+    </p>
+    <p>
+      今回の場合、以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a ces e azécak }<s>{ehiv}</s>{ }<s>{ive lef i tel}</s>{.}</sh>
+        <ja>彼は<s>私の知人の中で</s><s>最も</s>勇敢だ。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{ve} がない最上表現">
+    <p>
+      比較範囲を表す {ive} 句はなくても構いません。
+      その場合は、文脈から想定される範囲での比較であると解釈されるか、もしくは他の同じ種類の全てのものとの比較であると解釈されます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa salat e pet a reláf ayalif }<s>{ehiv}</s>{?}</sh>
+        <ja><s>最も</s>人気のある曲は何ですか?</ja>
+      </li>
+    </xl>
+    <p>
+      例えば、CD ショップでとある客が店員に対してこの文を言ったのであれば、比較範囲はその店で CD として売っている曲になるでしょう。
+      もし特に文脈がないならば、比較範囲はこの世界に存在するあらゆる楽曲になります。
+    </p>
+  </element>
+
+  <element title="形容詞句としての最上表現">
+    <p>
+      優劣表現の場合と同様に、修飾詞と {ehiv} と {ive} 句のまとまり全体で「最も /X/ であるような」という形容詞句になっているので、これを他の名詞の修飾語にすることができます。
+      例えば、上で作った文に {azécak ehiv ive lef i tel} という表現が出てきますが、この部分だけで「私の知人の中で最も勇敢な」という意味で形容詞のように使うことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pîtet a haqpet e zis }<s>{azécak ehiv ive lef i tel}</s>{.}</sh>
+        <ja><s>私の知人の中で最も勇敢な</s>人がお化けを怖がっていた。</ja>
+      </li>
+    </xl>
+    <p>
+      以下に他の例文も挙げておきます。
+    </p>
+    <xl>
+      <li>
+        <sh>{zêhises a ces e sálak }<s>{acasat ehiv ica gulilsoz}</s>{.}</sh>
+        <ja>彼は<s>最も頭痛に効果的な</s>薬を作り上げた。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「頭痛に効果的だ」という性質が最も顕著である薬を作ったことを述べています。
+      したがって、「頭痛に効果的だ」という意味の {avasat ica gulilsoz} 全体を {ehiv} が修飾することになるので、本来ならば {avasat ica gulilsoz ehiv} という語順になるはずです。
+      しかし、これでは {ehiv} が {gulilsoz} を修飾しているように見えてしまうため、{ehiv} が {avasat} の直後に置かれています。
+      少し例外的ですが、助詞句のような複数単語から成る語句がすでに修飾している単語全体を別の 1 単語で修飾したい場合に、このような語句の入れ替えが起こる場合があります。
+    </p>
+  </element>
+
+  <element title="{dès} と {doqhiv}">
+    <p>
+      <section-number title="比較表現 I"/>では、{mic} という単語を使うことで、「/A/ は /B/ より /X/ だ」のように、/A/ と /B/ のそれぞれの /X/ の度合いを比較して /A/ の方が顕著であることを表せると学びました。
+      逆に、{mic} の対義語に当たる {dès} を代わりに用いることで、「/A/ は /B/ ほど /X/ でない」のように、/A/ の /X/ の度合いの方が小さいことも表せます。
+      この {dès} は英語の less に当たる単語です。
+    </p>
+    <p>
+      {dès} の使い方は {mic} と全く同じです。
+    </p>
+    <xl>
+      <li>
+        <sh>{salet a lasav afik e aniscadey }<s>{edès}</s>{, ni revet a'l e'n lat.}</sh>
+        <ja>このアニメは思っていた<s>ほど</s>感動的で<s>なかっ</s>た。</ja>
+      </li>
+    </xl>
+    <p>
+      この文は、アニメの実際の感動的の程度と事前に思っていた感動的の程度を比較して、{dès} が修飾している方、すなわち実際の感動的さの程度の方が低いことを表しています。
+    </p>
+    <p>
+      同様に、{hiv} の対義語として {doqhiv} という単語もあります。
+      {hiv} を用いると、「/A/ は最も /X/ だ」のように、/A/ が /X/ の度合いに関して最も顕著であることを表せますが、代わりに {doqhiv} を用いることで、/A/ が最も顕著でないことを表せます。
+      英語の least に相当する単語です。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a saq e taq anistecaf }<s>{edoqhiv}</s>{ itazi tel.}</sh>
+        <ja>今日は私にとって<s>最も</s>幸運<s>でない</s>日だ。</ja>
+      </li>
+    </xl>
+    <p>
+      この文は、幸運さの程度について今日が最も低いことを表すので、「最も幸運でない」もしくは「最も不運だ」という意味になります。
+    </p>
+    <p>
+      なお、ここに出てくる {itazi} は特殊助接詞である {tazi} の非動詞修飾形です。
+      {tazi} は、非動詞修飾形の助詞として用いられ、形容詞や副詞を修飾し、判断の視点を表します。
+      日本語の「～にとって」に相当する単語です。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>副</so><sh>{vêl}</sh><ja>同じくらい</ja></word>
+    <word><so>名</so><sh>{cakul}</sh><ja>鞄</ja></word>
+    <word><so>動</so><sh>{vaf}</sh><ja>大きい</ja></word>
+    <word><so>名</so><sh>{doldaz}</sh><ja>ゾウ</ja></word>
+    <word><so>動</so><sh>{kocaq}</sh><ja>存在する</ja></word>
+    <word><so>名</so><sh>{nelas}</sh><ja>首</ja></word>
+    <word><so>動</so><sh>{lot}</sh><ja>長い</ja></word>
+    <word><so>名</so><sh>{nellot}</sh><ja>キリン</ja></word>
+    <word><so>動</so><sh>{zécak}</sh><ja>勇敢な</ja></word>
+    <word><so>副</so><sh>{hiv}</sh><ja>最も</ja></word>
+    <word><so>名</so><sh>{reláf}</sh><ja>曲</ja></word>
+    <word><so>動</so><sh>{yalif}</sh><ja>人気のある</ja></word>
+    <word><so>動</so><sh>{pît}</sh><ja>怖がらせる</ja></word>
+    <word><so>名</so><sh>{haqpet}</sh><ja>お化け</ja></word>
+    <word><so>動</so><sh>{zêhis}</sh><ja>作り上げる</ja></word>
+    <word><so>名</so><sh>{sálak}</sh><ja>薬</ja></word>
+    <word><so>動</so><sh>{casat}</sh><ja>効果的な</ja></word>
+    <word><so>名</so><sh>{gulilsoz}</sh><ja>頭痛</ja></word>
+    <word><so>副</so><sh>{dès}</sh><ja>より～でない</ja></word>
+    <word><so>名</so><sh>{lasav}</sh><ja>アニメ</ja></word>
+    <word><so>動</so><sh>{niscadey}</sh><ja>感動的な</ja></word>
+    <word><so>動</so><sh>{rev}</sh><ja>思う</ja></word>
+    <word><so>副</so><sh>{doqhiv}</sh><ja>最も～ない</ja></word>
+    <word><so>動</so><sh>{nistecaf}</sh><ja>幸運な</ja></word>
+    <word><so>助</so><sh>{tazi}</sh><ja>～にとって</ja></word>
+  </word-list>
+
+</section>

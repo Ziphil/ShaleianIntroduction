@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+  <!-- 構文の形を表現するときに括弧は必要か (form コメント) -->
+  <!-- 語句の意味の説明で「e 句のことを」のような部分を括弧で囲むか (paren コメント) -->
+
+  <title/>
+
+  <import src="preface.zpml" full="true"/>
+  <content-table/>
+
+  <blank/>
+  <import src="part_1.zpml"/>
+  <import src="letters_and_pronunciation.zpml"/>
+  <import src="verbs_and_prepositional_phrases.zpml"/>
+  <import src="adjectives_and_adverbs.zpml"/>
+  <import src="lexical_and_grammatical_categories.zpml"/>
+  <import src="conjugation_of_infinitives_1.zpml"/>
+  <import src="conjugation_of_infinitives_2.zpml"/>
+  <import src="exercise_1.zpml" full="true"/>
+  <import src="special_verbs.zpml"/>
+  <import src="negatives.zpml"/>
+  <import src="questions.zpml"/>
+  <import src="order_of_prepositional_phrases.zpml"/>
+  <import src="passive_like_expression.zpml"/>
+  <import src="exercise_2.zpml" full="true"/>
+
+  <blank/>
+  <import src="part_2.zpml"/>
+  <import src="connectives.zpml"/>
+  <import src="particles_as_conjunctions.zpml"/>
+  <import src="kin_clause.zpml"/>
+  <import src="auxiliary_use_of_verbs.zpml"/>
+  <import src="expressions_for_iteration.zpml"/>
+  <import src="exercise_3.zpml" full="true"/>
+  <import src="expressions_for_imperative.zpml"/>
+  <import src="abbreviations.zpml"/>
+  <import src="avoidance_of_repetitions.zpml"/>
+  <import src="relative_clause.zpml"/>
+  <import src="exercise_4.zpml" full="true"/>
+  <import src="nonverb_modifying_forms_of_normal_particles.zpml"/>
+  <import src="special_particles.zpml"/>
+  <import src="expressions_for_comparison_1.zpml"/>
+  <import src="expressions_for_comparison_2.zpml"/>
+  <import src="exercise_5.zpml" full="true"/>
+
+  <blank/>
+  <import src="part_3.zpml"/>
+  <import src="negatives_advanced.zpml"/>
+  <import src="questions_advanced.zpml"/>
+  <import src="reading_of_numbers.zpml"/>
+  <import src="usage_of_numerals.zpml"/>
+  <import src="exercise_6.zpml" full="true"/>
+  <import src="expressions_for_comparison_advanced.zpml"/>
+  <import src="interjections.zpml"/>
+  <import src="direct_and_indirect_questions.zpml"/>
+  <import src="rethorical_expressions.zpml"/>
+  <import src="exercise_7.zpml" full="true"/>
+
+  <!-- <blank full="true"/> -->
+  <!-- <import src="part_test.zpml" full="true"/> -->
+  <!-- <import src="layout_test.zpml" full="true"/> -->
+
+  <exercise-answer full="true"/>
+  <index full="true"/>
+
+  <blank full="true"/>
+  <blank full="true"/>
+  <import src="colophon.zpml" full="true"/>
+
+</root>

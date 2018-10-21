@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="命令表現">
+
+  <example-list>
+    <li>
+      <sh>{ditat fôvis a loc e téd.}</sh>
+      <ja>扉を開けてください。</ja>
+    </li>
+    <li>
+      <sh>{duqetanis a loc!}</sh>
+      <ja>動くな!</ja>
+    </li>
+  </example-list>
+
+  <element title="命令表現">
+    <p>
+      シャレイア語には命令を表す特別な構文はなく、代わりに {dit} という単語を使います。
+      {dit} を動詞として用いて「{ditat e kin} [～]」という形にすると、これで「～してください」という命令や依頼の意味が出ます。<!-- form -->
+      ただし、{dit} は助動詞的に用いられることがほとんどで、{e kin} の部分が残るのは非常に稀です。
+    </p>
+    <p>
+      この {dit} そのものに意味はなく、命令文であることを示すためのマーカーのような働きがあるだけです。
+      また、{dit} は常に動詞として用いられ、さらに常に現在時制継続相自動詞の {ditat} の形になり、他の活用形にはなりません。
+    </p>
+    <p>
+      命令された内容が実際に行われるのは命令より後の時間なので、命令内容を表す {kin} 節の中の動詞は未来時制で使われるのが普通です。
+      もしくは、「今すぐやってください」という意味合いを込めて、{kin} 節の動詞を現在時制開始相にすることもあります。
+    </p>
+    <p>
+      命令は話している相手にするものなので、命令内容には「あなた」を意味する {loc} が含まれるはずですが、この {loc} を省略することはしません。
+      通常の {kin} 節で省略しないのと同様です。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{ditat}</s>{ fôvis a loc e téd.}</sh>
+        <ja>扉を開けて<s>ください</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      {ditat} に続く動詞を否定形にすることで、「～しないことをしてください」すなわち「～しないでください」という禁止を表すことができます。
+      {dit} を否定形にするわけではないので注意してください。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{ditat}</s>{ }<s>{dudovekis}</s>{ a loc e likis anav.}</sh>
+        <ja>黄色い線を<s>踏まないで</s><s>ください</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      命令内容の中に「私たち」を意味する {zál} が {loc} の代わりに含まれている場合は、「～しましょう」のような勧誘の意味になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{ditat}</s>{ sôdis ofelaz a }<s>{zál}</s>{ e tonasxav vo vocik aquk.}</sh>
+        <ja>あのテラスで一緒に昼食を食べま<s>しょう</s>。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{dit} のない命令表現">
+    <p>
+      命令表現では {dit} を使うと説明しましたが、口語ではこの {dit} が省略されることがあります。
+      {dit} を省略した場合、少し乱暴な命令という印象になります。
+      緊急時などで少しでも短く命令内容を言いたいときにも使われます。
+    </p>
+    <xl>
+      <li>
+        <sh>{duqetanis a loc!}</sh>
+        <ja>動くな!</ja>
+      </li>
+    </xl>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{dit}</sh></word>
+    <word><so>動</so><sh>{fôv}</sh><ja>開ける</ja></word>
+    <word><so>名</so><sh>{téd}</sh><ja>扉</ja></word>
+    <word><so>動</so><sh>{dovek}</sh><ja>踏む</ja></word>
+    <word><so>名</so><sh>{likis}</sh><ja>線</ja></word>
+    <word><so>動</so><sh>{nav}</sh><ja>黄色い</ja></word>
+    <word><so>名</so><sh>{zál}</sh><ja>私たち</ja></word>
+    <word><so>動</so><sh>{felaz}</sh><ja>一緒に</ja></word>
+    <word><so>名</so><sh>{tonasxav}</sh><ja>昼食</ja></word>
+    <word><so>名</so><sh>{vocik}</sh><ja>テラス</ja></word>
+    <word><so>動</so><sh>{qetan}</sh><ja>動く</ja></word>
+  </word-list>
+
+</section>

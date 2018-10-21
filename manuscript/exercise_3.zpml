@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 12, 13 -->
+    <state>次の文を適切な接続詞を用いてシャレイア語に訳しなさい。</state>
+    <li>私はリンゴかミカンが欲しい。</li>
+    <li>この本は古いのだが価値がある。</li>
+    <!-- <li>私は走っていて、彼は歩いている。</li> -->
+    <li>彼は家を買うために、私からお金を盗んだ。</li>
+    <!-- <li>彼はお金をなくしたので、その小説を買わなかった。</li> -->
+    <li>私が病院に着いたとき、彼は寝ていた。</li>
+  </element>
+
+  <answer>
+    <li>{fesalat a tel e sakil é lesit.}</li>
+    <li>{salat a xoq afik e aqôl à asokos.}</li>
+    <!-- <li>{vilisac a tel, lo catac a ces.}</li> -->
+    <li>{beqomes a ces zi tel e kisol, so fegis a ces e sod.}</li>
+    <!-- <li>{dufeges a ces e lacat acik, vade paqofes a ces e kisol.}</li> -->
+    <li>{déxet a ces, te zêfes a tel ca kosben.}</li>
+  </answer>
+
+  <element> <!-- 12 -->
+    <state>次の文を {á} (もしくは {lá}) を用いてシャレイア語に訳しなさい。</state>
+    <li>あなたは犬と猫ではどちらが好きですか?</li>
+    <li>あなたが今いるのは家ですか、それとも学校ですか?</li>
+    <li>彼は勉強しているのか部屋を掃除しているのかどちらですか?</li>
+  </element>
+
+  <answer>
+    <li>{pa sâfat a loc e dales á monaf?}</li>
+    <li>{pa qetat a loc te saq vo sod á kossax?}</li>
+    <li>{pa sohizac a ces, lá pa tayelac a ces e sokul?}</li>
+  </answer>
+
+  <element> <!-- 14 -->
+    <state>次の文を {kin} 節を用いてシャレイア語に訳しなさい。</state>
+    <li>私がもう出かけてしまったということを彼は知っている。</li>
+    <li>私は海で泳ぐことが好きだ。</li>
+  </element>
+
+  <answer>
+    <li>{sokat a ces e kin folanes ovip a tel.}</li>
+    <li>{sâfat a tel e kin ricamos a tel.}</li>
+  </answer>
+
+  <element> <!-- 15 -->
+    <state>次の文中の動詞を助動詞的用法にして文を書き換えなさい。</state>
+    <li>{rafat a tel e kin yepelis a tel.}</li>
+    <li>{kilat a ces e kin qikos a ces e tolék asaret ebam.}</li>
+    <li>{dozat e kin lakac a loc vo fêd qi qilxaléh.}</li>
+  </element>
+
+  <answer>
+    <li>{rafat yepelis a tel.}</li>
+    <li>{kilat qikos a ces e tolék asaret ebam.}</li>
+    <li>{dozat lakac a loc vo fêd qi qilxaléh.}</li>
+  </answer>
+
+  <element> <!-- 16 -->
+    <state>次の文は本来は反復表現にする必要があります。正しい文に直しなさい。</state>
+    <li>{terac otêl a tel e cèrzaf.}</li>
+    <li>{dufetekac a refet e tel zite tazîkhil.}</li>
+  </element>
+
+  <answer>
+    <li>{vomac teros otêl a tel e cèrzaf.}</li>
+    <li>{vomac dufetekos a refet e tel zite tazîkhil.}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{pa salat a qos e hinof á fax á fakrêy i loc?}</li>
+    <li>{cife sôdec a qaled i tel e retat, lîdec a ces e xoq.}</li>
+    <li>{zedat kotikis okôk a tel e qazek aquk.}</li>
+    <li>{kéces a ces ca tel e kin lices a ces e xiflohis. dà, salet a cal e nodom.}</li>
+    <li>{ri etut kilit lohisos a tel vo hivas, vomic lanos a tel ca amerikas so câsos a tel e loc.}</li>
+  </element>
+
+  <answer>
+    <li>あの人はあなたの姉ですか、それとも母親ですか、それとも彼女ですか?</li>
+    <li>私の弟はお菓子を食べながら本を読んでいた。</li>
+    <li>私はあの男を必ず見つけようと思っている。</li>
+    <li>彼は私に流れ星を見たといった。しかし、それは嘘だった。</li>
+    <li>もし私が空を飛ぶことだけでもできたら、私はあなたに会いに何度もアメリカに行くでしょう。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li>私はその女の子にピンク色でかわいらしいワンピースを着せた。</li>
+    <li>私は友達と一緒に海に行きたい。</li>
+    <li>私が彼に電話したことさえも彼を驚かせた。</li>
+    <li>私は彼を殴ってしまった。なぜなら、彼がときどき私を馬鹿にしていたからだ。</li>
+    <li>もし私が彼からその話を伝えられていなかったら、私は今ここにはいないでしょう。</li>
+  </element>
+
+  <answer>
+    <li>{kômez a tel li hay acik e hâlfeloq ahafas o ahâl.}</li>
+    <li>{rafat lanis a tel ca riy fe refet.}</li>
+    <li>{zazes e ces a kin liqetas a tel e ces.}</li>
+    <li>{bozetes a tel e ces. vade, vomec déqitos otêl a ces e tel.}</li>
+    <li>{ri cazes ca tel a ces e rát acik, duqetat a tel te sot vo fêd.}</li>
+  </answer>
+
+  <word-list>
+    <word><so>動</so><sh>{fetek}</sh><ja>連絡する</ja></word>
+    <word><so>名</so><sh>{qos}</sh><ja>あの人</ja></word>
+    <word><so>名</so><sh>{retat}</sh><ja>お菓子</ja></word>
+    <word><so>名</so><sh>{sal}</sh><ja>そのこと</ja></word>
+    <word><so>名</so><sh>{nodom}</sh><ja>嘘</ja></word>
+    <word><so>名</so><sh>{amerikas}</sh><ja>アメリカ</ja></word>
+  </word-list>
+
+</exercise>

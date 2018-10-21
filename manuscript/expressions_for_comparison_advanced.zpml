@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="比較表現発展">
+
+  <example-list>
+    <li>
+      <sh>{salat a desek afik e ahap emic ile yen 180 ini met aquk.}</sh>
+      <ja>この靴はあの靴より 180 円安い。</ja>
+    </li>
+    <li>
+      <sh>{salat a ces e adôz emic ile vâl 1&#xB7;4 ini tel.}</sh>
+      <ja>彼の体重は私の 1.4 倍だ。</ja>
+    </li>
+    <li>
+      <sh>{kilat vilisos a ces ovit ehiv ile cav ayos ive zál.}</sh>
+      <ja>彼は私たちの中で 3 番目に速く走ることができる。</ja>
+    </li>
+    <li>
+      <sh>{keqilac a zál e sod aqôl ilevo latvác 150.}</sh>
+      <ja>私たちは築 150 年以上の家に住んでいる。</ja>
+    </li>
+  </example-list>
+
+  <element title="差異の数値による明示">
+    <p>
+      <section-number title="比較表現 I"/>では優劣表現の作り方を学びました。
+      しかし、2 つのものを比較してどちらがより甚だしいかを単に述べるだけではなく、その差が具体的にどのくらいなのかを述べたい場合もあるでしょう。
+      そのような場合は、<section-number title="数詞の用法"/>でも出てきた {le} を用います。
+    </p>
+    <p>
+      {le} の使い方は<section-number title="数詞の用法"/>で説明した通りで、「{ile}＋単位＋数詞」という形をとります。<!-- form -->
+      例として、以下の優劣表現を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a desek afik e ahap emic ini met aquk.}</sh>
+        <ja>この靴はあの靴より安い。</ja>
+      </li>
+    </xl>
+    <p>
+      {ile} 句を {emic} に修飾させることで差異を数値で表現することができます。
+      多くの場合で {emic} にはすでに比較対象を表す {ini} 句が修飾していますが、この場合は {ile} 句は {emic} の直後で {ini} 句の直前に入れるのが普通です。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a desek afik e ahap }<s>{emic ile yen 180}</s>{ ini met aquk.}</sh>
+        <ja>この靴はあの靴より <s>180 円</s>安い。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="倍数">
+    <p>
+      上で説明した {ile} 句による差異の表現において、単位を表す名詞の代わりに「倍」を意味する {vâl} を置くことで、差異を倍数で表すことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e adôz }<s>{emic ile vâl 1&#xB7;4}</s>{ ini tel.}</sh>
+        <ja>彼の体重は私の <s>1.4 倍</s>だ。</ja>
+      </li>
+    </xl>
+    <p>
+      上の文の倍数を 1.4 の代わりに例えば 0.8 にすると、意味はそのまま「彼の体重は私の 0.8 倍」になります。
+      倍数が 1 未満なので、実際に重い方は「彼」ではなく「私」になりますが、優劣構文の上では「彼」の方に程度が甚だしいことを表す {mic} が付きます。
+    </p>
+    <p>
+      倍数が 1 未満になっている別の例も挙げておきましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a japan e avâc }<s>{emic ile vâl &#xB7;04}</s>{ ini tanas.}</sh>
+        <ja>日本は中国の <s>0.04 倍</s>の広さだ。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="順位">
+    <p>
+      <section-number title="比較表現 II"/>で学んだ最上表現では、何かが特定の範囲の中で最も優れていることしか表せませんでした。
+      しかし、{le} を用いることで 2 番目や 3 番目なども表現することができます。
+      具体的には、「番目」などを意味する {cav} を用いて「{ile cav} ＋数詞」という形を作り、これを {ehiv} に修飾させます。<!-- form -->
+    </p>
+    <p>
+      以下の文を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{kilat vilisos a ces ovit ehiv ive zál.}</sh>
+        <ja>彼は私たちの中で最も速く走ることができる。</ja>
+      </li>
+    </xl>
+    <p>
+      例えば、最も速いのではなく 3 番目に速いことを表したいとすれば、{ile cav ayos} を {ehiv} に修飾させます。
+      なお、{ehiv} には比較範囲を表す {ive} 句が修飾していることが多いですが、その場合は {ile} 句は {ive} 句の前に入れるのが普通です。
+    </p>
+    <xl>
+      <li>
+        <sh>{kilat vilisos a ces ovit }<s>{ehiv ile cav ayos}</s>{ ive zál.}</sh>
+        <ja>彼は私たちの中で <s>3 番目に</s>速く走ることができる。</ja>
+      </li>
+    </xl>
+    <p>
+      {hiv} の代わりに {doqhiv} が用いられている場合に {ile} 句で順位を明示すると、「最も優れていない順に～番目」すなわち「下から～番目」を表すことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{citkulat a ces ca takâd avalát }<s>{edoqhiv ile cav aqec}</s>{.}</sh>
+        <ja>彼は<s>下から 2 番目に有名な</s>チームに所属している。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title=" ｢以上」と「以下｣ ">
+    <p>
+      <section-number title="数詞の用法"/>において、{le} を用いて形容詞の程度を数値で説明する構文について学びました。
+      例として、以下の文を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{keqilac a zál e sod aqôl ile latvác 150.}</sh>
+        <ja>私たちは築 150 年の家に住んでいる。</ja>
+      </li>
+    </xl>
+    <p>
+      ここでは、家の古さが 150 年であることを述べていますが、文中で用いられている {le} の代わりに以下の表に示す助接詞を使うことで、「150 年ちょうど」ではなく「150 年以上」などを表現することができます。
+    </p>
+    <table>
+      <tr><td>単語</td><td>意味</td></tr>
+      <tr><td>{levo}</td><td>～以上</td></tr>
+      <tr><td>{lehi}</td><td>～超過</td></tr>
+      <tr><td>{lede}</td><td>～以下</td></tr>
+      <tr><td>{letu}</td><td>～未満</td></tr>
+    </table>
+    <p>
+      例えば、{levo} を用いると以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{keqilac a zál e sod aqôl }<s>{ilevo}</s>{ latvác 150.}</sh>
+        <ja>私たちは築 150 年<s>以上の</s>家に住んでいる。</ja>
+      </li>
+    </xl>
+    <p>
+      次に、「3 人以上」や「3 人未満」のように、基数について「以上」や「未満」などを表現したい場合を考えてみましょう。
+      <section-number title="数詞の用法"/>で説明したように、基数を表現するには数詞の前に {al'} を付け、名詞に修飾させます。
+      ここに {le} は出てこないので、そのままでは上の表に挙げた助接詞を使うことはできませんが、{al'} の縮約前の形である {avôl ile lêk} には {le} が使われています。
+      そこで、この略記前の形における {le} を上の表の助接詞に変えます。
+    </p>
+    <xl>
+      <li>
+        <sh>{ditat cákis a'c fe refet avôl }<s>{iletu}</s>{ lêk axal.}</sh>
+        <ja>3 人<s>未満の</s>友達と一緒に来てください。</ja>
+      </li>
+    </xl>
+    <p>
+      序数の場合も同様に、{ac'} の縮約前の形 {acál ile cav} を用いて、ここに含まれている {le} を上の表の助接詞に変えます。
+    </p>
+    <p>
+      {ilevo lêk axal} は「3 個以上の」の意味なので 3 個を含みますが、{ilehi lêk axal} は「3 個超の」となり 3 個は含みません。
+      このように、{levo} と {lehi} にはその数を含むか含まないかの違いがあります。
+      しかし、数が大きくなると、その数を含むか含まないかがあまり重要ではなくなる場合があります。
+      例えば、「5000 人以上が来た」と言いたい場合、正確な人数を伝えたいという意図がなければ、5000 人を含むかどうかはあまり重要ではありません。
+      このような場合、{levo} を用いても {lehi} を用いても良いわけですが、{levo} の方を用いることが多いです。
+    </p>
+    <xl>
+      <li>
+        <sh>{cákes te saq ca kosrahit afik a zis avôl }<s>{ilevo}</s>{ lêk 5000.}</sh>
+        <ja>今日は 5000 人<s>以上の</s>人がこの遊園地に来た。</ja>
+      </li>
+    </xl>
+    <p>
+      {lede} と {letu} の場合も同様で、どちらを用いても意味がほとんど変わらないなら {lede} の方を使います。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>名</so><sh>{desek}</sh><ja>靴</ja></word>
+    <word><so>動</so><sh>{hap}</sh><ja>安い</ja></word>
+    <word><so>名</so><sh>{yen}</sh><ja>1 円</ja></word>
+    <word><so>名</so><sh>{vâl}</sh><ja>1 倍</ja></word>
+    <word><so>動</so><sh>{doz}</sh><ja>重い</ja></word>
+    <word><so>名</so><sh>{japan}</sh><ja>日本</ja></word>
+    <word><so>動</so><sh>{vâc}</sh><ja>広い</ja></word>
+    <word><so>名</so><sh>{tanas}</sh><ja>中国</ja></word>
+    <word><so>動</so><sh>{citkul}</sh><ja>所属する</ja></word>
+    <word><so>名</so><sh>{takâd}</sh><ja>チーム</ja></word>
+    <word><so>動</so><sh>{valát}</sh><ja>有名な</ja></word>
+    <word><so>助</so><sh>{levo}</sh><ja>～以上の</ja></word>
+    <word><so>助</so><sh>{lehi}</sh><ja>～超過の</ja></word>
+    <word><so>助</so><sh>{lede}</sh><ja>～以下の</ja></word>
+    <word><so>助</so><sh>{letu}</sh><ja>～未満の</ja></word>
+  </word-list>
+
+</section>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="動詞と助詞句">
+
+  <example-list>
+    <li>
+      <sh>{hâres a tel.}</sh>
+      <ja>私は笑った。</ja>
+    </li>
+    <li>
+      <sh>{sôdes a ces e sakil.}</sh>
+      <ja>彼はリンゴを食べた。</ja>
+    </li>
+    <li>
+      <sh>{qoletes a tel e xoq i ces.}</sh>
+      <ja>私は彼の本を売った。</ja>
+    </li>
+  </example-list>
+
+  <element title="注意">
+    <p>
+      シャレイア語では、多くの単語が辞書に載っている形から変化して文中に現れます。
+    </p>
+    <p>
+      したがって、最初にその変化の仕方について学んだ後に、語順や構文などの文法に触れるのが良いのかもしれません。
+      しかし、何も言語について知らない状態で単語の変化だけ学んでも、無味乾燥でおもしろくないでしょう。
+      そこでこの本では、まずはシャレイア語の雰囲気を掴んでもらうため、最も根本となる文の構造について最初に触れていきたいと思います。
+    </p>
+    <p>
+      単語の活用は<section-number title="不定詞の活用 I"/>, <section-number title="不定詞の活用 II"/>, <section-number title="助接詞の非動詞修飾形"/>で扱います。
+      それまでは、活用についてはあまり深く考えず、どのような種類の単語がどのような位置に置かれるのかに注目するようにしてください。
+    </p>
+  </element>
+
+  <element title="動詞が必要">
+    <p>
+      シャレイア語では、少数の例外を除いて全ての文に動詞が必要です。
+      動詞は文頭に置かれます。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{hâres}</s>{.}</sh>
+        <ja><s>笑った</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この文の {hâres} は「笑った」という意味の動詞です。
+      {hâres} は {hâr} という単語が活用した形ですが、活用については今後扱いますので、まずは {hâres} で 1 つの動詞だと考えてください。 
+    </p>
+  </element>
+
+  <element title="助詞句">
+    <p>
+      動詞の「笑った」だけでは誰が笑ったか分かりません。
+      「私が」のような主語を明示したくなります。
+    </p>
+    <p>
+      「私が」や「リンゴを」のような動詞の内容や時刻などを説明する句は、助詞と名詞の組み合わせによって作られます。
+      助詞は、日本語の「～が」や「～を」と同じく名詞の文中での意味的な役割を表し、名詞の前に置かれます。
+    </p>
+    <p>
+      以下に基本的な助詞を示します。
+      助詞はこれ以外にもありますが、最低限これだけは抑えておきましょう。
+    </p>
+    <table>
+      <tr><td>助詞</td><td colspan="2">意味</td></tr>
+      <tr><td>{a}</td><td>～が, ～は</td><td>主語</td></tr>
+      <tr><td>{e}</td><td>～を</td><td>目的語</td></tr>
+      <tr><td>{ca}</td><td>～に, ～へ</td><td>到達点, 相手</td></tr>
+      <tr><td>{zi}</td><td>～から</td><td>起点</td></tr>
+      <tr><td>{te}</td><td>～に</td><td>時刻</td></tr>
+      <tr><td>{vo}</td><td>～で</td><td>場所</td></tr>
+    </table>
+    <p>
+      例えば、主語を表す助詞 {a} を「私」を表す名詞 {tel} の前に置いて {a tel} とすることで、「私が」という語句を作ることができます。
+      このような助詞と名詞の塊を「助詞句」と呼びます。
+      もしくは、使われている助詞の名前を明示して、「{a} 句」のように呼ぶことも多いです。
+    </p>
+    <p>
+      なお、上の表に対応する日本語の助詞を載せましたが、多くの場合でこの通りの対応になるものの、必ずしもぴったり一致するわけではありません。
+      日本語の助詞と一致しない例は<section-number title="助詞句の順序"/>で扱います。
+    </p>
+    <p>
+      助詞句は動詞の後に置かれます。
+    </p>
+    <xl>
+      <li>
+        <sh>{hâres }<s>{a tel}</s>{.}</sh>
+        <ja><s>私が</s>笑った。</ja>
+      </li>
+    </xl>
+    <p>
+      助詞句が 2 つ以上ある場合は、動詞の後にそれらを並べます。
+    </p>
+    <xl>
+      <li>
+        <sh>{sôdes }<s>{a ces}</s>{ }<s>{e sakil}</s>{.}</sh>
+        <ja><s>彼は</s><s>リンゴを</s>食べた。</ja>
+      </li>
+    </xl>
+    <p>
+      助詞句を並べる順番に文法上の制約はないので、話者が自由に並べることができます。
+      しかし実際には、助詞句の順番にはある程度の傾向があります。
+      これについては<section-number title="助詞句の順序"/>で詳しく学びます。
+      それまでは、主語 ({a} 句) を最初に置き、それ以外の助詞句をその後に並べると考えてください。
+      また、日本語のように主語を省略することは基本的にしません。
+    </p>
+  </element>
+
+  <element title="助詞の使用例">
+    <p>
+      上の表に挙げた各助詞の用法をもう少し詳しく見てみましょう。
+    </p>
+    <p>
+      まず {a} と {e} は、それぞれ動詞の主語と目的語を表す助詞です。
+      それぞれ日本語の「～は」と「～を」にほぼ対応します。
+    </p>
+    <xl>
+      <li>
+        <sh>{lices }<s>{a tel}</s>{ }<s>{e nát}</s>{.}</sh>
+        <ja><s>私は花を</s>見た。</ja>
+      </li>
+    </xl>
+    <p>
+      次に {ca} は、移動を表す動詞の行き先や、動詞のいわゆる間接目的語などを表します。
+      日本語では「～に」や「～へ」に相当することがほとんどですが、「～を」に対応する場合もあります。
+    </p>
+    <xl>
+      <li>
+        <sh>{lanes a tel }<s>{ca naflat}</s>{.}</sh>
+        <ja>私は<s>公園に</s>行った。</ja>
+      </li>
+      <li>
+        <sh>{séqes a tel e sokiq }<s>{ca ces}</s>{.}</sh>
+        <ja>私は腕時計を<s>彼に</s>あげた。</ja>
+      </li>
+    </xl>
+    <p>
+      {zi} は、{ca} の逆で移動を表す動詞の出発点などを表します。
+      日本語では「～から」が相当します。
+    </p>
+    <xl>
+      <li>
+        <sh>{nifetes a tel e sakil }<s>{zi sod}</s>{.}</sh>
+        <ja>私はリンゴを<s>家から</s>持って来た。</ja>
+      </li>
+    </xl>
+    <p>
+      {te} は、動詞が表す動作を行った時刻を表します。
+      例えば、「昨日」はシャレイア語で {tazîk} と言いますが、これは英語の yesterday と違って名詞なので、{te} とともに {te tazîk} のように使われます。
+    </p>
+    <xl>
+      <li>
+        <sh>{zédices a ces }<s>{te tazîk}</s>{.}</sh>
+        <ja>彼は<s>昨日</s>運動した。</ja>
+      </li>
+    </xl>
+    <p>
+      最後に {vo} は、動詞が表す動作を行った場所を表します。
+      例えば、「ここ」はシャレイア語で {fêd} ですが、これも英語の here と違って名詞としてしか用いないので、{vo fêd} とする必要があります。
+    </p>
+    <xl>
+      <li>
+        <sh>{kotikes a tel e monaf }<s>{vo fêd}</s>{.}</sh>
+        <ja>私は猫を<s>ここで</s>見つけた。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{i}">
+    <p>
+      少し特殊な助詞に {i} というものがあります。
+      これは日本語の「～の」に相当します。
+      名詞を伴って助詞句を作るのは同じですが、できた {i} 句は動詞と一緒に使われるのではなく、名詞を修飾します。
+    </p>
+    <p>
+      例えば、この {i} と「彼」を意味する {ces} を組み合わせれば、{i ces} という助詞句ができます。
+      これは「彼の」という意味で、名詞を修飾する語句になります。
+      したがって、例えば「本」を意味する {xoq} の後ろにこの助詞句を置いて {xoq i ces} とすることで、「彼の本」を表現することができます。
+      {i} 句は修飾する名詞の後ろに置かれることに注意してください。
+    </p>
+    <p>
+      {i} 句とそれが修飾する名詞によって新しい大きな名詞の塊ができるので、これにさらに助詞をつけて文中で用いることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{qoletes a tel }<s>{e xoq i ces}</s>{.}</sh>
+        <ja>私は<s>彼の本を</s>売った。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「彼の本」を意味する {xoq i ces} の前に目的語を表す {e} を置くことで、「彼の本を」という助詞句を作っています。
+      これを「売った」という意味の動詞 {qoletes} とともに使うことで、「彼の本を売った」という文になっています。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{hâr}</sh><shd>{hâres}</shd><ja>笑う</ja></word>
+    <word><so>助</so><sh>{a}</sh><ja>～が, ～は</ja></word>
+    <word><so>助</so><sh>{e}</sh><ja>～を</ja></word>
+    <word><so>助</so><sh>{ca}</sh><ja>～に, ～へ</ja></word>
+    <word><so>助</so><sh>{zi}</sh><ja>～から</ja></word>
+    <word><so>助</so><sh>{te}</sh><ja>～に</ja></word>
+    <word><so>助</so><sh>{vo}</sh><ja>～で</ja></word>
+    <word><so>名</so><sh>{tel}</sh><ja>私</ja></word>
+    <word><so>動</so><sh>{sôd}</sh><shd>{sôdes}</shd><ja>食べる</ja></word>
+    <word><so>名</so><sh>{ces}</sh><ja>彼, 彼女</ja></word>
+    <word><so>名</so><sh>{sakil}</sh><ja>リンゴ</ja></word>
+    <word><so>動</so><sh>{lic}</sh><shd>{lices}</shd><ja>見る</ja></word>
+    <word><so>名</so><sh>{nát}</sh><ja>花</ja></word>
+    <word><so>動</so><sh>{lan}</sh><shd>{lanes}</shd><ja>行く</ja></word>
+    <word><so>名</so><sh>{naflat}</sh><ja>公園</ja></word>
+    <word><so>動</so><sh>{séq}</sh><shd>{séqes}</shd><ja>あげる</ja></word>
+    <word><so>名</so><sh>{sokiq}</sh><ja>腕時計</ja></word>
+    <word><so>動</so><sh>{nifet}</sh><shd>{nifetes}</shd><ja>持って来る</ja></word>
+    <word><so>名</so><sh>{sod}</sh><ja>家</ja></word>
+    <word><so>名</so><sh>{tazîk}</sh><ja>昨日</ja></word>
+    <word><so>動</so><sh>{zédic}</sh><shd>{zédices}</shd><ja>運動する</ja></word>
+    <word><so>名</so><sh>{fêd}</sh><ja>ここ</ja></word>
+    <word><so>動</so><sh>{kotik}</sh><shd>{kotikes}</shd><ja>見つける</ja></word>
+    <word><so>名</so><sh>{monaf}</sh><ja>猫</ja></word>
+    <word><so>助</so><sh>{i}</sh><ja>～の</ja></word>
+    <word><so>名</so><sh>{xoq}</sh><ja>本</ja></word>
+    <word><so>動</so><sh>{qolet}</sh><shd>{qoletes}</shd><ja>売る</ja></word>
+  </word-list>
+
+</section>

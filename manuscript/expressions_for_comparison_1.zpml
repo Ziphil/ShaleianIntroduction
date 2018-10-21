@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="比較表現 I">
+
+  <example-list>
+    <li>
+      <sh>{salat a ces e axòc emic ini tel.}</sh>
+      <ja>彼は私より賢い。</ja>
+    </li>
+    <li>
+      <sh>{salet a kedet acik e ahiq emic ini pafisec a tel e'n lat.}</sh>
+      <ja>その建物は私が想像していたよりも高かった。</ja>
+    </li>
+    <li>
+      <sh>{sokesat a tel e soxal asivel emic ini met afik.}</sh>
+      <ja>私にはこの参考書よりも詳しいものが必要だ。</ja>
+    </li>
+  </example-list>
+
+  <element title="優劣表現の作り方 (対名詞)">
+    <p>
+      ここでは、「/A/ は /B/ より /X/ だ」のような 2 つものの性質の優劣を比較する文の作り方を説明します。
+    </p>
+    <p>
+      例として、「彼は私より賢い」という文を作ってみましょう。
+      まず、比較対象を取り除いた「彼は賢い」という文を作ります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e axòc.}</sh>
+        <ja>彼は賢い。</ja>
+      </li>
+    </xl>
+    <p>
+      次に、比較する性質を表す形容詞か副詞を、副詞型不定詞の {mic} を副詞にして修飾させます。
+      この {mic} は日本語の「～より」に相当します。
+      さらに、特殊助接詞の {ni} を非動詞修飾形の {ini} にして、その直後に比較対象の名詞を置き、できた {ini} 句全体を {emic} の直後に置きます。
+      この {ini} は助詞として用いられることになります。
+    </p>
+    <p>
+      今回の例では、以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e axòc }<s>{emic}</s>{ }<s>{ini tel}</s>{.}</sh>
+        <ja>彼は<s>私より</s>賢い。</ja>
+      </li>
+    </xl>
+    <p>
+      {emic} が英語の more に対応していて、{ini} が英語の than に対応していると考えれば、構文が分かりやすいでしょう。
+    </p>
+  </element>
+
+  <element title="優劣表現の作り方 (対節)">
+    <p>
+      上と同じ意味の表現は、これから説明する別の方法でも作ることができます。
+    </p>
+    <p>
+      まず、「/A/ は /X/ だ」と「/B/ は /X/ だ」という 2 つの文を両方作ります。
+      このとき、両方の文に同じ文構造が含まれるようにします。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e axòc.}</sh>
+        <ja>彼は賢い。</ja>
+      </li>
+      <li>
+        <sh>{salat a tel e axòc.}</sh>
+        <ja>私は賢い。</ja>
+      </li>
+    </xl>
+    <p>
+      次に、比較される方について言及している文 (/A/ を含む文) の形容詞もしくは副詞を {mic} で修飾します。
+      続いて、比較対象に言及している文 (/B/ を含む文) を {ini} の直後に置いて、できた {ini} 節を {emic} の直後に移動させ、文を 1 つにします。
+      この場合の {ini} は接続詞です。
+    </p>
+    <p>
+      今回の例では、以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e axòc }<s>{emic}</s>{ }<s>{ini salat a tel e axòc}</s>{.}</sh>
+        <ja><s>私が賢いのよりも</s>彼は賢い。</ja>
+      </li>
+    </xl>
+    <p>
+      「彼は私より賢い」というのは、「彼が賢い」と「私は賢い」という 2 つの文にあるそれぞれの「賢い」の度合いを比較して、「彼が賢い」の方がその程度が大きいことを述べていると捉えられます。
+      上で作った表現は、この考え方をもとに成り立っています。
+    </p>
+    <p>
+      なお、上の文で優劣表現は完成していますが、繰り返されている箇所が多く冗長なので、<section-number title="繰り返しの回避"/>で学んだ回避方法を用いて、文を簡略化するのが普通です。
+      この文の場合は、{salat e axòc} を代動詞の {l} に置き換えて以下のようにするのが自然でしょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a ces e axòc }<s>{emic}</s>{ }<s>{ini lat a tel}</s>{.}</sh>
+        <ja><s>私がそうなのよりも</s>彼は賢い。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="名詞との比較で表せない優劣表現">
+    <p>
+      最初に述べた {ni} を助詞として使う表現の方が文構造が簡単なので、{ni} を助詞として使う構文で表現ができるなら、そちらの方が好まれます。
+      しかし、{ni} を助詞として用いた構文では表現できない場合もあります。
+      その典型的な例として「その建物は私が想像していたのよりも高かった」という文を考えてみましょう。
+      これは、「その建物が高かった」と「私がその建物は高いと想像していた」という 2 つの文における「高い」の度合いを比較して、前者の方が甚だしかったと述べる文です。
+    </p>
+    <p>
+      この文をシャレイア語に翻訳するには、{ni} を接続詞として使うしかありません。
+      上で述べた作り方に則って、まず 2 つの文を作ります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salet a kedet acik e ahiq.}</sh>
+        <ja>その建物は高かった。</ja>
+      </li>
+      <li>
+        <sh>{pafisec a tel e'n salat a kedet acik e ahiq.}</sh>
+        <ja>私はその建物が高いと想像していた。</ja>
+      </li>
+    </xl>
+    <p>
+      {ni} を使ってこれを 1 文にまとめ、繰り返し部分を代動詞に置き換えたのが、以下の文です。
+      2 文目の {kin} 節の中身である {salat} 以下が繰り返されるので、この箇所全体が {lat} に置き換えられています。
+    </p>
+    <xl>
+      <li>
+        <sh>{salet a kedet acik e ahiq }<s>{emic}</s>{ }<s>{ini pafisec a tel e'n lat}</s>{.}</sh>
+        <ja>その建物は<s>私が想像していたよりも</s>高かった。</ja>
+      </li>
+    </xl>
+    <p>
+      なお、特殊助接詞が接続詞として使われているので、<section-number title="特殊助接詞"/>で学んだ原形による言い換えによって、以下のように述べることも可能です。
+    </p>
+    <xl>
+      <li>
+        <sh>{salet a kedet acik e ahiq emic, }<s>{ni pafisec a tel e'n lat}</s>{.}</sh>
+        <ja>その建物は<s>私が想像していたよりも</s>高かった。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{ni} がない優劣表現">
+    <p>
+      名詞と比較する場合でも節と比較する場合でも、比較対象を表す {ini} 句もしくは {ini} 節は省略することができます。
+      その場合は、文脈から想定される対象との比較であると解釈されるか、もしくは平均よりは優れているなどの漠然とした比較であると解釈されます。
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a zecel afik e avituf }<s>{emic}</s>{.}</sh>
+        <ja>この問題は<s>より</s>単純だ。</ja>
+      </li>
+    </xl>
+    <p>
+      この文は、それまで話していた他の問題と比べて単純であることを表すか、もしくは世の中にある様々な問題の中でどちらかというと単純な方であることを表します。
+    </p> <!-- gap -->
+  </element>
+
+  <element title="形容詞句としての優劣表現">
+    <p>
+      一番最初に作った「彼は私より賢い」という文を思い出してください。
+      ここでは最終的に {axòc emic ini tel} という表現が作られていますが、{axòc} が「賢い」を意味していて、{emic ini tel} が「私より」という比較対象を表す表現なので、この部分だけで「私より賢い」という形容詞句になっています。
+      そのため、以下のようにこれを名詞に修飾させて文中で用いることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{rafat fedàtis a tel e zis }<s>{axòc emic ini tel}</s>{.}</sh>
+        <ja>私は<s>私より賢い人と</s>知り合いたい。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、{axòc emic ini tel} が {zis} を修飾し、「私より賢い人」という表現を作っています。
+    </p>
+    <p>
+      他の例も見てみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{sokesat a tel e soxal }<s>{asivel emic ini met afik}</s>{.}</sh>
+        <ja>私には<s>この参考書よりも詳しい</s>ものが必要だ。</ja>
+      </li>
+      <li>
+        <sh>{denites a fíled acik e nitez }<s>{omêl emic ini ris}</s>{.}</sh>
+        <ja>そのおばあさんは<s>誰よりもゆっくりと</s>坂を下った。</ja>
+      </li>
+    </xl>
+    <p>
+      2 つ目の文で出てくる {ris} は、「誰でも」や「どの人も」のような意味で、関係している全ての人に当てはまることを述べるときに使う単語です。
+      英語では anyone に相当します。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{xòc}</sh><ja>賢い</ja></word>
+    <word><so>副</so><sh>{mic}</sh><ja>より</ja></word>
+    <word><so>動</so><sh>{hiq}</sh><ja>高い</ja></word>
+    <word><so>動</so><sh>{pafis}</sh><ja>想像する</ja></word>
+    <word><so>名</so><sh>{zecel}</sh><ja>問題</ja></word>
+    <word><so>動</so><sh>{vituf}</sh><ja>単純な</ja></word>
+    <word><so>名</so><sh>{soxal}</sh><ja>参考書</ja></word>
+    <word><so>動</so><sh>{sivel}</sh><ja>詳しい</ja></word>
+    <word><so>動</so><sh>{denit}</sh><ja>下る</ja></word>
+    <word><so>名</so><sh>{fíled}</sh><ja>おばあさん</ja></word>
+    <word><so>名</so><sh>{nitez}</sh><ja>坂</ja></word>
+    <word><so>動</so><sh>{mêl}</sh><ja>ゆっくりと</ja></word>
+    <word><so>名</so><sh>{ris}</sh><ja>誰でも</ja></word>
+  </word-list>
+
+</section>

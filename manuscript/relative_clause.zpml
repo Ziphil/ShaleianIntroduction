@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="限定節">
+
+  <example-list>
+    <li>
+      <sh>{salat e qâzhil i tel a lanqos raflesac e a ʻkeldis.}</sh>
+      <ja>ケルディスが会話している老人は私の祖父だ。</ja>
+    </li>
+  </example-list>
+
+  <element title="限定節">
+    <p>
+      シャレイア語では、ある名詞を文によって説明するための構文があります。
+      以下に、具体例を挙げながらその方法を説明していきます。
+    </p>
+    <p>
+      まず、以下の 2 つの文を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat e qâzhil i tel a }<s>{lanqos}</s>{.}</sh>
+        <ja><s>老人</s>は私の祖父だ。</ja>
+      </li>
+      <li>
+        <sh>{raflesac a ʻkeldis e }<s>{ces}</s>{.}</sh>
+        <ja>ケルディスが<s>その人</s>と会話している。</ja>
+      </li>
+    </xl>
+    <p>
+      2 文目の {ces} が 1 文目の {lanqos} を指しているとすると、2 文目全体を {lanqos} に修飾させて、「ケルディスが会話している老人は私の祖父だ」という 1 つの文にまとめることができます。
+      このような文を作るには、以下のような手順を踏みます。
+    </p>
+    <ul>
+      <li>修飾する側の文の動詞に係る助詞句のうち、被修飾語と同じものを指している名詞を含むものを、動詞の直後に移動させる</li>
+      <li>修飾する側の文の中において、被修飾語と同じものを指している名詞を削除する</li>
+      <li>修飾する側の文全体を被修飾語の直後に置く</li>
+    </ul>
+    <p>
+      上の例の場合では、この 3 つの手順は具体的に以下のようになります。
+    </p>
+    <ul>
+      <li>2 文目の {e ces} を {raflesac} の直後に移動させる</li>
+      <li>2 文目の {ces} を削除する</li>
+      <li>2 文目全体を 1 文目の {lanqos} の直後に置く</li>
+    </ul>
+    <p>
+      結果的に、以下の文が完成します。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat e qâzhil i tel a lanqos }<s>{raflesac e a ʻkeldis}</s>{.}</sh>
+        <ja><s>ケルディスが会話している</s>老人は私の祖父だ。</ja>
+      </li>
+    </xl>
+    <p>
+      語句を修飾している方の文は「限定節」と呼ばれます。
+      上の例では {reflesac e a ʻkeldis} が限定節で、全体で {lanqos} を修飾しています。
+    </p>
+    <p>
+      さて、他のパターンの限定節を用いた例を紹介します。
+    </p>
+    <xl>
+      <li>
+        <sh>{fedàtat a tel e }<s>{zis}</s>{.}</sh>
+        <ja>私は<s>人</s>と知り合いだ。</ja>
+      </li>
+      <li>
+        <sh>{kilat risfevos a refet i }<s>{ces}</s>{ e líker.}</sh>
+        <ja><s>彼</s>の友達はピアノを演奏することができる。</ja>
+      </li>
+    </xl>
+    <p>
+      この場合で注意すべきなのは、3 つの手順のうちの 1 番目です。
+      2 文目全体を 1 文目の {zis} に修飾させて「友達がピアノを演奏できる人と知り合いだ」という文を作りたいので、2 文目の {ces} が被修飾語と同じものを表す名詞です。
+      したがって、{ces} を含む助詞句を動詞の直後に移動させることになりますが、移動させるのは動詞に係る助詞句なので、{i ces} ではなく {a refet i ces} 全体になります。
+      今回の場合、この助詞句はすでに動詞の直後にあるので、そのままの位置になります。
+    </p>
+    <p>
+      残りの手順も実行して 1 文にまとめたのが以下の文です。
+    </p>
+    <xl>
+      <li>
+        <sh>{fedàtat a tel e zis }<s>{kilat risfevos a refet i e líker}</s>{.}</sh>
+        <ja>私は<s>友達がピアノを演奏することができる</s>人と知り合いだ。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="限定節の例">
+    <p>
+      限定節を用いたいくつかの例文を載せておきます。
+      それぞれの例文について、限定節によって 1 つの文にまとめられる前の 2 つの文を想像すると、良い練習になるかもしれません。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa salat e pet a kofet i kosben }<s>{vahixes vo a ces}</s>{?}</sh>
+        <ja><s>彼が亡くなった</s>病院の名前は何ですか?</ja>
+      </li>
+    </xl>
+    <p>
+      この例文では、限定節内に {vo} が単独で現れています。
+      これにより、限定節が修飾している {kosben} と同じものを表す単語が、限定節で {vo} 句として使われていたことが分かります。
+      {vo} 句は場所を表すのでしたから、上の文は、限定節の内容が起こった場所である {kosben} について言及しているわけです。
+    </p>
+    <xl>
+      <li>
+        <sh>{rafat sokis a tel e vadef }<s>{bûdezat vade a ces e tel}</s>{.}</sh>
+        <ja><s>彼が私を妬んでいる</s>理由を私は知りたい。</ja>
+      </li>
+    </xl>
+    <p>
+      この文では {vade} が単独で現れています。
+      {vade} は理由や原因を表すので、上の文は、限定節の内容が起こった理由について言及していることになります。
+    </p>
+    <p>
+      以上のように、英語では which, where, why などの関係代名詞や関係副詞を使い分けるところを、シャレイア語では全て同じ方法で文を作ることができます。
+    </p>
+    <p>
+      {i} が単独で残る例も見てみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{fovales a ces zi kedet }<s>{salat a taqit i e akesel}</s>{.}</sh>
+        <ja><s>壁が水色である</s>建物から彼は出てきた。</ja>
+      </li>
+    </xl>
+    <p>
+      {i} の位置に注意してください。
+      すでに説明しましたが、{i} は名詞を修飾する助詞句を作るので、3 段階の手順のうちの 1 段階目で移動させる助詞句は {i} 句ではありません。
+    </p>
+  </element>
+
+  <element title="限定節の時制">
+    <p>
+      限定節内の動詞の時制が示す時間は、主節の動詞の動作が行われた時間を基準にして決まります。
+      <section-number title="{kin} 節"/>で学んだ {kin} 節の時制の場合と全く同じです。
+    </p>
+    <p>
+      <section-number title="{kin} 節"/>で説明した通りなのですが、1 つ例を見てみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{fetekes a tel e fesotqik }<s>{valcasis}</s>{ fe a'l e serin.}</sh>
+        <ja>私は一緒に湖を<s>眺めるつもり</s>の同僚に連絡した。</ja>
+      </li>
+    </xl>
+    <p>
+      限定節の動詞 {valcasis} は未来時制で用いられていますが、この未来時制が表しているのは、湖を眺めるのが同僚に連絡した時間より後だということです。
+      したがって、この文が述べられた時間と湖を眺める時間との関係は分かりません。
+    </p>
+    <p>
+      主節の動作の時間を基準にして決まるのは、従属節の時制だけではありません。
+      従属節内にある {te} 句などの時間表現もそうなります。
+      このことは、限定節だけでなく {kin} 節でも同じです。
+    </p>
+    <p>
+      以下の例を使って詳しく説明します。
+    </p>
+    <xl>
+      <li>
+        <sh>{tikoses a zál e solkut qorasis ca a zál }<s>{te ciqid acál}</s>{.}</sh>
+        <ja>私たちは<s>来週</s>旅行する国を決めた。</ja>
+      </li>
+    </xl>
+    <p>
+      限定節内で {te ciqid acál} という時間を表す表現が用いられています。
+      これは「来週」という意味ですが、旅行する国を決めた日から見て次の週を指すのであって、上の文が話された日から見て次の週を指すのではありません。
+    </p>
+    <p>
+      以上のように、限定節と {kin} 節では、その節の中にある時制と時間表現が、主節の動作の時間から見て相対的に解釈されます。
+      一方で接続詞節では、その節の中にある時制も時間表現も、主節にある場合と同じように、文が話された時間を基準にして定まります。
+      節の種類によって解釈が異なるので、混同しないように注意してください。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>名</so><sh>{qâzhil}</sh><ja>祖父</ja></word>
+    <word><so>名</so><sh>{lanqos}</sh><ja>老人</ja></word>
+    <word><so>動</so><sh>{rafles}</sh><ja>会話する</ja></word>
+    <word><so>動</so><sh>{fedàt}</sh><ja>知り合う</ja></word>
+    <word><so>名</so><sh>{zis}</sh><ja>人</ja></word>
+    <word><so>動</so><sh>{risfev}</sh><ja>演奏する</ja></word>
+    <word><so>名</so><sh>{líker}</sh><ja>ピアノ</ja></word>
+    <word><so>名</so><sh>{vadef}</sh><ja>理由</ja></word>
+    <word><so>動</so><sh>{bûdez}</sh><ja>妬む</ja></word>
+    <word><so>動</so><sh>{foval}</sh><ja>出る</ja></word>
+    <word><so>名</so><sh>{taqit}</sh><ja>壁</ja></word>
+    <word><so>名</so><sh>{fesotqik}</sh><ja>同僚</ja></word>
+    <word><so>動</so><sh>{valcas}</sh><ja>眺める</ja></word>
+    <word><so>名</so><sh>{serin}</sh><ja>湖</ja></word>
+    <word><so>動</so><sh>{tikos}</sh><ja>決める</ja></word>
+    <word><so>名</so><sh>{solkut}</sh><ja>国</ja></word>
+    <word><so>名</so><sh>{ciqid}</sh><ja>週</ja></word>
+    <word><so>動</so><sh>{cál}</sh><ja>次の</ja></word>
+  </word-list>
+
+</section>

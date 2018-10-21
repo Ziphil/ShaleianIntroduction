@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="267.76541pt"
+   height="74.610405pt"
+   viewBox="0 0 94.461688 26.320893"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="reading of a complex integer.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4552"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4549"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-97"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-97-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-5-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-9-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-1-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4552-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-97-4-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-5-2-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.289779"
+     inkscape:cx="95.119429"
+     inkscape:cy="-2.5874771"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="pt"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485"
+       units="pt"
+       spacingx="0.39687502"
+       spacingy="0.39687501"
+       originx="-5.2539443"
+       originy="35.19632"
+       empspacing="6"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.2539454,-305.87542)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.543755"
+       y="325.57498"
+       id="text4489-1-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-2"
+         x="32.543755"
+         y="325.57498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">oqek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.543758"
+       y="316.04999"
+       id="text4489-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-12"
+         x="32.543758"
+         y="316.04999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.209377"
+       y="320.8125"
+       id="text4493-54-4"><tspan
+         sodipodi:role="line"
+         id="tspan4491-5-5"
+         x="24.209377"
+         y="320.8125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;stroke-width:0.26458332">数の読み</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Han Serif';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Source Han Serif';font-stretch:normal;font-variant:normal;"
+       x="24.209377"
+       y="325.57501"
+       id="text4493-54-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan4491-5-5-3"
+         x="24.209377"
+         y="325.57501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;stroke-width:0.26458332;">位取りの接辞</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-97-4-8)"
+       d="m 19.050003,330.73437 h 9.525"
+       id="path4541-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.615631"
+       y="331.52814"
+       id="text4489-1-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-6"
+         x="99.615631"
+         y="331.52814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:end;text-anchor:end;stroke-width:0.26458332">tisetricoqek-pivasvonilsezetqecotik-ricasqecilyosetric</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.50196078;stroke:#444444;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect922-2"
+       width="11.906252"
+       height="17.462481"
+       x="26.590628"
+       y="309.69998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.543755"
+       y="320.8125"
+       id="text4489-1-9-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-6-3"
+         x="32.543755"
+         y="320.8125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">tisetric</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.49688"
+       y="308.50937"
+       id="text4493-54-4-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4491-5-5-9-2"
+         x="38.49688"
+         y="308.50937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;stroke-width:0.26458332"><tspan
+   style="-inkscape-font-specification:'Linux Libertine';font-family:'Linux Libertine';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan928">1 </tspan>億</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.37188"
+       y="325.57498"
+       id="text4489-1-9-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-2-2"
+         x="54.37188"
+         y="325.57498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">otik</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.371883"
+       y="316.04999"
+       id="text4489-1-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-12-5"
+         x="54.371883"
+         y="316.04999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">4972</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.50196078;stroke:#444444;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect922-2-5"
+       width="29.368755"
+       height="17.462479"
+       x="39.687504"
+       y="309.69998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.371883"
+       y="320.8125"
+       id="text4489-1-9-5-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-6-3-4"
+         x="54.371883"
+         y="320.8125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">pivasvonilsezetqec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.931259"
+       y="316.04999"
+       id="text4489-1-0-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-12-5-4"
+         x="84.931259"
+         y="316.04999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">6236</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.50196078;stroke:#444444;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect922-2-5-6"
+       width="29.368752"
+       height="17.462509"
+       x="70.24688"
+       y="309.69998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.931259"
+       y="320.8125"
+       id="text4489-1-9-5-7-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan4487-1-1-6-3-4-5"
+         x="84.931259"
+         y="320.8125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01625px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;stroke-width:0.26458332">ricasqecilyosetric</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.056259"
+       y="308.50937"
+       id="text4493-54-4-7-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4491-5-5-9-2-7"
+         x="69.056259"
+         y="308.50937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;stroke-width:0.26458332"><tspan
+   style="-inkscape-font-specification:'Linux Libertine';font-family:'Linux Libertine';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan930">1 </tspan>万</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.615631"
+       y="308.50937"
+       id="text4493-54-4-7-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan4491-5-5-9-2-5"
+         x="99.615631"
+         y="308.50937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:end;text-anchor:end;stroke-width:0.26458332">1</tspan></text>
+  </g>
+</svg>

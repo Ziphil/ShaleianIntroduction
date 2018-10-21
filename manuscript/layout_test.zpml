@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="レイアウトテスト">
+
+  <example-list>
+    <li>
+      <sh>{dibe, e kin bozetes a tel e loc.}</sh>
+      <ja>殴ってしまってごめんなさい。</ja>
+    </li>
+    <li>
+      <sh>{yo loc, pa qetat vo pâd a yen il'axalasoyok?}</sh>
+      <ja>すいません、5000 兆円はどこにありますか?</ja>
+    </li>
+  </example-list>
+
+  <element title="Здравствуйте">
+    <p>
+      Σημεῖόν ἐστιν, οὗ μέρος οὐθέν.
+    </p>
+  </element>
+
+  <element title="文章">
+    <p>
+      Lorsque j'avais six ans j'ai vu, une fois, une magnifique image dans un livre qui s'applait…, ah… s'applait…, quel est le titre du livre? 
+    </p>
+  </element>
+
+  <element title="リガチャ">
+    <p>
+      The fluffy fjord is difficult to find: WALT.
+    </p>
+  </element>
+
+  <element title="その 4">
+    <p>
+      解説の途中には例文が挟まることがあります。
+      というか、挟まることばかりです。
+      語学書なのでそれはそう。
+    </p>
+    <xl>
+      <li>
+        <sh>{sîya.}</sh>
+        <ja>こんにちは。</ja>
+      </li>
+      <li>
+        <sh>{di'dupâmis a'c e }<s>{sotik adasok afik}</s>{.}</sh>
+        <ja><s>この重要な単語</s>を忘れるな。</ja>
+      </li>
+    </xl>
+    <p>
+      そして、何事もなかったかのように解説が続きます。
+      このような感じになります。
+    </p>
+    <p>
+      文中には {dojat e tel} のようにシャレイア語が挟まることがありますが、ここでフォントを変えます。
+      変わっているか確認してください。
+    </p>
+    <p>
+      本文領域のちょうど一番下までテキストが配置されるように、各所の余白が調整されます。
+      また、各段落は常にページに 2 行以上残して改ページされるようになっているはずです。
+      このような長い段落がある場合、1 行だけ残して改ページされることがないか一応確認してください。
+    </p>
+  </element>
+
+  <element title="フォント変更">
+    <p>
+      シャレイア語は公式サイトと同様にサンセリフ体で記されます。
+      シャレイア語部分の指定方法は ZpML に準拠しています。
+      {qilxaléh} のタイプと [tak] のタイプがあります。
+      {salat a} [/S/] {e} [/Z/] のように、イタリックにするコマンドにも対応しているはずです。
+    </p>
+    <p>
+      {a}a, {m}m, {S}S, {O}O のように文字の大きさのチェック。
+      {{, ]], // です。
+    </p>
+  </element>
+
+  <element title="表とリスト">
+    <p>
+      表が書けます。
+      上下の余白にちょっと調整が入っています。
+    </p>
+    <table>
+      <tr><td>項目</td><td>項目</td><td>項目</td></tr>
+      <tr><td>その 1</td><td>one</td><td>itchy</td></tr>
+      <tr><td>その 2</td><td>two</td><td>knee</td></tr>
+      <tr><td>その 3</td><td>three</td><td>sun</td></tr>
+      <tr><td>その 4</td><td>quatre</td><td>yawn</td></tr>
+      <tr><td>その 5</td><td>cúig</td><td>go</td></tr>
+    </table>
+    <p>
+      リストも書けますが、レイアウトは要検討です。
+      多段組にもできます。
+    </p>
+    <ul column-count="2">
+      <li>その A</li>
+      <li>その B</li>
+      <li>その C</li>
+      <li>その D</li>
+      <li>その E</li>
+    </ul>
+    <p>
+      リストの後のテキスト。
+    </p>
+  </element>
+
+  <element title="結合文字">
+    <p>
+      声調記号は、//p͡fɮɜːtʰ˥˨˦// のように 3 つまでの合成はできるらしいです。
+      ダイアクリティカルマークは、z&#x302;&#x308;&#x326;u&#x327;&#x304;&#x30A;m&#x303;&#x330;&#x30B;&#x30C;ø&#x312;j&#x311; のようにフォントが対応していればわりとちゃんと表示されます。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{derex}</sh><shd>{derexac}</shd><shd>{duderex}</shd><ja>雨が降る</ja></word>
+  </word-list>
+
+</section>

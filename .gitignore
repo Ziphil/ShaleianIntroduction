@@ -1,0 +1,9 @@
+*.code-workspace
+*.bat
+*.pdf
+.vscode
+main.xml
+main.fo
+error.txt
+desktop.ini
+Thumbs.db

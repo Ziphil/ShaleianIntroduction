@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 8 -->
+    <state>次の活用した単語を文法的品詞を変えずに否定形にしなさい。</state>
+    <li>{ebam}</li>
+    <li>{tolècis}</li>
+    <li>{ahafas}</li>
+    <li>{lef}</li>
+  </element>
+
+  <answer>
+    <li>{edubam}</li>
+    <li>{dutolècis}</li>
+    <li>{aduhafas}</li>
+    <li>{dulef}</li>
+    <!-- <li>{odudalaz}</li> -->
+  </answer>
+
+  <element> <!-- 8 -->
+    <state>次の文を否定相当語を用いてシャレイア語に訳しなさい。</state>
+    <li>誰も歌っていない。</li>
+    <!-- <li>私は今日何もしなかった。</li> -->
+    <li>この部屋には何もない。</li>
+    <li>私の友達は誰もかっこよくない。</li>
+  </element>
+
+  <answer>
+    <li>{yepelac a dus.}</li>
+    <!-- <li>{leses a tel e dol te saq.}</li> -->
+    <li>{qetat a dat vo sokul afik.}</li>
+    <li>{salat a refet adak i tel e axelket.}</li>
+  </answer>
+
+  <element> <!-- 9 -->
+    <state>次の文の下線部を疑問詞に置き換えて疑問文を作りなさい。</state>
+    <li>{lanes a loc ca }<u>{kosrahit}</u>{.}</li>
+    <li>{selbutac a ces ca }<u>{qasot}</u>{ te sot.}</li>
+    <li>{sáfat a loc e loqiv }<u>{axalket}</u>{.}</li>
+    <!-- <li>{fexases a qaled i tel te }<u>{tazîk}</u>{.}</li> -->
+    <!-- <li>{salat a hinof i loc e }<u>{ahâl}</u>{.}</li> -->
+  </element>
+
+  <answer>
+    <li>{pa lanes a loc ca pâd?}</li>
+    <li>{pa selbutac a ces ca pas te sot?}</li>
+    <li>{pa sáfat a loc e loqiv apéf?}</li>
+    <!-- <li>{pa fexases a qaled i tel te pet?}</li> -->
+    <!-- <li>{pa salat a hinof i loc e apéf?}</li> -->
+  </answer>
+
+  <element> <!-- 9 -->
+    <state>次の疑問文に指定された単語を用いて回答する文を作りなさい。</state>
+    <li>{pa kotikes a loc e monaf afik vo pâd?} → {naflat}</li>
+    <li>{pa folanis a loc te pet?} → {lon i saq}</li>
+    <li>{pa keqilac a loc e sod apéf?} → {avaf}</li>
+  </element>
+
+  <answer>
+    <li>{vo naflat.}</li>
+    <li>{te lon i saq.}</li>
+    <li>{e sod avaf.}</li>
+  </answer>
+
+  <element> <!-- 11 -->
+    <state>次の文を受動相当表現を用いてシャレイア語に訳しなさい。</state>
+    <li>このリンゴは食べられた。</li>
+    <li>私は弟に馬鹿にされた。</li>
+  </element>
+
+  <answer>
+    <li>{sôdes e sakil afik.}</li>
+    <li>{déqites e tel a qaled.}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{dukavat a tel e hinof.}</li>
+    <li>{séqes a ces e tosol abig ca duqazrêy.}</li>
+    <li>{féves a tel te vác azît ca dus e kisol.}</li>
+    <li>{pa qonoces a loc e solak aqôl aquk?}</li>
+    <li>{pa kûtat a loc e sòlaq apéf?}</li>
+    <li>{pa selbutac vade pil e loc etut a ces?}</li>
+    <li>{debat e ces te saq ovel ebam.}</li>
+  </element>
+
+  <answer>
+    <li>私には姉がいない。</li>
+    <li>彼女は彼氏ではない人に青い帽子をあげた。</li>
+    <li>私は去年誰にもお金を貸さなかった。</li>
+    <li>あなたはあの古い洋服を捨てましたか?</li>
+    <li>あなたはどんな携帯電話を持っていますか?</li>
+    <li>なぜあなただけが彼に叱られているのですか?</li>
+    <li>彼は今とても疲れている。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li>このボールはオレンジ色だ。</li>
+    <li>私は腕時計をなくしていない。</li>
+    <li>あなたは私の本を隠しましたか?</li>
+    <li>私の家を今通過しているのは誰ですか?</li>
+    <li>彼はどうやってその真実を知ったのでしょうか?</li>
+    <li>私は彼に服を着させられた。</li>
+    <li>なぜ誰も悲しんでいないのですか?</li>
+  </element>
+
+  <answer>
+    <li>{salot a soqal afik e alevac.}</li>
+    <li>{dupaqofat a tel e sokiq.}</li>
+    <li>{pa qopates a loc e xoq i tel?}</li>
+    <li>{pa liteqac a pas ca sod i tel te sot?}</li>
+    <li>{pa sokes a ces e yét acik qi pil?}</li>
+    <li>{kômez li tel a ces e solak.}</li>
+    <li>{pa dodat e dus vade pil?}</li>
+  </answer>
+
+  <word-list>
+    <word><so>動</so><sh>{vaf}</sh><ja>大きい</ja></word>
+    <word><so>名</so><sh>{tosol}</sh><ja>帽子</ja></word>
+    <word><so>名</so><sh>{sòlaq}</sh><ja>携帯電話</ja></word>
+    <word><so>動</so><sh>{deb}</sh><ja>疲れさせる</ja></word>
+  </word-list>
+
+</exercise>

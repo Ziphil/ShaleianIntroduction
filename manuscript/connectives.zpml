@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="連結詞">
+
+  <example-list>
+    <li>
+      <sh>{milcitac a tel e dales o monaf.}</sh>
+      <ja>私は犬と猫を飼っている。</ja>
+    </li>
+    <li>
+      <sh>{liqetes a tel te tazîk e ces, dà dulicanes a ces zi cit.}</sh>
+      <ja>私は昨日彼に電話したが、彼はそれに応答しなかった。</ja>
+    </li>
+    <li>
+      <sh>{pa sâfat a loc e zef á bag?}</sh>
+      <ja>あなたは赤と青のどちらが好きですか?</ja>
+    </li>
+  </example-list>
+
+  <element title="語句の接続">
+    <p>
+      複数の語句の間に {o} を入れることで、それらの語句を接続して 1 つのまとまりを作ることができます。
+      これは日本語の「と」に当たる単語です。
+      例えば、{dales} と {monaf} を繋げたいときは {dales o monaf} とします。
+    </p>
+    <p>
+      {o} で語句を繋げるときは、それらの語句は文法的品詞が同じでなければなりません。
+      例えば、名詞と名詞は繋げることができますが、形容詞と動詞などは繋げられません。
+    </p>
+    <p>
+      接続された語句は、全体で 1 つの単語のように用いることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{milcitac a tel e }<s>{dales o monaf}</s>{.}</sh>
+        <ja>私は<s>犬と猫</s>を飼っている。</ja>
+      </li>
+      <li>
+        <sh>{salot a ces e hay }<s>{asafey o akelzef}</s>{.}</sh>
+        <ja>彼女は<s>優しくて頼もしい</s>女の子だ。</ja>
+      </li>
+    </xl>
+    <p>
+      最初の例では、名詞の {dales} と {monaf} が接続されているので、{dales o monaf} 全体で 1 つの名詞として扱われ、{e} 句を形成しています。
+      次の例では、形容詞の {asafey} と {akelzef} が接続され、{asafey o akelzef} 全体で形容詞として {hay} を修飾しています。
+    </p>
+    <p>
+      3 つ以上の語句を繋げたい場合は、それぞれの語句の全ての間に {o} を挿入します。
+      タデックなどの記号で代用することはできません。
+    </p>
+    <xl>
+      <li>
+        <sh>{qikes a ces e tirmal zi }<s>{sakil o cilít o márec}</s>{.}</sh>
+        <ja>彼は<s>リンゴとレモンと桃</s>からジュースを作った。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="連結詞">
+    <p>
+      {o} は連結詞に分類され、文中では接続詞として用いられます。
+      連結詞に分類される単語は、常に接続詞として用いられ、語句を繋げてより大きなまとまりを作る役割をもちます。
+    </p>
+    <p>
+      シャレイア語の連結詞は以下の表に示すようにちょうど 4 個あり、それぞれ「別形」と呼ばれる別の語形をもっています。
+      この別形については後述します。
+    </p>
+    <table>
+      <tr><td>単語</td><td>別形</td><td colspan="2">意味</td></tr>
+      <tr><td>{o}</td><td>{lo}</td><td>と</td><td>連結</td></tr>
+      <tr><td>{é}</td><td>{lé}</td><td>または</td><td>選択</td></tr>
+      <tr><td>{à}</td><td>{dà}</td><td>しかし</td><td>範囲</td></tr>
+      <tr><td>{á}</td><td>{lá}</td><td>または</td><td>選択疑問</td></tr>
+    </table>
+    <p>
+      使い方は全て {o} と同様です。
+      ただし、{à} が 3 つ以上の単語を繋げることはありません。
+      例文をいくつか挙げておきます。
+    </p>
+    <xl>
+      <li>
+        <sh>{fesalat a tel e }<s>{qinat é keteq}</s>{ i nát.}</sh>
+        <ja>私は花の<s>絵か写真</s>が欲しい。</ja>
+      </li>
+      <li>
+        <sh>{kiges a ces e naved }<s>{okosiz à otîv}</s>{.}</sh>
+        <ja>彼は野菜を<s>丁寧だが素早く</s>切った。</ja>
+      </li>
+    </xl>
+    <p>
+      {á} は選択疑問文を作るときに使います。
+      詳しい用法については後述します。
+    </p>
+  </element>
+
+  <element title="文の接続">
+    <p>
+      連結詞は、語句と語句を繋げるだけでなく、文と文を繋げることもできます。
+      このとき、連結詞の直前にタデックを置きます。
+      しかし、接続される 2 つの文がともに短いときは、このタデックを置かないこともあります。
+    </p>
+    <xl>
+      <li>
+        <sh>{rezes a tel, }<s>{o}</s>{ rédes a ces.}</sh>
+        <ja>私は笑い、<s>そして</s>彼は泣いた。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文では、{rezes a tel} と {rédes a ces} という 2 つの文を {o} が繋いでいます。
+      ここでは {o} の直前にタデックを置いていますが、接続されている 2 つの文はどちらも比較的短いので、タデックはない方がより自然でしょう。
+    </p>
+    <p>
+      連結詞が文と文を繋いでいる場合に限り、通常の形の代わりに別形が使われることが多いです。
+      どちらを用いても意味に違いはありません。
+      連結詞が語句と語句を繋げている場合は、別形を使うことはできず、常に通常の形が用いられます。
+    </p>
+    <xl>
+      <li>
+        <sh>{liqetes a tel te tazîk e ces, }<s>{dà}</s>{ dulicanes a ces zi cit.}</sh>
+        <ja>私は昨日彼に電話した<s>が</s>、彼はそれに応答しなかった。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{á} による選択疑問文">
+    <p>
+      {á} は疑問文における選択肢を表し、常に疑問文で用いられます。
+      このような疑問文に回答する側は、{á} で繋がれた選択肢から 1 つを選んで答えることになるので、<section-number title="疑問表現"/>で学んだ疑問詞疑問文への答え方に準じて、助詞句によって回答します。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa sâfat a loc e }<s>{zef á bag}</s>{?}</sh>
+        <ja>あなたは<s>赤と青のどちら</s>が好きですか?</ja>
+      </li>
+      <li>
+        <sh>{}<s>{e bag}</s>{.}</sh>
+        <ja><s>青です</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この文の {zef á bag} の部分が「赤または青のどちらか」という選択肢を表す名詞句になっていて、「赤と青のどちらが好きか」という選択肢を提示する形の疑問文が作られています。
+    </p>
+    <p>
+      {á} が動詞を接続している場合は、回答が動詞になります。
+      この場合は、回答となる動詞に加えて、文中にある助詞句のうちいくつか必要なものも合わせて答えるのが自然です。
+      動詞だけを単独で答えることはあまりしません。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa }<s>{rahaset á tigumet}</s>{ te tazîk e loc?}</sh>
+        <ja>あなたは<s>楽しかったか苦しかったかどちら</s>ですか?</ja>
+      </li>
+      <li>
+        <sh>{}<s>{rahaset e tel}</s>{.}</sh>
+        <ja><s>楽しかったです</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      {á} が文を繋げる場合は、繋がれた文のうちのどれが正しいかを選択させる疑問文を作ります。
+      このとき、繋がれる両方の文の動詞の前に、疑問を表す {pa} が必要になります。
+      回答する側は、選択肢となっている文のいずれかをそのまま答えます。
+      ただし、そのままでは文が長すぎる場合は、不要な助詞が省略されることがあります。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{pa}</s>{ lanes a loc ca kossax, }<s>{lá}</s>{ }<s>{pa}</s>{ qetet a loc vo sod?}</sh>
+        <ja>あなたは学校に行きました<s>か</s>、<s>それとも</s>家にいました<s>か</s>?</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{á} と {é} の違い">
+    <p>
+      {á} と {é} は混同されやすいので注意してください。
+      {é} は単に語句を「それらのうちのどれか」という意味で繋げるだけなので、{é} を使って疑問文を作ると諾否疑問文になります。
+    </p>
+    <p>
+      少し前に作った例文中の {á} を、以下のように {é} に変えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa sâfat a loc e }<s>{zef é bag}</s>{?}</sh>
+        <ja>あなたは<s>赤または青</s>が好きですか?</ja>
+      </li>
+      <li>
+        <sh>{ya.}</sh>
+        <ja>はい。</ja>
+      </li>
+    </xl>
+    <p>
+      こうなると、「赤または青」が好きかどうかを尋ねているので、赤が好きであるか青が好きであるならば {ya} と答え、どちらも好きでなければ {du} と答えることになります。
+      これは選択疑問文ではありません。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>連</so><sh>{o}</sh><ja>と</ja></word>
+    <word><so>名</so><sh>{dales}</sh><ja>犬</ja></word>
+    <word><so>動</so><sh>{milcit}</sh><ja>飼う</ja></word>
+    <word><so>名</so><sh>{hay}</sh><ja>女の子</ja></word>
+    <word><so>動</so><sh>{safey}</sh><ja>優しい</ja></word>
+    <word><so>動</so><sh>{kelzef}</sh><ja>頼もしい</ja></word>
+    <word><so>動</so><sh>{qik}</sh><ja>作る</ja></word>
+    <word><so>名</so><sh>{tirmal}</sh><ja>ジュース</ja></word>
+    <word><so>名</so><sh>{cilít}</sh><ja>レモン</ja></word>
+    <word><so>名</so><sh>{márec}</sh><ja>桃</ja></word>
+    <word><so>連</so><sh>{lo}</sh><ja>そして</ja></word>
+    <word><so>連</so><sh>{é}</sh><ja>または</ja></word>
+    <word><so>連</so><sh>{lé}</sh><ja>または</ja></word>
+    <word><so>連</so><sh>{à}</sh><ja>しかし</ja></word>
+    <word><so>連</so><sh>{dà}</sh><ja>しかし</ja></word>
+    <word><so>連</so><sh>{á}</sh><ja>または</ja></word>
+    <word><so>連</so><sh>{lá}</sh><ja>または</ja></word>
+    <word><so>動</so><sh>{fesal}</sh><ja>欲する</ja></word>
+    <word><so>名</so><sh>{qinat}</sh><ja>絵</ja></word>
+    <word><so>名</so><sh>{keteq}</sh><ja>写真</ja></word>
+    <word><so>動</so><sh>{kig}</sh><ja>切る</ja></word>
+    <word><so>名</so><sh>{naved}</sh><ja>野菜</ja></word>
+    <word><so>動</so><sh>{kosiz}</sh><ja>丁寧に</ja></word>
+    <word><so>動</so><sh>{tîv}</sh><ja>素早く</ja></word>
+    <word><so>動</so><sh>{rez}</sh><ja>笑う</ja></word>
+    <word><so>動</so><sh>{réd}</sh><ja>泣く</ja></word>
+    <word><so>動</so><sh>{liqet}</sh><ja>電話する</ja></word>
+    <word><so>動</so><sh>{lican}</sh><ja>応答する</ja></word>
+    <word><so>名</so><sh>{zef}</sh><ja>赤</ja></word>
+    <word><so>名</so><sh>{bag}</sh><ja>青</ja></word>
+    <word><so>動</so><sh>{rahas}</sh><ja>楽しませる</ja></word>
+    <word><so>動</so><sh>{tigum}</sh><ja>苦しませる</ja></word>
+  </word-list>
+
+</section>

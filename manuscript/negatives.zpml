@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="否定表現">
+
+  <example-list>
+    <li>
+      <sh>{dusokat a ces e yét.}</sh>
+      <ja>彼は真実を知らない。</ja>
+    </li>
+    <li>
+      <sh>{kûtat a ces e zat adusokes avôl.}</sh>
+      <ja>彼はたくさんの必要でないものを所持している。</ja>
+    </li>
+    <li>
+      <sh>{salat a tel e dutific.}</sh>
+      <ja>私は子供ではない。</ja>
+    </li>
+    <li>
+      <sh>{keqilac a dus e sod afik te sot.}</sh>
+      <ja>今は誰もこの家に住んでいない。</ja>
+    </li>
+    <li>
+      <sh>{fexasat a lef adak i tel.}</sh>
+      <ja>私の知人は誰も結婚していない。</ja>
+    </li>
+  </example-list>
+
+  <element title="動詞の否定形">
+    <p>
+      動詞型不定詞が動詞として用いられているとき、その活用形の前に {du} を付けることで、その意味を否定することができます。
+      {du} を付けた動詞は、通常の動詞と同じように文中で用いることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{dusokat}</s>{ a ces e yét.}</sh>
+        <ja>彼は真実を<s>知らない</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      {sokat} は「知っている」という意味の動詞ですが、{du} を付けて {dusokat} とすると、その否定の「知らない」を意味するようになります。
+      上の文は、その {dusokat} が用いられている例です。
+    </p>
+    <p>
+      なお、{du} は独立した単語ではなく接頭辞なので、{du} の後にスペースは入れられません。
+    </p>
+  </element>
+
+  <element title="形容詞と副詞の否定形">
+    <p>
+      形容詞や副詞として用いられている単語を否定するときも {du} を付けますが、このとき、すでに付けられている活用接頭辞の {a}, {o}, {e} と語幹の間に {du} を入れます。
+      例えば、{sokes} の形容詞としての活用形 {asokes} の否定形は {adusokes} になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{kûtat a ces e zat }<s>{adusokes}</s>{ avôl.}</sh>
+        <ja>彼はたくさんの<s>必要でない</s>ものを所持している。</ja>
+      </li>
+      <li>
+        <sh>{salat a qasot i ces e }<s>{adusiref}</s>{.}</sh>
+        <ja>彼の息子は<s>おとなしくない</s>。</ja>
+      </li>
+      <li>
+        <sh>{yepeles }<s>{oducazec}</s>{ a tel.}</sh>
+        <ja>私は<s>真剣でなく</s>歌った。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="名詞の否定形">
+    <p>
+      名詞の前に {du} を付けることで、その名詞も否定することができます。
+      このときは「～ではないもの」という意味になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a tel e }<s>{dutific}</s>{.}</sh>
+        <ja>私は<s>子供</s>では<s>ない</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「子供」を意味する {tific} が否定され、「子供ではないもの」という意味で使われています。
+    </p>
+    <p>
+      これと同じ意味の文章は、以下のように動詞の {salat} を否定しても作ることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{dusalat}</s>{ a tel e tific.}</sh>
+        <ja>私は子供<s>ではない</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      ただし、この文が単に「子供ではない」ということを主張するだけなのに対し、{dutific} を用いた前の文では動詞は否定されていないので、「子供ではない何かである」すなわち「大人である」というニュアンスが含まれます。
+    </p>
+    <p>
+      また、動詞を否定する場合とは違い、名詞を否定することで否定の意味の単語を文末側に配置することができます。
+      <section-number title="助詞句の順序"/>で学びますが、文末に近い要素ほど相手に伝えたい内容になるので、これによって否定の意味を強調することができます。
+    </p>
+  </element>
+
+  <element title="否定相当語">
+    <p>
+      シャレイア語には、それ自体で否定の意味をもつ単語がいくつかあります。
+      このような単語は「否定相当語」と呼ばれます。
+    </p>
+    <p>
+      以下の表に、主な否定相当語を示します。
+      これらの単語は、常に 1 つの文法的品詞でしか用いられないため、それも併記します。
+    </p>
+    <table>
+      <tr><td>単語</td><td>意味</td><td>品詞</td></tr>
+      <tr><td>{dus}</td><td>誰も～しない</td><td>名詞</td></tr>
+      <tr><td>{dat}</td><td>何も～しない</td><td>名詞</td></tr>
+      <tr><td>{dol}</td><td>どんなことも～しない</td><td>名詞</td></tr>
+      <tr><td>{dak}</td><td>どんな～も～しない</td><td>形容詞</td></tr>
+      <tr><td>{dûg}</td><td>決して～しない</td><td>副詞</td></tr>
+      <tr><td>{dum}</td><td>全く～しない</td><td>副詞</td></tr>
+    </table>
+    <p>
+      例えば、{dak} は動詞型不定詞なので、理論上は動詞や副詞としても用いることができますが、実際には動詞や副詞としては用いられず、常に形容詞になります。
+    </p>
+    <p>
+      いくつか否定相当語を用いた用例を挙げます。
+    </p>
+    <xl>
+      <li>
+        <sh>{keqilac a }<s>{dus}</s>{ e sod afik te sot.}</sh>
+        <ja>今は<s>誰も</s>この家に住んでい<s>ない</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文では {dus} が用いられています。
+      {dus} は英語の nobody に相当する単語です。
+      単体で「0 人の人が～する」もしくは「誰も～しない」という意味になるので、上の文は「0 人の人が住んでいる」すなわち「誰も住んでいない」という意味になっています。
+    </p>
+    <xl>
+      <li>
+        <sh>{déqitis a ces e loc }<s>{odûg}</s>{.}</sh>
+        <ja>彼は<s>決して</s>あなたを馬鹿にし<s>ない</s>だろう。</ja>
+      </li>
+    </xl>
+    <p>
+      この文では {dûg} が用いられています。
+      {dûg} は英語の never に相当する単語で、副詞として「0 % の確率で～」や「絶対に～しない」のような意味をもちます。
+      そのため、上の文は「絶対に馬鹿にしないだろう」という意味になります。
+    </p>
+    <p>
+      {dat} と {dol} は明確に使い分けられるので注意してください。
+      {dat} は物が存在しないときに、{dol} は事が存在しないときに用います。
+    </p>
+    <xl>
+      <li>
+        <sh>{beqomes a ces e }<s>{dat}</s>{ zi tel.}</sh>
+        <ja>彼は<s>何も</s>私から盗んでい<s>なかっ</s>た。</ja>
+      </li>
+      <li>
+        <sh>{leses a tel e }<s>{dol}</s>{ abûd.}</sh>
+        <ja>私は悪い<s>ことを何も</s>し<s>なかっ</s>た。</ja>
+      </li>
+    </xl>
+    <p>
+      最初の例文では {dat} が用いられていますが、これは盗むのは財布などの「物」であるためです。
+      次の例文には {dol} が含まれていますが、こちらは内容のある「事」であるためです。
+      英語ではどちらも nothing に相当する単語ですが、シャレイア語では物か事かを区別して、別の単語で表現します。
+    </p>
+    <p>
+      {dak} は形容詞として用いられて「0 人の」や「0 個の」などを意味し、修飾する単語が存在しないことを表します。
+    </p>
+    <xl>
+      <li>
+        <sh>{fexasat a lef }<s>{adak}</s>{ i tel.}</sh>
+        <ja>私の知人は<s>誰も</s>結婚してい<s>ない</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文は、{lef adak} で「0 人の知人」を表すので、全体で「私の 0 人の知人が結婚している」すなわち「私の知人は誰も結婚していない」の意味になっています。
+    </p>
+
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{sok}</sh><ja>知る</ja></word>
+    <word><so>名</so><sh>{yét}</sh><ja>真実</ja></word>
+    <word><so>動</so><sh>{sokes}</sh><ja>必要な</ja></word>
+    <word><so>動</so><sh>{kût}</sh><ja>所持する</ja></word>
+    <word><so>名</so><sh>{zat}</sh><ja>もの</ja></word>
+    <word><so>動</so><sh>{vôl}</sh><ja>たくさんの</ja></word>
+    <word><so>動</so><sh>{siref}</sh><ja>おとなしい</ja></word>
+    <word><so>動</so><sh>{yepel}</sh><ja>歌う</ja></word>
+    <word><so>名</so><sh>{tific}</sh><ja>子供</ja></word>
+    <word><so>名</so><sh>{dus}</sh><ja>誰も～しない</ja></word>
+    <word><so>名</so><sh>{dat}</sh><ja>何も～しない</ja></word>
+    <word><so>名</so><sh>{dol}</sh><ja>どんなことも～しない</ja></word>
+    <word><so>動</so><sh>{dak}</sh><ja>どんな～も～しない</ja></word>
+    <word><so>動</so><sh>{dûg}</sh><ja>決して～しない</ja></word>
+    <word><so>動</so><sh>{dum}</sh><ja>全く～しない</ja></word>
+    <word><so>動</so><sh>{keqil}</sh><ja>住む</ja></word>
+    <word><so>動</so><sh>{déqit}</sh><ja>馬鹿にする</ja></word>
+    <word><so>名</so><sh>{loc}</sh><ja>あなた</ja></word>
+    <word><so>動</so><sh>{beqom}</sh><ja>盗む</ja></word>
+    <word><so>動</so><sh>{les}</sh><ja>する</ja></word>
+    <word><so>動</so><sh>{bûd}</sh><ja>悪い</ja></word>
+    <word><so>動</so><sh>{fexas}</sh><ja>結婚する</ja></word>
+    <word><so>名</so><sh>{lef}</sh><ja>知人</ja></word>
+  </word-list>
+
+</section>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 5, 6 -->
+    <state>次の単語を指示された文法的品詞として使える形に活用させなさい。</state>
+    <li>{lic} → 現在時制経過相自動詞</li>
+    <li>{qôl} → 形容詞</li>
+    <li>{bâl} → 副詞</li>
+    <li>{ter} → 過去時制無相他動詞</li>
+    <!-- <li>{cipas} → 名詞</li> -->
+    <li>{voc} → 副詞</li>
+  </element>
+
+  <answer>
+    <li>{licac}</li>
+    <li>{aqôl}</li>
+    <li>{obâl}</li>
+    <li>{terez}</li>
+    <!-- <li>{cipas}</li> -->
+    <li>{evoc}</li>
+  </answer>
+
+  <element> <!-- 5, 6 -->
+    <state>次の活用した単語の文法的品詞を答えなさい。動詞の場合は、その時制と相と自他も併せて答えなさい。</state>
+    <li>{amay}</li>
+    <li>{kômet}</li>
+    <li>{otudkol}</li>
+    <li>{vilisiq}</li>
+    <li>{ebam}</li>
+  </element>
+
+  <answer>
+    <li>形容詞</li>
+    <li>過去時制継続相自動詞</li>
+    <li>副詞</li>
+    <li>未来時制経過相他動詞</li>
+    <li>副詞</li>
+  </answer>
+
+  <element> <!-- 2, 3 -->
+    <state>次の語句を入れ替えて意味の通る文を作りなさい。</state>
+    <li>{a tel} // {vilisac}</li>
+    <li>{odalaz} // {zédices} // {a ces}</li>
+    <li>{déxes} // {etut} // {a tel}</li>
+    <li>{a ces} // {fegis} // {e zeqil}</li>
+    <!-- <li>{tel} // {abig} // {a} // {e} // {kotikes} // {nát}</li> -->
+    <li>{axodol} // {séqes} // {tel} // {a} // {e} // {qikov} // {afik}</li>
+    <li>{a} // {catac} // {hinof} // {tel} // {i}</li>
+    <li>{aqon} // {vo} // {xolacac} // {qasot} // {teqiv} // {a} // {ebam} </li>
+  </element>
+
+  <answer>
+    <li>{vilisac a tel.}</li>
+    <li>{zédices odalaz a ces.} <sm>({odalaz} は文末でも可)</sm></li>
+    <li>{déxes a tel etut.}</li>
+    <li>{fegis a ces e zeqil.}</li>
+    <!-- <li>{kotikes a tel e nát abig.}</li> -->
+    <li>{séqes a tel e qikov axodol afik.}</li>
+    <li>{catac a hinof i tel.}</li>
+    <li>{xolacac a qasot vo teqiv aqon ebam.}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{zédicac a tel.}</li>
+    <li>{zavagac a fakel vo naflat.}</li>
+    <li>{qoletes a ces e sod te tazîk.}</li>
+    <li>{nifetis a tel e sokiq azaf ca fêd okôk.}</li>
+    <li>{déqez a tel li refet ca dezet.}</li>
+    <li>{cipases ocazec a tel ca qasot e déx.}</li>
+    <li>{feges a yaf i tel e sakil amay etim vo vosis afik.}</li>
+  </element>
+
+  <answer> 
+    <li>私は運動している。</li>
+    <li>女性が公園で叫んでいる。</li>
+    <li>彼は家を昨日売った。</li>
+    <li>私は赤い腕時計をここに必ず持ってくるだろう。</li>
+    <li>私は友達を椅子に座らせた。</li>
+    <li>私は息子に眠るよう真剣に頼んだ。</li>
+    <li>私の妹は少し甘いリンゴをこの店で買った。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li>猫が現れた。</li>
+    <li>彼はミカンを食べている。</li>
+    <li>私は今座っている。</li>
+    <li>私はおいしいチョコレートを彼にあげた。</li>
+    <li>私の息子も公園に明日行く。</li>
+    <li>私は車がとても好きだ。</li>
+    <li>彼は妹にワンピースを着せた。</li>
+  </element>
+
+  <answer>
+    <li>{kâkak a monaf.} <sm>({kâkak} の代わりに {kâkes} でも可)</sm></li>
+    <li>{sôdac a ces e lesit.}</li>
+    <li>{déqat a tel te sot.}</li>
+    <li>{séqes a tel e latyem asaret ca ces.}</li>
+    <li>{lanis a qasot i tel ca naflat te tacar.}</li>
+    <li>{sâfat ovel ebam a tel e loqis.}</li>
+    <li>{kômez a ces li yaf e hâlfeloq.}</li>
+  </answer>
+
+  <word-list>
+    <word><so>動</so><sh>{cat}</sh><ja>歩く</ja></word>
+    <word><so>名</so><sh>{vosis}</sh><ja>店</ja></word>
+  </word-list>
+
+</exercise>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="接続詞としての助接詞">
+
+  <example-list>
+    <li>
+      <sh>{nîpet a loqiv ovip, te zêfek a tel ca kolot.}</sh>
+      <ja>私が駅に着いたとき、電車はすでに行ってしまっていた。</ja>
+    </li>
+    <li>
+      <sh>{ri kûtit a tel e kisol avosfom, fegis a tel e taqòd.}</sh>
+      <ja>もし私が膨大な量のお金を持っていたら、島を買うだろう。</ja>
+    </li>
+    <li>
+      <sh>{kômot a ces e levlis, te edif ricamos a ces vo riy.}</sh>
+      <ja>彼は海で泳ぐときでさえ、眼鏡をかけている。</ja>
+    </li>
+    <li>
+      <sh>{lanes a ces ca naflat. so, paleves a ces e tílirsítpiv.}</sh>
+      <ja>彼女は公園に行った。それは四つ葉のクローバーを探すためだ。</ja>
+    </li>
+  </example-list>
+
+  <element title="接続詞としての助接詞">
+    <p>
+      <section-number title="語彙的品詞と文法的品詞"/>で学んだように、助接詞は文中で助詞としても接続詞としても使うことができます。
+      助詞としての用法は、<section-number title="動詞と助詞句"/>で学んだ通りです。
+      復習しておくと、名詞の前に置かれて、主語や時間などのその名詞の文中での意味的役割を示すのでした。
+      また、<section-number title="特殊な動詞"/>で学んだように、一部の動詞とともに使われる場合は、助詞の後に形容詞が置かれることもあったのでした。
+    </p>
+    <p>
+      この課では、助接詞を接続詞として使った場合の用法を学びます。
+      助接詞を接続詞として使うと、<section-number title="連結詞"/>で学んだ連結詞と似て、文と文を接続する役割を果たします。
+    </p>
+    <p>
+      ただし、一部の助接詞には接続詞としての用法がありません。
+      ここまで出てきた助接詞の中では、{a} や {e} などがこれに該当します。
+      以下に、接続詞として使うことができる主な助接詞を挙げておきます。
+    </p>
+    <table>
+      <tr><td>単語</td><td colspan="2">意味</td></tr>
+      <tr><td>{te}</td><td>～するとき</td><td>時間</td></tr>
+      <tr><td>{qi}</td><td>～することで</td><td>手段</td></tr>
+      <tr><td>{vade}</td><td>～なので</td><td>理由</td></tr>
+      <tr><td>{ri}</td><td>もし～</td><td>条件</td></tr>
+      <tr><td>{so}</td><td>～するために</td><td>目的</td></tr>
+      <tr><td>{cife}</td><td>～しながら</td><td>同時</td></tr>
+    </table>
+    <p>
+      なお、この課で扱う範囲では、接続詞として扱う場合でも、助接詞は活用せず語幹がそのまま用いられます。
+      活用した助接詞の用法については、<section-number title="助接詞の非動詞修飾形"/>などで学びます。
+    </p>
+  </element>
+
+  <element title="接続詞としての助接詞の用法">
+    <p>
+      接続詞としての助接詞の使い方は以下の通りです。
+      まず、助接詞の意味を付け加えたい方の文の前に、その助接詞を置きます。
+      例えば、{te} は接続詞として「～するとき」のように時間を表すので、時間を表したい文の前に {te} を置きます。
+      この助接詞を付けた文を別の文の後に置き、助接詞の前にタデックを置けば、2 つの文を繋げることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{nîpet a loqiv ovip, }<s>{te}</s>{ zêfek a tel ca kolot.}</sh>
+        <ja>私が駅に着いた<s>とき</s>、電車はすでに行ってしまっていた。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、{nîpet a loqiv ovip} と {zêfek a tel ca kolot} という 2 つの文を {te} が繋げています。
+      {te} が付けられているのは {zêfek} から始まる文の方なので、{zêfek} から始まる文が {nîpet} から始まる文の時間を表すことになります。
+    </p>
+    <p>
+      接続詞として使われている助接詞が付けられた方の文を「接続詞節」といい、そうでない方の文を「主節」といいます。
+    </p>
+    <p>
+      なお、連結詞の場合と同様、助接詞の前のタデックは省略することができます。
+      接続されている 2 つの文がともに短い場合は、タデックが省略されやすい傾向にあります。
+    </p>
+    <p>
+      他の助接詞を使った例もいくつか挙げておきます。
+    </p>
+    <xl>
+      <li>
+        <sh>{dusâfat a tel e micés afik, }<s>{vade}</s>{ salat a cit e asítet ebam.}</sh>
+        <ja>とても酸っぱい<s>ので</s>、私はこのイチゴが好きではない。</ja>
+      </li>
+      <li>
+        <sh>{semisez a tel li qazek acik, }<s>{qi}</s>{ tepites a tel e lôcet ca kutaf.}</sh>
+        <ja>口にテープを貼り付ける<s>ことで</s>、私はその男を黙らせた。</ja>
+      </li>
+    </xl>
+    <p>
+      助接詞が接続詞として文を繋げているとき、その文が疑問文になっているならば、主節の方の動詞の前のみに {pa} を置きます。
+      連結詞が疑問文を繋げているときは、両方の文の動詞の前に {pa} が必要だったので、この場合とは {pa} の扱いが異なることに注意してください。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{pa}</s>{ lîdec a loc e xoq apek, te qetet a loc vo sokulxoq?}</sh>
+        <ja>図書室にいたとき、あなたは何の本を読んでいたのです<s>か</s>?</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="接続詞節の位置">
+    <p>
+      ここまでの文では主節の後に接続詞節が置かれていましたが、主節の前に接続詞節を置くこともできます。
+      その場合、主節の直前に必ずタデックを置きます。
+      このタデックは省略できません。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{ri kûtit a tel e kisol avosfom}</s>{, fegis a tel e taqòd.}</sh>
+        <ja><s>もし私が膨大な量のお金を持っていたら</s>、島を買うだろう。</ja>
+      </li>
+    </xl>
+    <p>
+      このように接続詞節を主節の前に置けるのは、その接続詞が助接詞である場合だけです。
+      その接続詞が連結詞だった場合、この構文にすることはできません。
+    </p>
+  </element>
+
+  <element title="接続詞節を修飾する語句の位置">
+    <p>
+      接続詞節全体を何らかの語句で修飾したい場合がときどきあります。
+      そのような場合、少し例外的ですが、接続詞の直後にその修飾語句を置きます。
+      それ以外の場所に修飾語句を置くことはできません。
+    </p>
+    <xl>
+      <li>
+        <sh>{kômot a ces e levlis, te }<s>{edif}</s>{ ricamos a ces vo riy.}</sh>
+        <ja>彼は海で泳ぐときで<s>さえ</s>、眼鏡をかけている。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「彼が海で泳ぐとき」という意味の {te} 節全体を「さえ」という意味の {edif} が修飾し、全体で「彼が海で泳ぐときでさえ」という意味の節を作っています。
+    </p>
+  </element>
+
+  <element title="接続詞の副詞的用法">
+    <p>
+      接続詞節が主節の後に置かれている文において、接続詞の前のタデックをデックを変えて一度文を切ることができます。
+      このようにした場合、さらに接続詞の直後にタデックを置きます。
+    </p>
+    <p>
+      例えば以下の文を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{lanes a ces ca naflat, }<s>{so}</s>{ paleves a ces e tílirsítpiv.}</sh>
+        <ja>彼女は四つ葉のクローバーを探す<s>ために</s>公園に行った。</ja>
+      </li>
+    </xl>
+    <p>
+      この文で使われている接続詞 {so} の直前のタデックをデックに変え、{so} の直後にタデックを置くと以下のようになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{lanes a ces ca naflat. }<s>{so}</s>{, paleves a ces e tílirsítpiv.}</sh>
+        <ja>彼女は公園に行った。<s>それは</s>四つ葉のクローバーを探す<s>ため</s>だ。</ja>
+      </li>
+    </xl>
+    <p>
+      このようにすると文が一度区切られるので、接続詞が文を繋げているというよりは、前後の文の意味的な関係が接続詞によって明示されていると考える方が自然です。
+      そこで、このような用法は「接続詞の副詞的用法」と呼ばれています。
+    </p>
+    <p>
+      接続詞の副詞的用法は、その接続詞が連結詞である場合でも使うことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{déxez a tel e qasot o fay. }<s>{dà}</s>{, feketes a ces ofev.}</sh>
+        <ja>私は息子と娘を寝かせた。<s>しかし</s>、すぐに起きてしまった。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <word-list>
+    <word><so>助</so><sh>{ri}</sh><ja>もし～</ja></word>
+    <word><so>助</so><sh>{so}</sh><ja>～するために</ja></word>
+    <word><so>助</so><sh>{cife}</sh><ja>～しながら</ja></word>
+    <word><so>名</so><sh>{loqiv}</sh><ja>電車</ja></word>
+    <word><so>動</so><sh>{zêf}</sh><ja>着く</ja></word>
+    <word><so>名</so><sh>{kolot}</sh><ja>駅</ja></word>
+    <word><so>名</so><sh>{micés}</sh><ja>イチゴ</ja></word>
+    <word><so>動</so><sh>{sítet}</sh><ja>酸っぱい</ja></word>
+    <word><so>動</so><sh>{semis}</sh><ja>黙る</ja></word>
+    <word><so>名</so><sh>{qazek}</sh><ja>男</ja></word>
+    <word><so>動</so><sh>{tepit}</sh><ja>貼り付ける</ja></word>
+    <word><so>名</so><sh>{lôcet}</sh><ja>テープ</ja></word>
+    <word><so>名</so><sh>{kutaf}</sh><ja>口</ja></word>
+    <word><so>動</so><sh>{lîd}</sh><ja>読む</ja></word>
+    <word><so>名</so><sh>{sokulxoq}</sh><ja>図書室</ja></word>
+    <word><so>動</so><sh>{vosfom}</sh><ja>膨大な</ja></word>
+    <word><so>名</so><sh>{taqòd}</sh><ja>島</ja></word>
+    <word><so>名</so><sh>{levlis}</sh><ja>眼鏡</ja></word>
+    <word><so>副</so><sh>{dif}</sh><ja>さえ</ja></word>
+    <word><so>動</so><sh>{ricam}</sh><ja>泳ぐ</ja></word>
+    <word><so>名</so><sh>{riy}</sh><ja>海</ja></word>
+    <word><so>動</so><sh>{palev}</sh><ja>探す</ja></word>
+    <word><so>動</so><sh>{tílirsítpiv}</sh><ja>四つ葉のクローバー</ja></word>
+    <word><so>名</so><sh>{fay}</sh><ja>娘</ja></word>
+    <word><so>動</so><sh>{feket}</sh><ja>起きる</ja></word>
+    <word><so>動</so><sh>{fev}</sh><ja>すぐに</ja></word>
+  </word-list>
+
+</section>

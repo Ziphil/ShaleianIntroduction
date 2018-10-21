@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="数詞の用法">
+
+  <example-list>
+    <li>
+      <sh>{rescales a tel e seklac iloke dales al'atisiltis.}</sh>
+      <ja>私は 101 匹の犬に関する映画を鑑賞した。</ja>
+    </li>
+    <li>
+      <sh>{vomes qidokos a tel e qikov afik la tal al'ayos.}</sh>
+      <ja>私はこのパソコンを 3 回修理した。</ja>
+    </li>
+    <li>
+      <sh>{salot a hidsol afik e alot ile lôt 4400.}</sh>
+      <ja>この橋は 4400 m の長さだ。</ja>
+    </li>
+    <li>
+      <sh>{savat déxis a loc dite tat ile tef 23 meris 30.}</sh>
+      <ja>あなたは 23 時 30 分までには寝た方が良い。</ja>
+    </li>
+    <li>
+      <sh>{salot a yus e atûl emic ini xel.}</sh>
+      <ja>3 は 5 より小さい。</ja>
+    </li>
+  </example-list>
+
+  <element title="基数と序数">
+    <p>
+      動詞型不定詞の数詞の形容詞形の前に {al'} を付けると、全体で「～個の」や「～人の」のような基数を表す形容詞句ができます。
+      例えば、{al'aric} で「6 個の」のような意味になります。
+      なお、日本語では修飾する名詞によって「匹」や「冊」など数えるときに使う単語を変えますが、シャレイア語では常に {al'} を用います。
+    </p>
+    <xl>
+      <li>
+        <sh>{rescales a tel e seklac iloke dales }<s>{al'atisiltis}</s>{.}</sh>
+        <ja>私は <s>101 匹の</s>犬に関する映画を鑑賞した。</ja>
+      </li>
+    </xl>
+    <p>
+      {al'} の代わりに {ac'} を付けると、「～個目の」や「～番目の」のような序数を表します。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a saq e taqxáf }<s>{ac'45}</s>{ ica tel.}</sh>
+        <ja>今日は私の <s>45 回目の</s>誕生日です。</ja>
+      </li>
+    </xl>
+    <p>
+      {al'} や {ac'} は、それぞれ {avôl ile lêk} と {acál ile cav} の縮約形です。
+      ただし、この縮約される前の形が用いられることは、<section-number title="比較表現発展"/>で学ぶ「以上」や「以下」の表現の時を除いて、非常に稀です。
+      ここに出てくる {le} については後で扱います。
+    </p>
+  </element>
+
+  <element title="回数の表現">
+    <p>
+      物事を行った回数を表現するには、「回」を意味する {tal} に基数を付け、全体を {la} 句にします。
+      例えば、「3 回」は {la tal al'ayos} となります。
+    </p>
+    <p>
+      {la} は一般助接詞なので、回数を表す {la} 句は {a} 句などのようにそのまま動詞に係ります。
+      また、回数の表現は必然的に反復を表すので、常に {vom} を用いた反復表現とともに用いられます。
+      反復表現に関しては、<section-number title="反復表現"/>で学んだ通りです。
+    </p>
+    <xl>
+      <li>
+        <sh>{vomes qidokos a tel e qikov afik }<s>{la tal al'ayos}</s>{.}</sh>
+        <ja>私はこのパソコンを <s>3 回</s>修理した。</ja>
+      </li>
+    </xl>
+    <p>
+      {tal} に基数ではなく序数を付けると、その行為が何回目かを表現することができます。
+      例えば、{la tal ac'ayos} で「3 回目に～する」もしくは「～するのは 3 回目だ」のような表現になります。
+      この場合は反復を表しているわけではないので、反復表現にはしません。
+    </p>
+    <xl>
+      <li>
+        <sh>{lekutes a tel ca tècaq vo kolettèc afik }<s>{la tal ac'ayos}</s>{.}</sh>
+        <ja>この港から船に乗るのは <s>3 回目</s>だった。</ja>
+      </li>
+    </xl>
+    <p>
+      序数の代わりに「最初の」を意味する {cates} の形容詞形を置くことで、「～するのは最初の回だ」すなわち「初めて～する」を表現できます。
+    </p>
+    <xl>
+      <li>
+        <sh>{lices a tel te tazîk e rihic }<s>{la tal acates}</s>{.}</sh>
+        <ja>私は昨日<s>初めて</s>虹を見た。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{le}">
+    <p>
+      特殊助接詞の {le} を用いることで、「長い」や「古い」などの形容詞の度合いを「4400 m」や「17 年」のような数値によって具体的に説明することができます。
+      そのためには、単位を表す名詞の直後に動詞型不定詞の数詞の形容詞形を置き、その前に {le} の非動詞修飾形である {ile} を付け、できた {ile} 句全体を形容詞の後に置きます。
+      すなわち、最終的に「形容詞＋ {ile} ＋単位＋数詞」という形になります。<!-- form -->
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a hidsol afik e }<s>{alot ile lôt 4400}</s>{.}</sh>
+        <ja>この橋は <s>4400 m の</s>長さだ。</ja>
+      </li>
+    </xl>
+    <p>
+      注意すべき点は、{ile} 句の中は単位と数詞が置かれるわけですが、このときの数詞としては動詞型不定詞の形容詞形をそのまま用いるというところです。
+      {al'} や {ac'} は必要ありません。
+      これは数詞が単位に係る場合のみで、その他の場合では、基数として用いているか序数として用いているかに応じて、必ず {al'} か {ac'} を付ける必要があります。
+    </p>
+    <p>
+      人の年齢や身長も {le} を用いて表すことができます。
+      例えば、「17 歳」は「17 年分古い」と考えて {aqôl ile latvác atisetsez} とします。
+      「153 cm の身長」については「153 cm 分長い」と考えて {alot ile mulôt 153} となります。
+      英語の tall に相当する単語はシャレイア語にもありますが、人の身長に関しては「長い」の意味の {lot} を使うことに注意してください。 
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a ces e }<s>{aqôl ile latvác atisetsez}</s>{ olôx.}</sh>
+        <ja>彼女は永遠に <s>17 歳</s>だ。</ja>
+      </li>
+      <li>
+        <sh>{salat a tel e }<s>{alot ile mulôt 153}</s>{ te sot.}</sh>
+        <ja>私の今の<s>身長</s>は <s>153 cm</s> だ。</ja>
+      </li>
+    </xl>
+    <p>
+      その他、{le} は倍数や順位も表すことができますが、それについては<section-number title="比較表現発展"/>で学びます。
+    </p>
+    <p>
+      基数を表す {al'} は {avôl ile lêk} の縮約形だと説明しましたが、ここに出てくる {le} も今説明した {le} です。
+      {lêk} は日本語の「個」などに対応する単語で、個数や人数などを数えるときに用いる単位です。
+      {avôl} は「多い」という意味の形容詞なので、{avôl ile lêk} は「～個分の多さの」という意味になり、これで基数を表すことができるわけです。
+      また、序数を表す {ac'} は {acál ile cav} の縮約形ですが、こちらは直訳で「～番だけ (最初から数えて) 次の」という意味になるので、序数を表すことができるわけです。
+    </p>
+  </element>
+
+  <element title="日付と時刻の表現">
+    <p>
+      日付の表現には序数を用います。
+      例えば「7 月 15 日」のような日付を表すには、「7 番目の月の 15 番目の日」と考えて {taq ac'15 i ben ac'7} とします。
+      日本語と違い、日→月→年の順番になることに注意してください。
+      日と月の間や月と年の間には {i} を入れるのが正式ですが、この {i} に限っては省略されることがしばしばあります。
+    </p>
+    <xl>
+      <li>
+        <sh>{pariqes a ces te }<s>{taq ac'15 ben ac'7 vác ac'2018}</s>{.}</sh>
+        <ja>彼は<s>2018 年 7 月 15 日</s>にいなくなった。</ja>
+      </li>
+    </xl>
+    <p>
+      シャレイア語には、「日」や「年」を表す単語が 2 種類ずつあります。
+      例えば、「年」に相当する単語には {vác} と {latvác} があります。
+      日付を表現する際は {vác} を用い、{ile} 句の中で単位として「1 年」を表したい場合は {latvác} を用いるので、混同しないよう注意してください。
+    </p>
+    <p>
+      時刻を表現するには、{tat ile} の後に単位＋数詞の塊を続けます。
+      例えば、「23 時」は {tat ile tef}[ 23] となります。
+      「23 時 30 分」のように分まで言いたい場合は、単位＋数詞の形を 2 つ繋げて {tat ile tef}[ 23 ]{meris}[ 30] とします。
+      このとき、時→分→秒の順で並べます。
+    </p>
+    <xl>
+      <li>
+        <sh>{savat déxis a loc dite }<s>{tat ile tef 23 meris 30}</s>{.}</sh>
+        <ja>あなたは <s>23 時 30 分</s>までには寝た方が良い。</ja>
+      </li>
+    </xl>
+    <p>
+      日付の表現には序数を用いましたが、時刻の表現では序数を使わず数詞をそのまま使います。
+      時刻の表現では {ac'} を付けないように注意してください。
+    </p>
+  </element>
+
+  <element title="名詞型不定詞の数詞の用法">
+    <p>
+      名詞型不定詞の数詞は、名詞として用いられてその数そのものを表します。
+    </p>
+    <xl>
+      <li>
+        <sh>{salot a }<s>{yus}</s>{ e atûl emic ini }<s>{xel}</s>{.}</sh>
+        <ja><s>3</s> は <s>5</s> より小さい。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <word-list>
+    <word><so>縮</so><sh>{al'}</sh><ja>{avôl ile lêk}</ja></word>
+    <word><so>動</so><sh>{rescal}</sh><ja>鑑賞する</ja></word>
+    <word><so>名</so><sh>{seklac}</sh><ja>映画</ja></word>
+    <word><so>助</so><sh>{loke}</sh><ja>～に関して</ja></word>
+    <word><so>縮</so><sh>{ac'}</sh><ja>{acál ila cav}</ja></word>
+    <word><so>名</so><sh>{taqxáf}</sh><ja>誕生日</ja></word>
+    <word><so>助</so><sh>{le}</sh><ja>～の</ja></word>
+    <word><so>名</so><sh>{lêk}</sh><ja>個</ja></word>
+    <word><so>名</so><sh>{cav}</sh><ja>番</ja></word>
+    <word><so>名</so><sh>{tal}</sh><ja>1 回</ja></word>
+    <word><so>助</so><sh>{la}</sh><ja>～で</ja></word>
+    <word><so>動</so><sh>{qidok}</sh><ja>修理する</ja></word>
+    <word><so>名</so><sh>{tècaq}</sh><ja>船</ja></word>
+    <word><so>名</so><sh>{kolettèc}</sh><ja>港</ja></word>
+    <word><so>名</so><sh>{rihic}</sh><ja>虹</ja></word>
+    <word><so>動</so><sh>{cates}</sh><ja>最初の</ja></word>
+    <word><so>名</so><sh>{hidsol}</sh><ja>橋</ja></word>
+    <word><so>名</so><sh>{lôt}</sh><ja>1 m</ja></word>
+    <word><so>名</so><sh>{latvác}</sh><ja>1 年</ja></word>
+    <word><so>名</so><sh>{mulôt}</sh><ja>1 cm</ja></word>
+    <word><so>動</so><sh>{lôx}</sh><ja>永遠に</ja></word>
+    <word><so>動</so><sh>{pariq}</sh><ja>消える</ja></word>
+    <word><so>名</so><sh>{tat}</sh></word>
+    <word><so>名</so><sh>{tef}</sh><ja>1 時間</ja></word>
+    <word><so>名</so><sh>{meris}</sh><ja>1 分</ja></word>
+    <word><so>動</so><sh>{sav}</sh><ja>した方が良くする</ja></word>
+    <word><so>動</so><sh>{tûl}</sh><ja>小さい</ja></word>
+  </word-list>
+
+</section>

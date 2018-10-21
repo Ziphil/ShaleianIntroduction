@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="形容詞と副詞">
+
+  <example-list>
+    <li>
+      <sh>{sôdes a tel e letyem amay.}</sh>
+      <ja>私は甘いチョコレートを食べた。</ja>
+    </li>
+    <li>
+      <sh>{feges a tel e loqis axodol ebam.}</sh>
+      <ja>私はとても高価な車を買った。</ja>
+    </li>
+    <li>
+      <sh>{kâkes a ces obâl.}</sh>
+      <ja>彼は突然現れた。</ja>
+    </li>
+  </example-list>
+
+  <element title="形容詞">
+    <p>
+      形容詞は、それが修飾する名詞の後ろに置かれます。
+      例えば、「甘い」を意味する形容詞 {amay} に「チョコレート」を意味する名詞 {letyem} を修飾させたい場合は、{amay} の方を後ろに置いて {letyem amay} とします。
+    </p>
+    <p>
+      形容詞とそれが修飾する名詞を合わせて 1 つの名詞として扱える語句ができるので、その前に助詞を置いて文の要素にすることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{sôdes a tel e }<s>{letyem amay}</s>{.}</sh>
+        <ja>私は<s>甘いチョコレート</s>を食べた。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、{letyem amay} で「甘いチョコレート」という名詞句ができているので、そこに目的語を表す助詞の {e} をつけています。
+    </p>
+    <p>
+      同じ名詞を修飾する形容詞が複数ある場合は、それらの形容詞を名詞の後に順に並べます。
+    </p>
+    <xl>
+      <li>
+        <sh>{qonoces a tel e }<s>{talem aqôl ajudôl}</s>{.}</sh>
+        <ja>私は<s>古くて汚いタオル</s>を捨てた。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文中では、それぞれ「古い」と「汚い」を意味する {aqôl} と {ajudôl} という 2 つの形容詞が、{talem} という名詞を修飾しています。
+    </p>
+    <p>
+      形容詞が複数ある場合のその順番は自由です。
+      順番によるニュアンスの変化はほぼありません。
+      ただし、「この」や「その」のような指示形容詞が含まれている場合は、それが最後に置かれます。
+    </p>
+    <xl>
+      <li>
+        <sh>{kômes a tel e }<s>{solak afâl afik}</s>{ te tazîk.}</sh>
+        <ja>私は<s>このかわいらしい洋服を</s>昨日着た。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、{afâl} と {afik} という 2 つの形容詞が {solak} を修飾していますが、{afik} は「この」を意味する指示形容詞なので、{afâl} より後に置かれています。
+      {afâl} と {afik} の順番を変えて {solak afik afâl} とすることはできません。
+    </p>
+  </element>
+
+  <element title="形容詞を修飾する副詞">
+    <p>
+      副詞には様々な種類がありますが、まず形容詞を修飾するものを扱います。
+      このような種類の副詞には、「とても」などがあります。
+    </p>
+    <p>
+      形容詞を修飾する副詞は、その形容詞の直後に置かれます。
+      すでに説明したように、名詞を修飾する形容詞はその名詞の直後に並べられますが、それと同じです。
+    </p>
+    <xl>
+      <li>
+        <sh>{feges a tel e loqis }<s>{axodol ebam}</s>{.}</sh>
+        <ja>私は<s>とても高価な</s>車を買った。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「とても」を意味する {ebam} が文末側から {axodol} を修飾し、{axodol ebam} という「とても高価な」を意味する形容詞句を作っています。
+      形容詞は名詞の直後に置くのでしたから、この {axodol ebam} を {loqis} の後ろに置くことで、「とても高価な車」という意味の語句ができています。
+    </p>
+    <p>
+      日本語の「すぎる」に相当するシャレイア語の {evêk} も、このタイプの副詞です。
+    </p>
+    <xl>
+      <li>
+        <sh>{sôdes a tel e tolék }<s>{asaret evêk}</s>{.}</sh>
+        <ja>私は<s>おいしすぎる</s>料理を食べた。</ja>
+      </li>
+    </xl>
+    <p>
+      上の例文では、{evêk} が {asaret} を修飾し、{asaret evêk} という「おいしすぎる」を意味する形容詞句ができています。
+    </p>
+  </element>
+
+  <element title="名詞を修飾する副詞">
+    <p>
+      副詞には名詞を修飾するものもあります。
+      シャレイア語では、「だけ」を意味する {etut} や「も」を意味する {evoc} などがこれに当たります。
+      なお、日本語の「も」は助詞に分類されますが、シャレイア語の {evoc} は副詞として扱われます。
+    </p>
+    <p>
+      形容詞を修飾する副詞の場合と同様に、名詞を修飾する副詞は、修飾する名詞の直後に置かれます。
+    </p>
+    <xl>
+      <li>
+        <sh>{nîpes a }<s>{tel etut}</s>{ zi cêd.}</sh>
+        <ja><s>私だけ</s>がそこから去った。</ja>
+      </li>
+      <li>
+        <sh>{cákes a }<s>{ces evoc}</s>{ ca sod i tel.}</sh>
+        <ja><s>彼も</s>私の家に来た。</ja>
+      </li>
+    </xl>
+    <p>
+      最初の例では、{etut} が後ろから {tel} を修飾し、{tel etut} で「私だけ」という意味の名詞句ができています。
+      次の例では、{evoc} が {ces} を修飾し、{ces evoc} で「私も」という意味の名詞句が作られています。
+    </p>
+    <p>
+      なお、日本語の「も」は他の助詞と取って代わって使われますが、シャレイア語の {evoc} は副詞なので、別途助詞が必要です。
+      上の例文では、{ces evoc} に助詞の {a} が付けられて、主語として文中で用いられています。
+    </p>
+  </element>
+
+  <element title="動詞を修飾する副詞">
+    <p>
+      「突然」なども副詞ですが、これは「突然現れる」のように動詞に係ります。
+      このような動詞を修飾する副詞は少し特殊で、動詞の直後に置くこともできますが、文末にも置いても構いません。
+    </p>
+    <xl>
+      <li>
+        <sh>{kâkes }<s>{obâl}</s>{ a ces.}</sh>
+        <ja><s>突然</s>彼は現れた。</ja>
+      </li>
+      <li>
+        <sh>{kâkes a ces }<s>{obâl}</s>{.}</sh>
+        <ja>彼は<s>突然</s>現れた。</ja>
+      </li>
+    </xl>
+    <p>
+      最初の例文では、「突然」を意味する副詞の {obâl} が動詞の {kâkes} の直後に置かれています。
+      一方で次の例文では、{obâl} は文末に置かれています。
+      どちらも正しい文になります。
+    </p>
+    <p>
+      動詞を修飾する副詞が 2 つ以上ある場合、全てを動詞の直後に並べたり、全てを文末に並べたりしても良いですが、一部を動詞の直後に置き、残りを文末に置くこともできます。
+    </p>
+    <xl>
+      <li>
+        <sh>{vilises a ces vo naflat }<s>{ocazec}</s>{ }<s>{ovit}</s>{.}</sh>
+        <ja>彼は公園で<s>真剣に速く</s>走った。</ja>
+      </li>
+      <li>
+        <sh>{vilises }<s>{ovit}</s>{ a ces vo naflat }<s>{ocazec}</s>{.}</sh>
+        <ja>彼は<s>速く</s>公園で<s>真剣に</s>走った。</ja>
+      </li>
+    </xl>
+    <p>
+      最初は 2 つの副詞を両方とも文末に置いた例で、次は {ovit} を動詞の直後に置き {ocazec} を文末に置いた例です。
+      どちらも正しい文章ですが、多少のニュアンスの違いがあります。
+      これについては、<section-number title="助詞句の順序"/>で詳しく学びます。
+    </p>
+  </element>
+
+  <element title="語順のまとめ">
+    <p>
+      この課では、形容詞と各種の副詞の語順について個別に学びましたが、実はこれらの語順は全てまとめて 1 つの規則で言い表すことができます。
+      それは、「修飾語句は被修飾語の後に並べる」という規則です。
+    </p>
+    <p>
+      形容詞は名詞を修飾するものなので、この規則を当てはめると、修飾語句である形容詞は被修飾語である名詞の直後に置かれることになります。
+      このことは、すでに学んだ内容と一致しています。
+      副詞についても、例えば形容詞を修飾するものはその形容詞の直後に置かれるのでしたから、この規則通りです。
+    </p>
+    <p>
+      ただし、動詞を修飾する副詞は少し例外です。
+      「修飾語句は被修飾語の後に並べる」という規則を当てはめれば、このタイプの副詞は動詞の直後に置くことになりますが、すでに説明したように文末に置くことも許されています。
+    </p>
+    <p>
+      なお、形容詞と副詞はともに何らかの単語を修飾するものなので、まとめて「修飾詞」と呼ばれることがあります。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{may}</sh><shd>{amay}</shd><ja>甘い</ja></word>
+    <word><so>名</so><sh>{letyem}</sh><ja>チョコレート</ja></word>
+    <word><so>動</so><sh>{qonec}</sh><shd>{qoneces}</shd><ja>捨てる</ja></word>
+    <word><so>名</so><sh>{talem}</sh><ja>タオル</ja></word>
+    <word><so>動</so><sh>{qôl}</sh><shd>{aqôl}</shd><ja>古い</ja></word>
+    <word><so>動</so><sh>{judôl}</sh><shd>{ajudôl}</shd><ja>汚い</ja></word>
+    <word><so>動</so><sh>{kôm}</sh><shd>{kômes}</shd><ja>着る</ja></word>
+    <word><so>名</so><sh>{solak}</sh><ja>洋服</ja></word>
+    <word><so>動</so><sh>{fâl}</sh><shd>{afâl}</shd><ja>かわいらしい</ja></word>
+    <word><so>動</so><sh>{fik}</sh><shd>{afik}</shd><ja>この</ja></word>
+    <word><so>動</so><sh>{feg}</sh><shd>{fegeq}</shd><ja>買う</ja></word>
+    <word><so>名</so><sh>{loqis}</sh><ja>車</ja></word>
+    <word><so>動</so><sh>{xodol}</sh><shd>{axodol}</shd><ja>高価な</ja></word>
+    <word><so>副</so><sh>{bam}</sh><shd>{ebam}</shd><ja>とても</ja></word>
+    <word><so>副</so><sh>{vêk}</sh><shd>{evêk}</shd><ja>すぎる</ja></word>
+    <word><so>名</so><sh>{tolék}</sh><ja>料理</ja></word>
+    <word><so>動</so><sh>{saret}</sh><shd>{asaret}</shd><ja>おいしい</ja></word>
+    <word><so>副</so><sh>{tut}</sh><shd>{etut}</shd><ja>だけ</ja></word>
+    <word><so>副</so><sh>{voc}</sh><shd>{evoc}</shd><ja>も</ja></word>
+    <word><so>動</so><sh>{nîp}</sh><shd>{nîpes}</shd><ja>去る</ja></word>
+    <word><so>名</so><sh>{cêd}</sh><ja>そこ</ja></word>
+    <word><so>動</so><sh>{cák}</sh><shd>{cákes}</shd><ja>来る</ja></word>
+    <word><so>動</so><sh>{kâk}</sh><shd>{kâkes}</shd><ja>現れる</ja></word>
+    <word><so>動</so><sh>{bâl}</sh><shd>{obâl}</shd><ja>突然</ja></word>
+    <word><so>動</so><sh>{vilis}</sh><shd>{vilises}</shd><ja>走る</ja></word>
+    <word><so>動</so><sh>{cazec}</sh><shd>{ocazec}</shd><ja>真剣に</ja></word>
+    <word><so>動</so><sh>{vit}</sh><shd>{ovit}</shd><ja>速く</ja></word>
+  </word-list>
+
+</section>

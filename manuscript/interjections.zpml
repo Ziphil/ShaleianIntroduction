@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="間投詞">
+
+  <example-list>
+    <li>
+      <sh>{sê, pa lesac a loc e pil?}</sh>
+      <ja>ねえ、何してるの?</ja>
+    </li>
+    <li>
+      <sh>{hafe e kin yeleses a loc e sotishil.}</sh>
+      <ja>孫の世話をしてくれてありがとう。</ja>
+    </li>
+    <li>
+      <sh>{di'kozesis a'c, yo ʻxastil, e'n dukécis okôk a'c e nodom.}</sh>
+      <ja>絶対に嘘をつかないと、シャスティル、約束して。</ja>
+    </li>
+  </example-list>
+
+  <element title="間投詞">
+    <p>
+      シャレイア語では、「こんにちは」や「さようなら」などの挨拶や「うわっ」などの掛け声のようなものは、「間投詞」と呼ばれる語彙的品詞に分類されます。
+      これら間投詞という語彙的品詞に分類される単語は、文中では間投詞という文法的品詞として用いられます。
+      語彙的品詞と文法的品詞の名前が同じですが、間投詞以外の単語が間投詞として使われることはないので、混乱の恐れはありません。
+    </p>
+    <p>
+      間投詞は、文中のあらゆる場所に置くことができます。
+      この際、間投詞の前後に必ずタデックを置きます。
+      ただし、間投詞が文頭にある場合はタデックはその直後のみに置き、間投詞が文末にある場合はタデックはその直前のみに置きます。
+    </p>
+    <p>
+      以下は、呼びかけを意味する {sê} を用いた例です。
+      日本語では「ねえ」などに相当します。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{sê}</s>{, pa lesac a loc e pil?}</sh>
+        <ja><s>ねえ</s>、何してるの?</ja>
+      </li>
+      <li>
+        <sh>{pa pâmat a loc, }<s>{sê}</s>{, e kin bozetes a'c te tazîk e tel?}</sh>
+        <ja>あなたが昨日私を殴ったのを、<s>ねえ</s>、忘れたのですか?</ja>
+      </li>
+    </xl>
+    <p>
+      間投詞は、それ単独で文を成すことができます。
+      挨拶がこのような文の良い例です。
+    </p>
+    <xl>
+      <li>
+        <sh><s>{sîya}</s>{.}</sh>
+        <ja><s>こんにちは</s>。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="主な間投詞">
+    <p>
+      以下に、主な間投詞の一覧を示します。
+    </p>
+    <table>
+      <tr><td>間投詞</td><td>意味</td><td-blank/><td>間投詞</td><td>意味</td></tr>
+      <tr><td>{sîya}</td><td>こんにちは</td><td-blank/><td>{hafe}</td><td>ありがとう</td></tr>
+      <tr><td>{pésa}</td><td>おやすみなさい</td><td-blank/><td>{kôde}</td><td>なるほど</td></tr>
+      <tr><td>{câvo}</td><td>さようなら</td><td-blank/><td>{sê}</td><td>ねえ</td></tr>
+      <tr><td>{dibe}</td><td>ごめんなさい</td><td-blank/><td>{tê}</td><td>えっと</td></tr>
+    </table>
+    <p>
+      各間投詞を用いる場面は、横に付記した日本語を用いる場面とほぼ同じです。
+      ただし、少し日本語の用法と異なるものがあるので、それについて補足しておきます。
+    </p>
+    <p>
+      {sîya} は人に挨拶するときに用いる間投詞で、時間に問わず使うことができます。
+      したがって、日本語の「おはようございます」と「こんにちは」と「こんばんは」のどれとしても使うことができます。
+      仲が良い人が相手ならば、短く {yâ} と言うこともあります。
+    </p>
+    <p>
+      {pésa} は日本語の「おやすみなさい」に相当する単語ですが、まだ起きていようとしている人がこれから寝る人に向かって言う言葉です。
+      これから寝る人は、代わりに「さようなら」に当たる {câvo} と言います。
+    </p>
+    <p>
+      {tê} は言い淀んだときに間を繋ぐために発する言葉です。
+      日本語の「えー」や「えっと」や「あのー」などに相当します。
+      繋ぐべき間が長いときは {telê} とも言います。
+    </p>
+    <p>
+      なお、上の表には載せませんでしたが、諾否疑問文に答えるときに使う {ya} と {du} も間投詞です。
+    </p>
+  </element>
+
+  <element title="助詞句をとる間投詞">
+    <p>
+      一部の間投詞は、特定の助詞句をその直後に続けることで意味の補足をすることができます。
+      この場合、間投詞と助詞句の全体で 1 つの間投詞のように扱うことができます。
+    </p>
+    <p>
+      例えば、「ありがとう」を意味する {hafe} については、感謝している内容を {kin} 節にして {e} 句として {hafe} の直後に置くことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{hafe }<s>{e kin yeleses a loc e sotishil}</s>{.}</sh>
+        <ja><s>孫の世話をしてくれて</s>ありがとう。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{yo}">
+    <p>
+      日本語では、誰か人を呼びたいときに、その人の名前だけを述べれば呼びかけたことになります。
+      しかしシャレイア語では、名前の前に助詞の {yo} を付ける必要があります。
+      例えば、「シャスティル」という名前の人を呼びたければ、{yo ʻxastil} と言います。
+    </p>
+    <p>
+      {yo} 句は助詞句ですが、助詞句というよりは 1 つの間投詞のように用いられます。
+      そのため、間投詞と同じく前後にタデックを置くのが普通です。
+    </p>
+    <xl>
+      <li>
+        <sh>{di'kozesis a'c, }<s>{yo ʻxastil}</s>{, e'n dukécis okôk a'c e nodom.}</sh>
+        <ja>絶対に嘘をつかないと、<s>シャスティル</s>、約束して。</ja>
+      </li>
+    </xl>
+    <p>
+      {yo} 句の中身は、人名だけでなく「先生」や「兄」などの人を指す一般名詞でも構いません。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{yo nîl}</s>{, pa licac a loc e lasav atùk ovop?}</sh>
+        <ja><s>お兄ちゃん</s>、また変なアニメ見てるの?</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="間投詞として用いられる助詞句">
+    <p>
+      {yo} 句以外の助詞句でも、定型表現としてそれ単体で間投詞のように用いられるものがあります。
+      そのような助詞句の例を以下にいくつか挙げておきます。
+    </p>
+    <table>
+      <tr><td>表現</td><td>意味</td></tr>
+      <tr><td>{te lôk acál}</td><td>またね</td></tr>
+      <tr><td>{e pér asas}</td><td>良い夢を</td></tr>
+      <tr><td>{e taqxáf axaslef}</td><td>誕生日おめでとう</td></tr>
+      <tr><td>{yo loc}</td><td>すみません</td></tr>
+    </table>
+    <p>
+      {te lôk acál} は、直訳とすると「次の時間に」のようになり、また今度会うことを期待しつつ誰かと別れるときに使います。
+      次に会う約束や機会がある場合などは、{câvo} より {te lôk acál} の方が好まれます。
+    </p>
+    <p>
+      {e pér asas} は、誰かがこれから寝ようとしているときに言う言葉です。
+      上で紹介した {pésa} は、実はこの表現を短くして 1 単語としたものです。 
+    </p>
+    <p>
+      {e taqxáf axaslef} は、直訳では「素晴らしい誕生日を」となる表現で、相手の誕生日を祝う言葉です。
+      {taqxáf} を別の記念日を表す単語に変えることで、その日を祝う表現にすることができます。
+      例えば、「クリスマス」を意味する {taqkeraset} を用いて {e taqkeraset axaslef} と言えば、「良いクリスマスを」や「メリークリスマス」のような意味になります。
+    </p>
+    <p>
+      {yo loc} は、道端などで通りがかりの人に声をかけるときに用いる表現です。
+      見知らぬ土地で人に道を聞きたいときや、インタビューで町の人に声をかけるときなどに使います。
+    </p>
+    <p>
+      ちなみに、<section-number title="疑問表現発展"/>で出てきた相手への確認を表す {pa e ayát} という表現も、ここに挙げたような間投詞として用いられる助詞句だと考えられます。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>間</so><sh>{sê}</sh><ja>ねえ</ja></word>
+    <word><so>間</so><sh>{sîya}</sh><ja>こんにちは</ja></word>
+    <word><so>間</so><sh>{pésa}</sh><ja>おやすみなさい</ja></word>
+    <word><so>間</so><sh>{câvo}</sh><ja>さようなら</ja></word>
+    <word><so>間</so><sh>{dibe}</sh><ja>ごめんなさい</ja></word>
+    <word><so>間</so><sh>{hafe}</sh><ja>ありがとう</ja></word>
+    <word><so>間</so><sh>{kôde}</sh><ja>なるほど</ja></word>
+    <word><so>間</so><sh>{tê}</sh><ja>えっと</ja></word>
+    <word><so>間</so><sh>{yâ}</sh><ja>やあ</ja></word>
+    <word><so>間</so><sh>{telê}</sh><ja>えっと</ja></word>
+    <word><so>名</so><sh>{sotishil}</sh><ja>孫</ja></word>
+    <word><so>動</so><sh>{kozes}</sh><ja>約束する</ja></word>
+    <word><so>助</so><sh>{yo}</sh><ja>～よ</ja></word>
+    <word><so>動</so><sh>{tùk}</sh><ja>変な</ja></word>
+    <word><so>名</so><sh>{lôk}</sh><ja>時間</ja></word>
+    <word><so>名</so><sh>{pér}</sh><ja>夢</ja></word>
+    <word><so>動</so><sh>{sas}</sh><ja>良い</ja></word>
+    <word><so>動</so><sh>{xaslef}</sh><ja>素晴らしい</ja></word>
+    <word><so>名</so><sh>{taqkeraset}</sh><ja>クリスマス</ja></word>
+  </word-list>
+
+</section>

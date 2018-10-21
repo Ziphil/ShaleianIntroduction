@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="特殊な動詞">
+
+  <example-list>
+    <li>
+      <sh>{salat a tel e zissác.}</sh>
+      <ja>私は教師だ。</ja>
+    </li>
+    <li>
+      <sh>{salat a cèr afik e azâg.}</sh>
+      <ja>このお茶は熱い。</ja>
+    </li>
+    <li>
+      <sh>{kavat a tel e nîl.}</sh>
+      <ja>私には兄がいる。</ja>
+    </li>
+  </example-list>
+
+  <element title="{sal}">
+    <p>
+      「/A/ は /B/ である」ということを述べたい場合は、動詞型不定詞 {sal} を動詞として用い、「{salat a} [/A/] {e} [/B/]」という形にします。<!-- form -->
+      この {sal} は英語の be 動詞に相当する単語です。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{salat}</s>{ a tel e zissác.}</sh>
+        <ja>私は教師<s>だ</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      {sal} が動詞として用いられるときは、常に継続相自動詞として用いられます。
+      時制は 4 種類全てとることができます。
+      したがって、活用形は {salat}, {salet}, {salit}, {salot} の 4 種類のみになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{salet}</s>{ a kedet aquk e kosben.}</sh>
+        <ja>あの建物は病院<s>だった</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      上の例のように {sal} を過去形で用いれば、過去のことを表すことができます。
+    </p>
+  </element>
+
+  <element title="形容詞をとる助詞">
+    <p>
+      {sal} は少し特殊で、動詞として使ったときの {e} 句に名詞だけでなく形容詞も置くことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat a cèr afik }<s>{e azâg}</s>{.}</sh>
+        <ja>このお茶は<s>熱い</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文では、「{salat a} [/A/] {e} [/B/]」という構文において、{e} 句の /B/ の位置に {azâg} という形容詞が置かれ、「お茶が熱い」ということを表しています。<!-- form -->
+    </p>
+    <p>
+      このような助詞句の中身として形容詞が置かれる例は、{sal} の他にも {nis} でも見られます。
+      「{nises a} [/A/] {zi} [/B/] {ca} [/C/]」という形で「/A/ が /B/ という状態から /C/ という状態に変わった」という意味になるのですが、このときの /B/ と /C/ の位置に形容詞が置かれることがあります。<!-- form -->
+    </p>
+    <xl>
+      <li>
+        <sh>{nises a hîx }<s>{zi akesel}</s>{ }<s>{ca alevac}</s>{.}</sh>
+        <ja>空が<s>水色から</s><s>オレンジ色に</s>変わった。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{kav} と {qet}">
+    <p>
+      動詞型不定詞の {kav} は、動詞としてはたいてい継続相自動詞で用いられ、「{kavat a} [/A/] {e} [/B/]」という形で「/A/ に関係して /B/ がある」という意味になります。<!-- form -->
+      英語の have に相当すると考えればイメージが湧きやすいでしょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{kavat}</s>{ a tel e nîl.}</sh>
+        <ja>私には兄が<s>いる</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      日本語の「いる」や「存在する」に相当する単語には、{kav} の他にも {qet} があります。
+      こちらは、誰に関係して存在するのかというよりは、存在する場所に焦点を当てる単語です。
+      そのため、多くの場合で場所を表す {vo} 句とともに使われます。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{qetat}</s>{ a nîl vo qôd.}</sh>
+        <ja>兄があそこに<s>いる</s>。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{sal}</sh><ja>である</ja></word>
+    <word><so>名</so><sh>{zissác}</sh><ja>教師</ja></word>
+    <word><so>名</so><sh>{kedet}</sh><ja>建物</ja></word>
+    <word><so>動</so><sh>{quk}</sh><ja>あの</ja></word>
+    <word><so>名</so><sh>{kosben}</sh><ja>病院</ja></word>
+    <word><so>名</so><sh>{cèr}</sh><ja>お茶</ja></word>
+    <word><so>動</so><sh>{zâg}</sh><ja>熱い</ja></word>
+    <word><so>動</so><sh>{nis}</sh><ja>変わる</ja></word>
+    <word><so>動</so><sh>{kesel}</sh><ja>水色の</ja></word>
+    <word><so>動</so><sh>{levac}</sh><ja>オレンジ色の</ja></word>
+    <word><so>動</so><sh>{kav}</sh><ja>いる, ある</ja></word>
+    <word><so>名</so><sh>{nîl}</sh><ja>兄</ja></word>
+    <word><so>動</so><sh>{qet}</sh><ja>いる, ある</ja></word>
+    <word><so>名</so><sh>{qôd}</sh><ja>あそこ</ja></word>
+  </word-list>
+
+</section>

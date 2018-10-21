@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 25 -->
+    <state>次の部分否定を含む文を {les} を使わずにシャレイア語に訳しなさい。</state>
+    <li>彼女はいつも眼鏡をかけているわけではない。</li>
+    <li>私は二度とこの映画を見ない。</li>
+    <li>全ての人がリンゴを好きなわけではない。</li>
+  </element>
+
+  <answer>
+    <li>{kômot a cés e levlis oduvák.}</li>
+    <li>{licis a tel e quqlac afik oduvop.}</li>
+    <li>{sâfat a zis aduves e sakil.}</li>
+  </answer>
+
+  <element> <!-- 26 -->
+    <state>次の文を間接疑問節を用いてシャレイア語に訳しなさい。</state>
+    <li>私はなぜ彼が怒っているのか知らない。</li>
+    <li>彼は明日山に行くかどうか決めた。</li>
+  </element>
+
+  <answer>
+    <li>{dusokat a tel e'n bâgat e ces vade pil.}</li>
+    <li>{decatak a ces e'n lanis á dulis a's ca hinad.}</li>
+  </answer>
+
+  <element> <!-- 27 -->
+    <state>次の数で表記される動詞型不定詞の数詞の語幹の読みを答えなさい。</state>
+    <li>[57]</li>
+    <li>[1080000]</li>
+    <li>[&#xB7;142857]</li>
+    <li>[3814279&#xB7;1047602]</li>
+  </element>
+
+  <answer>
+    <li>{xaletsez}</li>
+    <li>{tisilkaqotik}</li>
+    <li>{dafbacetcidilgetas-jesziqetotik}</li>
+    <li>{yosilkaqettisotik-pivasqecilsezetvon-dafbacilziqas-lamcidasotik}</li>
+  </answer>
+
+  <element> <!-- 28 -->
+    <state>次の文を基数や序数を用いてシャレイア語に訳しなさい。</state>
+    <li>私は 2 匹の猫を飼っている。</li>
+    <li>彼は今日 5 回流れ星を見た。</li>
+    <li>私は昨日 40 回目に飛行機に乗った。</li>
+  </element>
+
+  <answer>
+    <li>{milcitac a tel e monaf al'aqec.} <sm>({al'aqec} は {al'2} でも可, 以下も同様)</sm></li>
+    <li>{lices a ces e xiflohis la tal al'axal.}</li>
+    <li>{lekutes a tel e hilvit te tazîk la tal ac'apivet.}</li>
+  </answer>
+
+  <element> <!-- 28 -->
+    <state>次の文の下線部の形容詞に {ile} 句を修飾させ、その形容詞の程度が指定された数値であることを説明する文を作りなさい。</state>
+    <li>{salat a loces afik e }<u>{alot}</u>{.} ← 120 cm</li>
+    <li>{hitazes a ces e gildat }<u>{adôz}</u>{.} ← 150 kg</li>
+    <!-- <li>{keqilac a ces e sodcav }<u>{aqôl}</u>{ te sot.} ← 24 年</li> -->
+  </element>
+
+  <answer>
+    <li>{salat a loces afik e alot ile mulôt 120.}</li>
+    <li>{hitazes a ces e gildat adôz ile dok 150.}</li>
+    <!-- <li>{keqilac a ces e sodcav aqôl ile latvác 24 te sot.}</li> -->
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{vomac licos odûg a ces e qiliv cife dusôdos a's e retat.}</li> <!-- 二重否定 -->
+    <li>{duleses e kin folanes a tel fe fayhil al'aqec, lo fevetes a tel e dus.}</li> <!-- les 付き部分否定 -->
+    <li>{pa qokuzac a loc e yét vade pil ive kin rafat lac a loc o kin deqiges ca loc e'n lic?}</li> <!-- ve の選択疑問文 -->
+    <li>{vade fôcis e sávak acál te tat ile tef 15 meris 10, ditat zifimis a'c ca fêd dite tat ile taf 15.}</li> <!-- 時間表現 -->
+    <li>{selbutec ogicaz a zissác e zissohiz meloses a la tal al'ayos e'n lanis a's ca kossax. bava, salot odukôk a selbut e acasat ica'n dibuloz a zis li zis.}</li>
+  </element>
+
+  <answer>
+    <li>彼がお菓子を食べずにテレビを見るということは決してない。</li>
+    <li>私は 2 人の孫娘と一緒に出かけたわけではなく、私は誰も連れて行っていない。</li>
+    <li>あなたが真実を隠しているのはあなたがそうしたいからですか、それともそう命じられたからですか?</li>
+    <li>次の授業は 15 時 10 分から始まるので、15 時までにここに戻ってきてください。</li>
+    <li>学校に来るのに 3 度遅れた生徒を先生が激しく叱っていた。叱ることが必ずしも人を反省させるのに効果的というわけではないのに。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </element>
+
+  <answer>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </answer>
+
+  <word-list>
+    <word><so>名</so><sh>{loces}</sh><ja>棒</ja></word>
+    <word><so>動</so><sh>{hitaz}</sh><ja>持ち上げる</ja></word>
+    <word><so>名</so><sh>{gildat}</sh><ja>岩</ja></word>
+    <word><so>動</so><sh>{dôz}</sh><ja>重い</ja></word>
+    <word><so>名</so><sh>{dok}</sh><ja>1 kg</ja></word>
+    <!-- <word><so>名</so><sh>{sodcav}</sh><ja>アパート</ja></word> -->
+    <word><so>名</so><sh>{fayhil}</sh><ja>孫娘</ja></word>
+    <word><so>動</so><sh>{fevet}</sh><ja>連れて行く</ja></word>
+    <word><so>動</so><sh>{qokuz}</sh><ja>隠す</ja></word>
+    <word><so>動</so><sh>{fôc}</sh><ja>始める</ja></word>
+    <word><so>名</so><sh>{sávak}</sh><ja>授業</ja></word>
+    <word><so>動</so><sh>{gicaz}</sh><ja>激しく</ja></word>
+    <word><so>助</so><sh>{bava}</sh><ja>～だけれども</ja></word>
+  </word-list>
+
+</exercise>

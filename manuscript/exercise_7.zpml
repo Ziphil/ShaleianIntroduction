@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 29 -->
+    <state>次の比較表現を含む文に適切な語句を挿入することで、その差異や順位が指定された数値であることを説明する文を作りなさい。</state>
+    <li>{salat a soxsot aquk e adâd emic ini met i tel.} ← 2.5 cm</li>
+    <li>{sôdes a ces e tomek avôl emic ini tel.} ← 3 倍</li>
+    <li>{hisezes a zál e hinad ahiq ehiv ive met ivo japan.} ← 14 番目</li>
+  </element>
+
+  <answer>
+    <li>{salat a soxsot aquk e adâd emic ile mulôt 2&#xB7;5 ini met i tel.}</li>
+    <li>{sôdes a ces e tomek avôl emic ile vâl ayos ini tel.}</li>
+    <li>{hisezes a zál e hinad ahiq ehiv ile cav 14 ive met ivo japan.}</li>
+  </answer>
+
+  <element> <!-- 29 -->
+    <state>次の文を {levo}, {lehi}, {lede}, {letu} のいずれかを用いてシャレイア語に訳しなさい。</state>
+    <li>この眼鏡は 5000 円以下だ。</li>
+    <li>23 kg を超えるものを持って来ないでください。</li>
+    <li>彼には 100 人以上の友達がいる。</li>
+  </element>
+
+  <answer>
+    <li>{salat a levlis afik e axodol ilede yen 5000.}</li>
+    <li>{di'dunifetis a'c e zat adôz ilehi dok 23.}</li>
+    <li>{kavat a ces e refet avôl ilevo lêk 100.}</li>
+  </answer>
+
+  <element> <!-- 30 -->
+    <state>次の文を間投詞を用いてシャレイア語に訳しなさい。</state>
+    <li>私は、えっと、野菜が好きではありません。</li>
+    <li>あの本を捨ててしまってごめんなさい。</li>
+  </element>
+
+  <answer>
+    <li>{dusâfat a tel, tê, e naved.} <sm>({tê} は別の位置でも可)</sm></li>
+    <li>{dibe e kin qonoces a tel e xoq afik.}</li>
+  </answer>
+
+  <element> <!-- 31 -->
+    <state>次の文中に直接話法が含まれていれば間接話法に書き換え、間接話法が含まれていれば直接話法に書き換えなさい。</state>
+    <li>{tufoses a tel e [[debat e tel.]].}</li>
+    <li>{kéces a ces e [[ricames a tel vo risis te tazîk.]].}</li>
+    <li>{cazes a ces ca tel e kin zedat câsis a ces e tel te tacar.}</li>
+  </element>
+
+  <answer>
+    <li>{tufoses a tel e kin debat e tel.}</li>
+    <li>{kéces a ces e kin ricames a ces vo risis te tazîk.}</li>
+    <li>{cazes a ces ca tel e [[zedat câsis a tel e loc te tacar.]].}</li>
+  </answer>
+
+  <element> <!-- 32 -->
+    <state>次の文中の下線部を文頭に移動させ、それを強調する文を作りなさい。</state>
+    <li>{kûves }<u>{otudcat}</u>{ a fax i tel ca sokul.}</li>
+    <li>{pa bavales }<u>{a pas}</u>{ e likok i tel?}</li>
+  </element>
+
+  <answer>
+    <li>{otudcat, kûves a fax i tel ca sokul.}</li>
+    <li>{a pas, pa bavales e likok i tel?}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </element>
+
+  <answer>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li></li>
+    <li>ここで売られている腕時計は私の腕時計より 10 倍以上高い。</li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </element>
+
+  <answer>
+    <li></li>
+    <li>{salat e axodol emic ilevo vâl atiset ini sokiq i tel a met qoletac e vo fêd.}</li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </answer>
+
+  <word-list>
+    <word><so>名</so><sh>{soxsot}</sh><ja>辞書</ja></word>
+    <word><so>動</so><sh>{dâd}</sh><ja>厚い</ja></word>
+    <word><so>動</so><sh>{tufos}</sh><ja>呟く</ja></word>
+    <word><so>名</so><sh>{risis}</sh><ja>川</ja></word>
+    <word><so>動</so><sh>{tudcat}</sh><ja>予期せず</ja></word>
+    <word><so>動</so><sh>{baval}</sh><ja>割る</ja></word>
+  </word-list>
+
+</exercise>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="疑問表現発展">
+
+  <example-list>
+    <li>
+      <sh>{pa rafat lanis a loc ca pet ive hinad o riy?}</sh>
+      <ja>あなたは山と海ではどちらに行きたいですか?</ja>
+    </li>
+    <li>
+      <sh>{paces a tel ca qâz e kin zifimis a fax te pet.}</sh>
+      <ja>私は母がいつ帰ってくるのか父に尋ねた。</ja>
+    </li>
+    <li>
+      <sh>{medeles e qiliv afik a duloc, pa dules?}</sh>
+      <ja>このテレビを壊したのはあなたではないのですよね?</ja>
+    </li>
+  </example-list>
+
+  <element title="{ve} による選択疑問文">
+    <p>
+      <section-number title="連結詞"/>では、連結詞の {á} を用いて選択疑問文を作る方法を学びました。
+      実は選択疑問文を作る方法はもう 1 つあり、ここではその方法を説明します。
+      ただし、{á} は動詞や形容詞なども接続できましたが、ここで説明する方法では選択肢に名詞しか使うことができません。
+    </p>
+    <p>
+      例として、「あなたは山と海ではどちらに行きたいですか」という文を作ってみます。
+      まず、選択肢を除いた文を作ります。
+      この例の場合は、「あなたはどちらに行きたいですか」という文を作ることになります。
+      なお、シャレイア語には、英語の which のような「どちら」や「どれ」に当たる単語はないので、代わりに「何」を意味する {pet} などを使います。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa rafat lanis a loc ca pet?}</sh>
+        <ja>あなたはどちらに行きたいですか?</ja>
+      </li>
+    </xl>
+    <p>
+      次に、特殊助接詞の {ve} を非動詞修飾形にし、直後に選択肢を {o} で繋いで置き、できた {ive} 句全体を先程作った文の疑問詞の直後に置きます。
+      この {ve} は、<section-number title="比較表現 II"/>で最上表現を作ったときに使ったものと同じ単語です。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa rafat lanis a loc ca pet }<s>{ive hinad o riy}</s>{?}</sh>
+        <ja>あなたは<s>山と海では</s>どちらに行きたいですか?</ja>
+      </li>
+    </xl>
+    <p>
+      注意すべき点としては、{ive} 句の中で選択肢を繋げる連結詞は {o} だということです。
+      <section-number title="連結詞"/>で学んだ選択疑問文の作り方と混同して、{á} にしないようにしてください。
+    </p>
+    <p>
+      {ve} を用いた選択疑問文への答え方は、疑問詞疑問文への答え方に準じます。
+      すなわち、1 つの助詞句によって答えます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa cákes a loc ca fêd }<s>{qi pet ive voláq o loqiv}</s>{?}</sh>
+        <ja>あなたは<s>バスと電車のどちらで</s>ここまで来ましたか?</ja>
+      </li>
+      <li>
+        <sh>{}<s>{qi voláq}</s>{.}</sh>
+        <ja><s>バスです</s>。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="間接疑問節">
+    <p>
+      <section-number title="{kin} 節"/>では、{kin} の後に文を置くことで、その文を名詞化できることを学びました。
+      実は {kin} の後に置く文は疑問文でも構いません。
+      ただし、このとき文頭の {pa} は取り除きます。
+    </p>
+    <p>
+      例として「私は母がいつ帰ってくるのか父に尋ねた」という文を作ってみましょう。
+      この文は、「母はいつ帰ってくるのか」という疑問文が名詞化されて、「尋ねた」という動詞の目的語になっています。
+      疑問文の部分は、以下のようにシャレイア語に訳せます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa zifimis a fax te pet?}</sh>
+        <ja>母はいつ帰ってくるのですか?</ja>
+      </li>
+    </xl>
+    <p>
+      {pa} を除いて {kin} の後に続ければ疑問文を名詞化できるのですから、以下のようにすれば作りたい文が完成します。
+      なお、最終的にできる文そのものが疑問文になっているわけではないので、文末にはパデックではなくデックを置きます。
+    </p>
+    <xl>
+      <li>
+        <sh>{paces a tel ca qâz e }<s>{kin zifimis a fax te pet}</s>{.}</sh>
+        <ja>私は<s>母がいつ帰ってくるのか</s>父に尋ねた。</ja>
+      </li>
+    </xl>
+    <p>
+      疑問文が中に置かれている {kin} 節は「間接疑問節」とも呼ばれます。
+    </p>
+    <p>
+      どのような種類の疑問文でも間接疑問節にすることができます。
+      ただし、諾否疑問文を間接疑問文にするには少し言い換えが必要で、これについては次で説明します。
+    </p>
+    <xl>
+      <li>
+        <sh>{salat e apárel a }<s>{kin fovales qi pil a ces zi sokul akulak}</s>{.}</sh>
+        <ja><s>彼がどうやって鍵のかかった部屋から出た</s>のかは謎だ。</ja>
+      </li>
+      <li>
+        <sh>{dukilet decatas a tel e}<s>{'n sôdis a'l e telis á matef}</s>{.}</sh>
+        <ja>私は<s>ご飯を食べるかパンを食べるか</s>決められなかった。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="諾否疑問文による間接疑問節">
+    <p>
+      諾否疑問文には {pa} 以外にそれが疑問文であることを表す単語がないので、間接疑問節にするときに {pa} を取り除いてしまうと、普通の {kin} 節なのか間接疑問節なのか分からなくなってしまいます。
+      そこで、諾否疑問文を間接疑問節にするときは、最初に少し言い換えをします。
+    </p>
+    <p>
+      例えば「彼は怒っていますか」という疑問文は、彼が怒っているのか怒っていないのかどちらなのかを尋ねています。
+      したがって、「怒っている」と「怒っていない」の 2 択の選択疑問文とも捉えることができます。
+      この選択疑問文は、{bâgat á dubâgat} のように表現することができます。
+      ただし、これでは同じ動詞が続けて現れてしまうので、後ろの方を代動詞の {l} に置き換えるのが普通です。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa }<s>{bâgat á dulat}</s>{ e ces?}</sh>
+        <ja>彼は<s>怒っているのかそうでないのかどちら</s>ですか?</ja>
+      </li>
+    </xl>
+    <p>
+      諾否疑問文を間接疑問節にするときは、このような選択疑問文に書き換えた後に {kin} 節にします。
+    </p>
+    <xl>
+      <li>
+        <sh>{duqifet lidesas a tel e }<s>{kin bâgat á dulat e ces}</s>{.}</sh>
+        <ja>私は<s>彼が怒っているのかそうでないのか</s>判断できなかった。</ja>
+      </li>
+    </xl>
+    <p>
+      結局は、{pa} を取り除いた後に、動詞の後に {á dul/os/} を適切に活用させて付け足すだけなので、それほど複雑というわけでもありません。
+    </p>
+  </element>
+
+  <element title="付加疑問">
+    <p>
+      通常の文の後に {pa dul/os/} と続けることで、「～ですよね」のような相手に確認や念押しをする表現を作ることができます。
+      {dul/os/} は代動詞 {l} の否定形ですが、これの時制と相および自他は前の文の動詞と一致させます。
+    </p>
+    <xl>
+      <li>
+        <sh>{medeles e qiliv afik a duloc. }<s>{pa dules}</s>{?}</sh>
+        <ja>このテレビを壊したのはあなたではない<s>のですよね</s>?</ja>
+      </li>
+    </xl>
+    <p>
+      {pa dul/os/} の部分は単独「そうではないのですか」のような意味になります。
+      通常の文を述べた後に、「今言ったことは正しくないのですか」と問うことで、反語的に「正しいのですよね」と確認しているわけです。
+    </p>
+    <p>
+      {pa dul/os/} の代わりに {pa e ayát} と続けることでも、同じような確認を表す疑問文にすることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{qetet a loc vo dekél aquk olov. }<s>{pa e ayát}</s>{?}</sh>
+        <ja>あなたはあのホテルにずっといた<s>のですよね</s>?</ja>
+      </li>
+    </xl>
+    <p>
+      {yát} は形容詞として「本当の」という意味なので、{pa e ayát} の部分は「今言ったことは本当ですか」のような意味になっており、相手への確認のニュアンスが出るわけです。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>名</so><sh>{voláq}</sh><ja>バス</ja></word>
+    <word><so>動</so><sh>{zifim}</sh><ja>帰る</ja></word>
+    <word><so>動</so><sh>{pac}</sh><ja>尋ねる</ja></word>
+    <word><so>動</so><sh>{párel}</sh><ja>謎の</ja></word>
+    <word><so>動</so><sh>{kulak}</sh><ja>鍵のかかった</ja></word>
+    <word><so>動</so><sh>{decat}</sh><ja>決める</ja></word>
+    <word><so>名</so><sh>{telis}</sh><ja>ご飯</ja></word>
+    <word><so>名</so><sh>{matef}</sh><ja>パン</ja></word>
+    <word><so>動</so><sh>{bâg}</sh><ja>怒らせる</ja></word>
+    <word><so>動</so><sh>{lides}</sh><ja>判断する</ja></word>
+    <word><so>動</so><sh>{medel}</sh><ja>壊す</ja></word>
+    <word><so>名</so><sh>{qiliv}</sh><ja>テレビ</ja></word>
+    <word><so>名</so><sh>{dekél}</sh><ja>ホテル</ja></word>
+    <word><so>動</so><sh>{lov}</sh><ja>ずっと</ja></word>
+  </word-list>
+
+</section>

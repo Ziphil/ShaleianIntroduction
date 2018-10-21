@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="{kin} 節">
+
+  <example-list>
+    <li>
+      <sh>{rafat a tel e kin lohisis a tel vo hivas.}</sh>
+      <ja>私は空を飛びたい。</ja>
+    </li>
+      <li>
+        <sh>{haros e tel a kin etut qeritos a tel e yepil i ces.}</sh>
+        <ja>彼の歌を聴くことだけが私の気分を良くさせる。</ja>
+      </li>
+  </example-list>
+
+  <element title="{kin} 節">
+    <p>
+      {kin} の後に通常の文を続けると、「～ということ」という意味になり全体が名詞化されます。
+      例えば、{vilisos a tel} は「私は走る」という意味の文なので、これの前に {kin} を置けば「私は走ること」という 1 つの名詞として扱える節ができます。
+    </p>
+    <p>
+      {kin} とその後に続く文のまとまりを「{kin} 節」と呼びます。
+      また、{kin} 節を中身にもつ助詞句を「{kin} 節句」と呼びます。
+    </p>
+    <p>
+      {kin} 節は全体で名詞のように振る舞うので、その直前に助詞を置いて助詞句を作り、文の一部として用いることができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{sâfat a tel e }<s>{kin vilisos a tel}</s>{.}</sh>
+        <ja>私は<s>走ること</s>が好きだ。</ja>
+      </li>
+    </xl>
+    <p>
+      このように、{kin} 節は英語の to 不定詞や that 節と似たような役割を果たします。
+      しかし、英語の to 不定詞では主語が取り除かれる一方で、{kin} の後には通常の文が置かれるので、{kin} 節内での助詞句の省略は<section-number title="助詞句の順序"/>で扱った通りに解釈されます。
+      例えば上の文で {kin} 節内の {a tel} を省略すると、「誰かが走ることを私は好きだ」という意味になり、「自分が走ることが好きだ」という本来の意味から離れてしまいます。
+    </p>
+    <p>
+      なお、上の文で {kin} 節内の動詞が通時時制無相で用いられているのは、「過去に走ること」や「今走ること」が好きなわけでもなく、「走る」という行為の中の特定の段階が好きというわけでもないためです。
+      <section-number title="不定詞の活用 I"/>で、行為の時間や段階を特に指定せずに行為そのものを表したいときは、通時時制や無相が使われると学んだことを思い出してください。
+      このような通時時制や無相は、{kin} 節ではよく用いられます。
+    </p>
+  </element>
+
+  <element title="{kin} 節とよく使われる動詞">
+    <p>
+      前の例文で使った {sâf} は、動詞として使ったときに {kin} 節とともに使われることが多いです。
+      他にも {kin} 節とともによく使われる動詞があるので、ここでいくつか紹介しておきます。
+    </p>
+    <p>
+      {raf} は、動詞として「{e} 句の内容を望む」という意味です。
+      {raf} を継続相自動詞として使い {e} 句に {kin} 節を置けば、「～を望んでいる」すなわち「～したい」という願望を表すことができます。
+      なお、望んでいる内容が実際に起こり得るのは未来なので、{kin} 節内の動詞は未来時制にするのが普通です。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{rafat}</s>{ a tel e kin lohisis a tel vo hivas.}</sh>
+        <ja>私は空を飛び<s>たい</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      次に {deq} は、動詞として「{e} 句の内容を {ca} 句の相手に行わせる」という意味になります。
+      これによって使役を表現することができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{deqes}</s>{ a tel ca sotis e kin tayelis a ces e nasfek.}</sh>
+        <ja>私は子供に庭を掃除さ<s>せた</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      さらに {kéc} は、動詞として「{e} 句の内容を {ca} 句の相手に言う」という意味になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{kéces}</s>{ a ces e kin poqosec a ces te tazîk e hîxlon fe fakrêy.}</sh>
+        <ja>昨日は夜空を彼女と一緒に眺めていたと彼は<s>言った</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      また、<section-number title="受動相当表現"/>では、シャレイア語の感情動詞が「{e} 句の相手にその感情を感じさせる」という意味になっていることを学びましたが、このときの主語にはその感情を抱くことになった原因が置かれます。
+      例えば、「彼が突然呼んだので私は驚いた」と表現したい場合は、「彼が突然呼んだことが私を驚かせた」と考えて以下のようにします。
+    </p>
+    <xl>
+      <li>
+        <sh>{}<s>{zazes}</s>{ e tel a kin qòcases a ces e tel obâl.}</sh>
+        <ja>彼が私を突然呼んだので私は<s>驚いた</s>。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{kin} 節句の位置">
+    <p>
+      {kin} 節句は文末に置かれることがほとんどです。
+      これは、{kin} 節のような長い要素は文の新情報になっていることが多いというのが一番の理由ですが、それ以外に、助詞句がどの動詞に係っているのかが曖昧になるのを防ぐためという理由もあります。
+    </p>
+    <p>
+      例えば、以下の文を考えてみましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{kéces a ces te tazîk }<s>{e kin câses a ces e qâz i tel}</s>{.}</sh>
+        <ja><s>私の父親に会ったと</s>彼は昨日言った。</ja>
+      </li>
+    </xl>
+    <p>
+      この文では {kin} 節句が文末に置かれていますが、以下のように {kin} 節句と {te} 句を交換したとしましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{ te tazîk.}</sh>
+        <ja>昨日<s>私の父親に会ったと</s>彼は言った。</ja>
+      </li>
+    </xl>
+    <p>
+      こうすると、文末の {te tazîk} が主節の {kéces} に係っているとも解釈できますし、{kin} 節の {câses} に係っているとも解釈できてしまうので、文の意味が曖昧になります。
+      言い方を変えれば、父親に会ったのが昨日なのか、そのことを言ったのが昨日なのかが、明確には分かりません。
+      このような曖昧性を避けるために、{kin} 節を文末に置くことが多いわけです。
+    </p>
+    <p>
+      特定の助詞句を文末で強調したいなどの理由で {kin} 節句を文末に置きたくない場合は、上で述べた曖昧性を避けるため、{kin} 節の終わりの位置にタデックを置くことがあります。
+      例えば、上の文に対しては以下のようにタデックを置くことになります。
+    </p>
+    <xl>
+      <li>
+        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{, te tazîk.}</sh>
+        <ja>昨日、<s>私の父親に会ったと</s>彼は言った。</ja>
+      </li>
+    </xl>
+    <p>
+      ただし、このようなタデックを使うのは、文の新情報として何らかの助詞句をどうしても文末に置きたい場合のみです。
+      このタデックの多用は避けられる傾向にあるので、使うのは必要最低限にしましょう。
+    </p>
+  </element>
+
+  <element title="{kin} 節を修飾する語句の位置">
+    <p>
+      {kin} 節全体を何らかの語句で修飾したい場合は、その修飾語は {kin} の直後に置かれます。
+      接続詞節全体を語句が修飾する場合と同様です。
+    </p>
+    <xl>
+      <li>
+        <sh>{haros e tel a kin }<s>{etut}</s>{ qeritos a tel e yepil i ces.}</sh>
+        <ja>彼の歌を聴くこと<s>だけ</s>が私の気分を良くさせる。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="{kin} 節の時制">
+    <p>
+      {kin} 節内の動詞の時制が示す時間は、主節の動詞が表す行為が行われている時間を基準にして決まります。
+    </p>
+    <p>
+      例文を 1 つ挙げて説明します。
+      会話などでこの文が話されたとしましょう。
+    </p>
+    <xl>
+      <li>
+        <sh>{kéces a ces e kin }<s>{terac}</s>{ a ʻxastil e cèrzaf.}</sh>
+        <ja>シャスティルは紅茶を<s>飲んでいる</s>と彼は言った。</ja>
+      </li>
+    </xl>
+    <p>
+      {kin} 節内の動詞 {terac} は現在時制で用いられています。
+      この現在時制が表す時間は、この文が話された瞬間ではなく、主節の {kéces} が表す行為が行われた時間と同じになります。
+      つまり、彼が言った時間とシャスティルが紅茶を飲んでいる時間が同じだということです。
+    </p>
+    <p>
+      仮に {kin} 節内の動詞が過去時制だったとします。
+    </p>
+    <xl>
+      <li>
+        <sh>{kéces a ces e kin }<s>{terec}</s>{ a ʻxastil e cèrzaf.}</sh>
+        <ja>シャスティルは紅茶を<s>飲んでいた</s>と彼は言った。</ja>
+      </li>
+    </xl>
+    <p>
+      この場合、{kin} 節の {terec} の過去時制が表す時間は、主節の {kéces} が成立した時間より前になります。
+      すなわち、彼が言った時間より前にシャスティルが紅茶を飲んでいたことになります。
+    </p>
+    <p>
+      なお、連結詞や助接詞が接続詞として用いられている場合は、主節の時制も接続詞節の時制も、通常通りその文が話されたか書かれた時間から見た現在や過去を表します。
+    </p>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{raf}</sh><ja>望む</ja></word>
+    <word><so>動</so><sh>{lohis}</sh><ja>飛ぶ</ja></word>
+    <word><so>名</so><sh>{hivas}</sh><ja>空</ja></word>
+    <word><so>動</so><sh>{deq}</sh><ja>させる</ja></word>
+    <word><so>名</so><sh>{sotis}</sh><ja>子供</ja></word>
+    <word><so>動</so><sh>{tayel}</sh><ja>掃除する</ja></word>
+    <word><so>名</so><sh>{nasfek}</sh><ja>庭</ja></word>
+    <word><so>動</so><sh>{kéc}</sh><ja>言う</ja></word>
+    <word><so>動</so><sh>{poqos}</sh><ja>眺める</ja></word>
+    <word><so>名</so><sh>{hîxlon}</sh><ja>夜空</ja></word>
+    <word><so>助</so><sh>{fe}</sh><ja>～と一緒に</ja></word>
+    <word><so>名</so><sh>{fakrêy}</sh><ja>彼女</ja></word>
+    <word><so>動</so><sh>{zaz}</sh><ja>驚かせる</ja></word>
+    <word><so>動</so><sh>{qòcas}</sh><ja>呼ぶ</ja></word>
+    <word><so>動</so><sh>{câs}</sh><ja>会う</ja></word>
+    <word><so>名</so><sh>{qâz}</sh><ja>父親</ja></word>
+    <word><so>動</so><sh>{har}</sh><ja>気分良くさせる</ja></word>
+    <word><so>動</so><sh>{qerit}</sh><ja>聴く</ja></word>
+    <word><so>名</so><sh>{yepil}</sh><ja>歌</ja></word>
+    <word><so>名</so><sh>{cèrzaf}</sh><ja>紅茶</ja></word>
+  </word-list>
+
+</section>

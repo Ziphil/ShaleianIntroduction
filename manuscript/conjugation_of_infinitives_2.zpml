@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="不定詞の活用 II">
+
+  <element title="動詞型不定詞の動詞以外の活用">
+    <p>
+      動詞型不定詞は動詞, 形容詞, 副詞, 名詞の 4 種類の文法的品詞をとることができます。
+      動詞として用いるときの活用については、<section-number title="不定詞の活用 I"/>で学んだ通りです。
+    </p>
+    <p>
+      動詞型不定詞を形容詞として使うときは、語幹の前に活用接頭辞の [a] を付けます。
+      例えば、動詞型不定詞の {big} を形容詞として使うときは {abig} という形になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{lekutec a ces ca loqis }<s>{abig}</s>{.}</sh>
+        <ja>彼は<s>青い</s>車に乗っていた。</ja>
+      </li>
+    </xl>
+    <p>
+      動詞型不定詞を副詞として使うときは、活用接頭辞の [o] を付けます。
+      例えば、動詞型不定詞の {dalaz} を副詞として使うときは {odalaz} となります。
+    </p>
+    <xl>
+      <li>
+        <sh>{sitayes }<s>{odalaz}</s>{ a qasot i ces.}</sh>
+        <ja>彼の息子が<s>元気に</s>挨拶した。</ja>
+      </li>
+    </xl>
+    <p>
+      動詞型不定詞を名詞として使うときは、語幹をそのまま文中に置き、接頭辞や接尾辞は付けません。
+    </p>
+  </element>
+
+  <element title="副詞型不定詞の活用">
+    <p>
+      副詞型不定詞は副詞としてしか使うことはできませんが、このとき活用接頭辞の [e] が付きます。
+      したがって、副詞型不定詞が語幹のままで使われることはありません。
+      動詞型不定詞のときとは違い、付けられる接頭辞は [o] ではなく [e] なので注意してください。
+      例えば、副詞型不定詞の {tim} は、副詞として他の形容詞などを修飾して「少し」などの意味で使われますが、このとき {etim} という形になります。
+    </p>
+    <xl>
+      <li>
+        <sh>{xolacac a hinof i tel vo teqiv aqon }<s>{etim}</s>{.}</sh>
+        <ja>私の姉は<s>少し</s>遠い町で暮らしている。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="名詞型不定詞の活用">
+    <p>
+      名詞型不定詞は一切活用せず、語幹がそのまま用いられます。
+      接頭辞も接尾辞も付けません。
+    </p>
+  </element>
+
+  <element title="副詞の種類">
+    <p>
+      動詞型不定詞と副詞型不定詞は、ともに副詞として使うことができます。
+      動詞型不定詞が副詞として使われた場合と副詞型不定詞が副詞として使われた場合とでは、付けられる活用接頭辞が異なりますが、その副詞が修飾する単語の文法的品詞も異なります。
+    </p>
+    <p>
+      動詞型不定詞が副詞として使われたときは、その副詞は動詞を修飾します。
+      一方で、副詞型不定詞が副詞として使われたときは、形容詞や副詞を修飾します。
+    </p>
+    <xl>
+      <li>
+        <sh>{zavages }<s>{otudkol}</s>{ a tiqat.}</sh>
+        <ja>男の子が<s>急に</s>叫んだ。</ja>
+      </li>
+      <li>
+        <sh>{lakec a ces ca fakel ayerif }<s>{ebam}</s>{.}</sh>
+        <ja>彼は<s>とても</s>美しい女性と話していた。</ja>
+      </li>
+    </xl>
+    <p>
+      1 つ目の例文は、動詞型不定詞 {tudkol} が副詞として使われている例です。
+      このとき「急に」の意味になりますが、これは動詞の {zavages} を修飾しています。
+      2 つ目の例文では、副詞型不定詞 {bam} が副詞として使われていて、「とても」の意味で形容詞の {ayerif} を修飾しています。
+    </p>
+    <p>
+      しかし、「とても好んでいる」のように、副詞型不定詞由来の副詞に動詞を修飾させたい場合もあるでしょう。
+      そのような場合は、その動詞の後ろに {ovel} という特殊な単語を置き、この {ovel} をその副詞に修飾させます。
+    </p>
+    <xl>
+      <li>
+        <sh>{sâfat }<s>{ovel}</s>{ }<s>{ebam}</s>{ a tel e kèc.}</sh>
+        <ja>私はコーヒーが<s>とても</s>好きだ。</ja>
+      </li>
+    </xl>
+  </element>
+
+  <word-list>
+    <word><so>動</so><sh>{big}</sh><shd>{abig}</shd><ja>青い</ja></word>
+    <word><so>動</so><sh>{lekut}</sh><shd>{lekutec}</shd><ja>乗る</ja></word>
+    <word><so>動</so><sh>{dalaz}</sh><shd>{odalaz}</shd><ja>元気な</ja></word>
+    <word><so>動</so><sh>{sitay}</sh><shd>{sitayes}</shd><ja>挨拶する</ja></word>
+    <word><so>名</so><sh>{qasot}</sh><ja>息子</ja></word>
+    <word><so>動</so><sh>{xolac}</sh><shd>{xolacac}</shd><ja>暮らす</ja></word>
+    <word><so>名</so><sh>{hinof}</sh><ja>姉</ja></word>
+    <word><so>名</so><sh>{teqiv}</sh><ja>町</ja></word>
+    <word><so>動</so><sh>{qon}</sh><shd>{aqon}</shd><ja>遠い</ja></word>
+    <word><so>副</so><sh>{tim}</sh><shd>{etim}</shd><ja>少し</ja></word>
+    <word><so>動</so><sh>{zavag}</sh><shd>{zavages}</shd><ja>叫ぶ</ja></word>
+    <word><so>動</so><sh>{tudkol}</sh><shd>{otudkol}</shd><ja>急に</ja></word>
+    <word><so>名</so><sh>{tiqat}</sh><ja>男の子</ja></word>
+    <word><so>動</so><sh>{lak}</sh><shd>{lakec}</shd><ja>話す</ja></word>
+    <word><so>名</so><sh>{fakel}</sh><ja>女性</ja></word>
+    <word><so>動</so><sh>{yerif}</sh><shd>{ayerif}</shd><ja>美しい</ja></word>
+    <word><so>動</so><sh>{vel}</sh><shd>{ovel}</shd></word>
+    <word><so>名</so><sh>{kèc}</sh><ja>コーヒー</ja></word>
+  </word-list>
+
+</section>

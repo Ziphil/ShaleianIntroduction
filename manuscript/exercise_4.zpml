@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 17 -->
+    <state>次の文を {dit} を用いた命令表現にしてシャレイア語に訳しなさい。</state>
+    <li>勉強してください。</li>
+    <li>この部屋から出ないでください。</li>
+    <li>明日ワインを飲みましょう。</li>
+  </element>
+
+  <answer>
+    <li>{ditat sohizis a'c.}</li>
+    <li>{ditat dufovalis a'c zi sokul afik.}</li>
+    <li>{ditat teris a zál te tacar e celvir.}</li>
+  </answer>
+
+  <element> <!-- 18 -->
+    <state>次の文中の単語のうち縮約できるものを縮約しなさい。ただし、これらの文は書き言葉であって口語や詩歌ではないとします。</state>
+    <li>{te fetekes a ces e tel, qetet a tel vo kolot.}</li>
+    <li>{buqotet a ces e dales, dà mafetes a ces e cit.}</li>
+    <li>{dibulat a tel e kin medeles a tel e qiliv.}</li>
+    <li>{ditat yelesis a loc e sotis.}</li>
+  </element>
+
+  <answer>
+    <li>{te fetekes a ces e tel, qetet a'l vo kolot.}</li>
+    <li>{buqotet a ces e dales, dà mafetes a's e cit.}</li>
+    <li>{dibulat a tel e'n medeles a'l e qiliv.}</li>
+    <li>{di'yelesia a'c e sotis.}</li>
+  </answer>
+
+  <element> <!-- 19 -->
+    <state>次の文で繰り返されている語句を {met} や {l} を用いて書き換えなさい。</state>
+    <li>{sokesat a tel e dev, dà ducikekat a'l e dev.}</li>
+    <li>{kûtat a tel e loqis azaf, lo zedat fegis a ces e loqis abig.}</li>
+    <li>{lanes a tel ca kosdes, dà lanes a ces ca sod.}</li>
+    <li>{vade qorases a ces ca amerikas, rafat qorasis a tel evoc ca amerikas.}</li>
+  </element>
+
+  <answer>
+    <li>{sokesat a tel e dev, dà ducikekat a'l e met.}</li>
+    <li>{kûtat a tel e loqis azaf, lo zedat fegis a ces e met abig.}</li>
+    <li>{lanes a tel ca kosdes, dà les a ces ca sod.}</li>
+    <li>{vade qorases a ces ca amerikas, rafat lis a tel evoc.}</li>
+  </answer>
+
+  <element> <!-- 20 -->
+    <state>次の 2 つの文の下線部は同じものを指しているとして、限定節を用いて文を 1 つにまとめなさい。</state>
+    <li>{salat e refet i tel a }<u>{zis}</u>{.} // {hitat a }<u>{ces}</u>{ vo qôd.}</li>
+    <li>{pa salat e pet a }<u>{vafos}</u>{?} // {sâfat a loc e }<u>{cit}</u>{.}</li>
+    <li>{zêfak a zál ca }<u>{zîd}</u>{.} // {xáfes e ces vo }<u>{cêd}</u>{.}</li>
+    <li>{qetat a }<u>{hitál}</u>{.} // {dusokat a tel e kofet i }<u>{cit}</u>{.}</li>
+  </element>
+
+  <answer>
+    <li>{salat e refet i tel a zis hitat a vo qôd.}</li>
+    <li>{pa salat e pet a vafos sâfat e a loc?}</li>
+    <li>{zêfak a zál ca zîd xáfes vo e ces.}</li>
+    <li>{qetat a hitál dusokat e kofet i a tel.}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{ditat qetit a'c vo cêd cate kâkis a tel.}</li>
+    <li>{vade dukotikat omez a tel e levlis, zedat fegis ovop a'l e met.}</li>
+    <li>{salat e ayát a kin beqomes a ces e yelicsiloz i loc. pa les vade pil?}</li>
+    <li>{salat e ayerif ebam a riy ricames vo a tel te ciqid azît.}</li>
+    <li>{duqifat pafikas a tel e kofcaf i yepil yepelac e a ces te sot. ri sokat a loc e cit, di'cazis a'c e't.}</li>
+  </element>
+
+  <answer>
+    <li>私が現れるまでそこにいてください。</li>
+    <li>私はまだ眼鏡を見つけられていないので、また眼鏡を買おうと思っている。</li>
+    <li>彼があなたの指輪を盗んだというのは本当だ。なぜそんなことをしたのだろう?</li>
+    <li>私が先週泳いだ海はとても美しい。</li>
+    <li>彼が今歌っている歌の題名が思い出せない。もし知っていたら教えて。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li>明日旅行するのは諦めなさい。</li>
+    <li>私はこの赤い洋服が好きではありません。あの青い洋服を私に見せてください。</li>
+    <li>私の母は私に車を運転してほしがっているが、私はそうしようとは思っていない。</li>
+    <li>私は姉が優しくない友人から妬まれている。</li>
+    <li>彼がテラスで本を読んでいると、彼の飼っている猫がそこに入ってきた。</li>
+  </element>
+
+  <answer>
+    <li>{di'foqonis a'c e'n qorasis a'c te tacar.}</li>
+    <li>{dusâfat a tel e solak azaf afik. ditat cafosis a'c ca tel e met abig aquk.}</li>
+    <li>{rafat a fax i tel e'n qivlatis a'l e loqis, dà duzedat lis.}</li>
+    <li>{bûdezat e tel a refet salat a hinof i e adusafey.}</li>
+    <li>{te lîdec a ces e xoq vo vocik, kûves ca cêd a monaf milcitat e a's.}</li>
+  </answer>
+
+  <word-list>
+    <word><so>動</so><sh>{dibul}</sh><ja>反省する</ja></word>
+    <word><so>動</so><sh>{yeles}</sh><ja>世話をする</ja></word>
+    <word><so>動</so><sh>{cikek}</sh><ja>携帯する</ja></word>
+    <word><so>動</so><sh>{hit}</sh><ja>立つ</ja></word>
+    <word><so>動</so><sh>{xáf}</sh><ja>産む</ja></word>
+    <word><so>助</so><sh>{cate}</sh><ja>～まで</ja></word>
+    <word><so>動</so><sh>{mez}</sh><ja>まだ</ja></word>
+    <word><so>動</so><sh>{vop}</sh><ja>再び</ja></word>
+    <word><so>動</so><sh>{yát}</sh><ja>本当の</ja></word>
+    <word><so>名</so><sh>{yelicsiloz}</sh><ja>指輪</ja></word>
+    <word><so>動</so><sh>{pafik}</sh><ja>思い出す</ja></word>
+    <word><so>名</so><sh>{kofcaf}</sh><ja>題名</ja></word>
+  </word-list>
+
+</exercise>

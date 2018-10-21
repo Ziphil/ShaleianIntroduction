@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section title="疑問表現">
+
+  <example-list>
+    <li>
+      <sh>{pa folanes ovip a ces?}</sh>
+      <ja>彼はもう出かけましたか?</ja>
+    </li>
+    <li>
+      <sh>{pa cazes a pas e rát acik ca loc?}</sh>
+      <ja>誰がその話をあなたに伝えたのですか?</ja>
+    </li>
+    <li>
+      <sh>{pa bozetes a loc e ces vade pil?}</sh>
+      <ja>なぜあなたは彼を殴ったのですか?</ja>
+    </li>
+  </example-list>
+
+  <element title="諾否疑問文">
+    <p>
+      普通の文の動詞の前に {pa} を置くことで、その文の内容の真偽を問う疑問文を作ることができます。
+      {pa} を置く以外の語順や構文の変化はありません。
+      なお、{pa} があるとその文は疑問文になるので、文末にはデックではなくパデックを置きます。
+      読むときは文末を上昇気味にします。
+    </p>
+    <xl>
+      <li>
+        <sh><s>{pa}</s>{ folanes ovip a ces?}</sh>
+        <ja>彼はもう出かけました<s>か</s>?</ja>
+      </li>
+    </xl>
+  </element>
+
+  <element title="諾否疑問文への答え方">
+    <p>
+      諾否疑問文は文の内容の真偽を問う疑問文なので、回答は「はい」か「いいえ」になります。
+      シャレイア語では、それぞれ {ya} と {du} を用います。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa folanes ovip a ces?}</sh>
+        <ja>彼はもう出かけましたか?</ja>
+      </li>
+      <li>
+        <sh><s>{du}</s>{.}</sh>
+        <ja><s>いいえ</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例では、「いいえ」に相当する {du} で答えています。
+      すなわち、尋ねられた「彼はもう出かけた」という内容が誤りであると言っています。
+    </p>
+    <p>
+      動詞が否定形になっている諾否疑問文に答えるときは、少し注意が必要です。
+      {ya} は尋ねられた疑問文から {pa} を除いた文が正しいときに用い、{du} はそうでないときに用います。
+      英語の yes と no とは違い、{ya} と {du} は回答が肯定文か否定文かで使い分けるわけではありません。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa }<s>{duniciqez}</s>{ a loc li deset aquk te saq?}</sh>
+        <ja>あなたはあのベッドを今日<s>動かしませんでした</s>か?</ja>
+      </li>
+      <li>
+        <sh><s>{ya}</s>{.}</sh>
+        <ja><s>はい</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      この例文では {ya} と答えているので、疑問文から {pa} を除いた文の内容である「あなたはあのベッドを動かさなかった」が正しいと述べています。
+    </p>
+  </element>
+
+  <element title="疑問詞疑問文">
+    <p>
+      尋ねたい箇所を疑問詞に変え、疑問文であることを表す {pa} を動詞の前に置くことで、疑問詞を用いた疑問文を作ることができます。
+    </p>
+    <p>
+      シャレイア語の疑問詞には、以下のようなものがあります。
+      これらの単語は、実際に文中で使われる文法的品詞が定まっているので、それも併記します。
+    </p>
+    <table>
+      <tr><td>単語</td><td>意味</td><td>品詞</td></tr>
+      <tr><td>{pas}</td><td>誰</td><td>名詞</td></tr>
+      <tr><td>{pet}</td><td>何</td><td>名詞</td></tr>
+      <tr><td>{pil}</td><td>どんなこと</td><td>名詞</td></tr>
+      <tr><td>{pâd}</td><td>どこ</td><td>名詞</td></tr>
+      <tr><td>{pek}</td><td>どの</td><td>形容詞</td></tr>
+      <tr><td>{péf}</td><td>どのような</td><td>形容詞</td></tr>
+    </table>
+    <p>
+      疑問詞は、普通の単語と同じように文中で用いられます。
+      語順の変化は特にありません。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa cazes a }<s>{pas}</s>{ e rát acik ca loc?}</sh>
+        <ja><s>誰が</s>その話をあなたに伝えたのですか?</ja>
+      </li>
+    </xl>
+    <p>
+      {pek} は、それが修飾する名詞で表されるもののうちのどれであるかを尋ねる疑問詞です。
+      一方で {péf} は、それが修飾する名詞の様子や性質を尋ねる疑問詞です。
+      ともに日本語の「どんな」に対応するので、使い分けには注意してください。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa sâfat a loc e velex }<s>{apek}</s>{?}</sh>
+        <ja>あなたは<s>どんな</s>色が好きですか?</ja>
+      </li>
+      <li>
+        <sh>{pa sâfat a loc e velex }<s>{apéf}</s>{?}</sh>
+        <ja>あなたは<s>どんな</s>色が好きですか?</ja>
+      </li>
+    </xl>
+    <p>
+      最初の文は {pek} が用いられています。
+      この疑問文が尋ねているのは、様々ある色のうちどれが好きなのかということなので、回答は「赤」や「青」などの具体的な色になります。
+      一方、次の文は {péf} が用いられています。
+      この場合、好きな色の様子が尋ねられているので、回答は「明るい色」や「濃い色」のような色の形容になります。
+    </p>
+  </element>
+
+  <element title="助詞と作る疑問句">
+    <p>
+      「いつ」や「なぜ」などの副詞的な疑問表現に対応する単語は、シャレイア語にはありません。
+      代わりに、このような疑問表現は、上に挙げた疑問詞と助詞を組み合わせて作ります。
+      例えば、時間を表す助詞の {te} と物を尋ねる疑問詞の {pet} を組み合わせて {te pet} とすれば、「いつ」の意味になります。
+    </p>
+    <p>
+      このようにして作られる疑問詞には、以下のようなものがあります。
+    </p>
+    <table>
+      <tr><td>表現</td><td>意味</td></tr>
+      <tr><td>{te pet}</td><td>いつ</td></tr>
+      <tr><td>{qi pil}</td><td>どうやって</td></tr>
+      <tr><td>{vade pil}</td><td>なぜ</td></tr>
+    </table>
+    <p>
+      {qi} は道具や方法を表す助詞で、{vade} は理由を表す助詞です。
+    </p>
+    <p>
+      これらの疑問表現は、普通の助詞句と同じように文中で使うことができます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa bozetes a loc e ces }<s>{vade pil}</s>{?}</sh>
+        <ja><s>なぜ</s>あなたは彼を殴ったのですか?</ja>
+      </li>
+    </xl>
+  </element>  
+
+  <element title="疑問詞疑問文への答え方">
+    <p>
+      用いられている疑問詞が {pas}, {pet}, {pâd}, {pek} の場合は、回答は名詞になります。
+      この場合、回答となる名詞の前に疑問詞とともに用いられている助詞を置くことで助詞句が作り、この助詞句を単独で用いて疑問文に答えます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa qetet a loc te lon i tazîk }<s>{vo pâd}</s>{?}</sh>
+        <ja>あなたは昨日の夜<s>どこに</s>いましたか?</ja>
+      </li>
+      <li>
+        <sh><s>{vo naflat}</s>{.}</sh>
+        <ja><s>公園です</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      疑問詞が {péf} の場合は、ものの様子が尋ねられているので、回答はたいてい形容詞になります。
+      このような場合、{péf} が含まれている助詞句において、{péf} を回答となる形容詞に置き換えたものを答えます。
+      形容詞のみを答えることは普通しません。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa kômec a ces }<s>{e solak apéf}</s>{?}</sh>
+        <ja>彼は<s>どんな洋服を</s>着ていましたか?</ja>
+      </li>
+      <li>
+        <sh><s>{e solak axalket}</s>{.}</sh>
+        <ja><s>かっこいい洋服です</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      疑問詞が {pil} の場合、これは内容のある事を尋ねる疑問詞なので、回答は文になることが多いです。
+      このような疑問文に答える場合、{pil} とともに使われている助詞の後に {kin} という単語を置き、その後に文を続けます。
+      この {kin} については、<section-number title="{kin} 節"/>で詳しく学びます。
+    </p>
+    <xl>
+      <li>
+        <sh>{pa lesec a loc }<s>{e pil}</s>{ te tazîkhil?}</sh>
+        <ja>あなたは一昨日<s>何を</s>していましたか?</ja>
+      </li>
+      <li>
+        <sh><s>{e kin yepelec a tel vo sod}</s>{.}</sh>
+        <ja><s>家で歌っていました</s>。</ja>
+      </li>
+    </xl>
+    <p>
+      なお、このときに用いている助詞が {qi} や {vade} のような接続詞の用法をもつものであれば、{kin} は必要ありません。
+      助接詞の接続詞としての用法については、<section-number title="接続詞としての助接詞"/>で学びます。
+    </p>
+  </element>  
+
+  <word-list>
+    <word><so>機</so><sh>{pa}</sh></word>
+    <word><so>動</so><sh>{folan}</sh><ja>出かける</ja></word>
+    <word><so>動</so><sh>{vip}</sh><ja>もう</ja></word>
+    <word><so>間</so><sh>{ya}</sh><ja>はい</ja></word>
+    <word><so>間</so><sh>{du}</sh><ja>いいえ</ja></word>
+    <word><so>動</so><sh>{niciq}</sh><ja>動く</ja></word>
+    <word><so>名</so><sh>{deset}</sh><ja>ベッド</ja></word>
+    <word><so>名</so><sh>{saq}</sh><ja>今日</ja></word>
+    <word><so>名</so><sh>{pas}</sh><ja>誰</ja></word>
+    <word><so>名</so><sh>{pet}</sh><ja>何</ja></word>
+    <word><so>名</so><sh>{pil}</sh><ja>どんなこと</ja></word>
+    <word><so>名</so><sh>{pâd}</sh><ja>どこ</ja></word>
+    <word><so>動</so><sh>{pek}</sh><ja>どの</ja></word>
+    <word><so>動</so><sh>{péf}</sh><ja>どのような</ja></word>
+    <word><so>動</so><sh>{caz}</sh><ja>伝える</ja></word>
+    <word><so>名</so><sh>{rát}</sh><ja>話</ja></word>
+    <word><so>動</so><sh>{cik}</sh><ja>その</ja></word>
+    <word><so>名</so><sh>{velex}</sh><ja>色</ja></word>
+    <word><so>助</so><sh>{qi}</sh><ja>～で</ja></word>
+    <word><so>助</so><sh>{vade}</sh><ja>～なので</ja></word>
+    <word><so>動</so><sh>{bozet}</sh><ja>殴る</ja></word>
+    <word><so>名</so><sh>{lon}</sh><ja>夜</ja></word>
+    <word><so>動</so><sh>{xalket}</sh><ja>かっこいい</ja></word>
+    <word><so>名</so><sh>{tazîkhil}</sh><ja>一昨日</ja></word>
+  </word-list>
+
+</section>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercise>
+
+  <element> <!-- 21 -->
+    <state>次の文中の限定節に含まれている下線部を消去しつつ、助接詞の非動詞修飾形を用いることで、意味を変えずに文を書き換えなさい。</state>
+    <li>{pa salat e pas a fakel }<u>{câses e a loc}</u>{ te tazîk?}</li>
+    <li>{feges a tel e likok }<u>{qîlos a tel}</u>{ so teros a'l e cèr.}</li>
+  </element>
+
+  <answer>
+    <li>{pa salat e pas a fakel ite tazîk?}</li>
+    <li>{feges a tel e likok iso teros a'l e cèr.}</li>
+  </answer>
+
+  <element> <!-- 21 -->
+    <state>次の文中の下線部の {kin} 節を、動詞型不定詞の名詞形と助接詞の非動詞修飾形を用いた形に変え、意味を変えずに文を書き換えなさい。</state>
+    <li>{sâfat a tel e }<u>{kin licos a'l e lasav}</u>{.}</li>
+    <li>{bâges e tel a }<u>{kin belsetes a qasot}</u>{.}</li>
+  </element>
+
+  <answer>
+    <li>{sâfat a tel e lic ie lasav.}</li>
+    <li>{bâges e tel a belset ia qasot.}</li>
+  </answer>
+
+  <element> <!-- 22 -->
+    <state>次の文を特殊助接詞を用いてシャレイア語に訳しなさい。</state>
+    <li>兄が結婚したという話を私は知っている。</li>
+    <li>このワインは私が泣いてしまっているほどおいしい。</li>
+    <li>私はレモンのように酸っぱいお菓子を食べた。</li>
+    <li>私は彼のような優しい人と一緒に旅行したい。</li>
+  </element>
+
+  <answer>
+    <li>{sokat a tel e rát ike'n fexases a nîl.}</li>
+    <li>{salat a celvir afik e asaret iti rédac a tel.}</li>
+    <li>{sôdes a tel e retat asítet ifeli cilít.}</li>
+    <li>{rafat qorasis a tel fe zis asafey itace ces.}</li>
+  </answer>
+
+  <element> <!-- 23, 24 -->
+    <state>次の文を比較表現を用いてシャレイア語に訳しなさい。</state>
+    <li>私の弟は私より頼もしい。</li>
+    <li>私はイチゴと同じくらい甘いお酒を飲んだ。</li>
+    <li>彼女は私の友達の中で最もおとなしい。</li>
+  </element>
+
+  <answer>
+    <li>{salat a qaled i tel e akelzef emic ini tel.}</li>
+    <li>{teres a tel e korac amay evêl ini micés.}</li>
+    <li>{salat a ces e asiref ehic ive refet i tel.}</li>
+  </answer>
+
+  <element> <!-- 23 -->
+    <state>次の 2 つの文の下線部を比較して、1 つ目の文の方が程度が甚だしいことを述べる文を作りなさい。</state>
+    <li>{ricames a tel }<u>{ovit}</u>{.} // {kilet ricamos a ces }<u>{ovit}</u>{.}</li>
+    <li>{salat a ces e }<u>{azisqom}</u>{.} // {salet a ces e }<u>{azisqom}</u>{ te zîk.}</li>
+  </element>
+
+  <answer>
+    <li>{ricames a tel ovit emic ini kilat los a ces.} <sm>({ini} 節内の時制に注意)</sm></li>
+    <li>{salat a ces e azisqom emic ini let te zîk.}</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文を日本語に訳しなさい。</state>
+    <li>{vîtices ovop a tel vo naflat e fakel ivo vosrac afêc ica sod i'l.}</li>
+    <li>{}</li>
+    <li>{duliqetes a ces e tel. pa pâmat a ces e kozis ike'n lis?}</li>
+    <li>{xâyat e zál ovel edès, ni let te keqilec a zál vo amerikas.}</li>
+    <li>{vade qiketes a tel ozacàt emic ini ris aqôc, debat e'l te saq ovel iti zedat lesis a'l e dol.}</li>
+  </element>
+
+  <answer>
+    <li>私は家から近いカフェにいた女性を公園で再び見かけた。</li>
+    <li></li>
+    <li>彼は私に電話しなかった。彼はそうするという約束を忘れているのだろうか?</li>
+    <li>私たちはアメリカに住んでいたときほど幸せではない。</li>
+    <li>私は他の誰よりも熱心に働いたので、今は何もしようと思えないほど疲れている。</li>
+  </answer>
+
+  <element> <!-- 総合 -->
+    <state>次の文をシャレイア語に訳しなさい。</state>
+    <li>この駅の周辺にはたくさんの神社がある。</li>
+    <li></li>
+    <li>私はできるだけ速くこの図書室を掃除しなければならない。</li>
+    <li>あなたが所持しているワインの中で最も高価なワインはどれですか?</li>
+    <li>私の姉が亡くなったと彼に言ったとき、まるで亡くなったのが彼の姉であるかのように彼は悲しんだ。</li>
+  </element>
+
+  <answer>
+    <li>{qetat a kedxovas avôl vo fecil ica kolot afik.}</li>
+    <li></li>
+    <li>{dozat tayelis a tel e sokulxoq afik otîv ehiv ini qifat las.}</li>
+    <li>{pa salat e pet a celvir axodol ehiv ive met kûtat e a loc?}</li>
+    <li>{te kéces a tel ca ces e'n vahixes a hinof i tel, dodes e's feli les a hinof i ces.}</li>
+  </answer>
+
+  <word-list>
+    <word><so>名</so><sh>{likok}</sh><ja>コップ</ja></word>
+    <word><so>動</so><sh>{belset}</sh><ja>いたずらする</ja></word>
+    <word><so>動</so><sh>{zisqom}</sh><ja>消極的な</ja></word>
+    <word><so>名</so><sh>{zîk}</sh><ja>昔</ja></word>
+    <word><so>名</so><sh>{kozis}</sh><ja>約束</ja></word>
+    <word><so>動</so><sh>{xây}</sh><ja>幸せにする</ja></word>
+    <word><so>動</so><sh>{qiket}</sh><ja>働く</ja></word>
+    <word><so>動</so><sh>{zacàt}</sh><ja>熱心に</ja></word>
+    <word><so>動</so><sh>{qôc}</sh><ja>他の</ja></word>
+  </word-list>
+
+
+</exercise>
