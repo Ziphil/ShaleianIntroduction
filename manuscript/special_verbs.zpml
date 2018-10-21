@@ -24,7 +24,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{salat}</s>{ a tel e zissác.}</sh>
+        <sh><s>{salat}</s>{ a tel e zissác.}</sh>
         <ja>私は教師<s>だ</s>。</ja>
       </li>
     </xl>
@@ -35,7 +35,7 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{salet}</s>{ a kedet aquk e kosben.}</sh>
+        <sh><s>{salet}</s>{ a kedet aquk e kosben.}</sh>
         <ja>あの建物は病院<s>だった</s>。</ja>
       </li>
     </xl>
@@ -67,6 +67,10 @@
         <ja>空が<s>水色から</s><s>オレンジ色に</s>変わった。</ja>
       </li>
     </xl>
+    <p>
+      なお、単に「/A/ というものが /B/ というものに変わった」と言いたい場合は、{zi} 句を省略して「{nises a} [/A/] {ca} [/B/]」の形にします。
+      このときの /B/ の位置にも形容詞を置くことができます。
+    </p>
   </element>
 
   <element title="{kav} と {qet}">
