@@ -230,7 +230,7 @@
                         margin-right="2mm"
                         keep-together.within-page="always"
                         font-size="0.9em"
-                        line-height="{$close-line-height}"
+                        line-height="{$line-height}"
                         axf:column-count="2"
                         axf:column-gap="0em">
       <xsl:for-each select="element">

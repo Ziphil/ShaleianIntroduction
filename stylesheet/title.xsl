@@ -64,7 +64,7 @@
   <!-- tag ===================================================================================== -->
 
   <xsl:template name="title.title">
-    <fo:block margin="50mm 0mm 0mm 0mm"
+    <fo:block margin="55mm 0mm 0mm 0mm"
               font-size="24pt"
               line-height="1"
               text-align="center">
@@ -75,7 +75,7 @@
   </xsl:template>
 
   <xsl:template name="title.author">
-    <fo:block margin="5mm 0mm 0mm 0mm"
+    <fo:block margin="6mm 0mm 0mm 0mm"
               font-size="12pt"
               line-height="1"
               text-align="center">

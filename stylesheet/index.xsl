@@ -8,6 +8,8 @@
                 xmlns:zp="http://ziphil.com/XSL">
   <xsl:output method="xml" indent="no"/>
 
+  <xsl:param name="index.maximum-tiny-space" select="'0.2em'"/>
+
   <!-- page-master ============================================================================= -->
 
   <xsl:template name="index.page-master">
@@ -107,7 +109,12 @@
   </xsl:template>
 
   <xsl:template match="word" mode="index">
-    <fo:block>
+    <fo:block space-before="0em"
+              space-before.maximum="{$index.maximum-tiny-space}"
+              space-before.minimum="0em"
+              space-after="0em"
+              space-after.maximum="{$index.maximum-tiny-space}"
+              space-after.minimum="0em">
       <fo:inline margin="0em 0.5em 0em 0em"
                  padding="0.1em 0.1em 0.1em 0.1em"
                  font-size="0.7em"
