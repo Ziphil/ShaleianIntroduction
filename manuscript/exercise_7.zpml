@@ -65,24 +65,24 @@
 
   <element> <!-- 総合 -->
     <state>次の文を日本語に訳しなさい。</state>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>{}</li>
+    <li>{xôyes a ces e sokul otîv iletu meris axal.}</li>
+    <li>{yo loc, pa sokat a loc e'n qetat vo pâd a kolothil? pasifat a tel.}</li>
+    <li>{zavages a ces e [[tevodes e nát ivo nasfek a ʻkelvis, a dutel!]], dà dukosatat a tel e cal.}</li>
+    <li>{a kin lizac olov a ces e rát aqonef iloke'n xaslihat a's qi pil, dîtikat ovel ebam e tel.}</li>
     <li>{di'kécis a'c e [[te lôk acál]] lo di'dulis e [[câvo]]. ri lis, qifit câsos ovop a tel e loc. pa e ayát?}</li>
   </element>
 
   <answer>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>彼は部屋を 5 分未満で片付けた。</li>
+    <li>すみません、空港がどこにあるか知っていますか? 道に迷ってしまって。</li>
+    <li>彼は「庭の花を折ったのはケルヴィスだ、僕じゃない!」と叫んだが、私はそれを信じていない。</li>
+    <li>彼がどのようにして大成功したかについての話をずっと語っていることだ、私をとてもイライラさせているのは。</li>
     <li>「またね」と言って、「さようなら」とは言わないで。そうすれば、またあなたに会えるでしょ?</li>
   </answer>
 
   <element> <!-- 総合 -->
     <state>次の文をシャレイア語に訳しなさい。</state>
-    <li></li> <!-- 比較表現 -->
+    <li>私の母は私の父より 4 歳年上だ。</li>
     <li>ここで売られている腕時計は私の腕時計より 10 倍以上高い。</li>
     <li>私は、私の携帯電話をなくした彼に「ごめんなさい」と言ってほしい。</li>
     <li>彼のような優しい人が怒っているのを想像することなどできようか。</li> <!-- 反語 -->
@@ -90,7 +90,7 @@
   </element>
 
   <answer>
-    <li></li>
+    <li>{salat a fax i tel e alosod emic ile latvác apiv ini qâz i tel.}</li>
     <li>{salat e axodol emic ilevo vâl atiset ini sokiq i tel a met qoletac e vo fêd.}</li>
     <li>{rafat a tel e'n kécis e [[dibe]] a ces, padofes a e sòlaq i tel.}</li>
     <li>{pa kilat pafisos a tel e'n bâgit e zis asafey itace ces.}</li>
@@ -104,6 +104,13 @@
     <word><so>名</so><sh>{risis}</sh><ja>川</ja></word>
     <word><so>動</so><sh>{tudcat}</sh><ja>予期せず</ja></word>
     <word><so>動</so><sh>{baval}</sh><ja>割る</ja></word>
+    <word><so>名</so><sh>{kolothil}</sh><ja>空港</ja></word>
+    <word><so>動</so><sh>{pasif}</sh><ja>道に迷う</ja></word>
+    <word><so>動</so><sh>{tevod}</sh><ja>折る</ja></word>
+    <word><so>動</so><sh>{kosat}</sh><ja>信じる</ja></word>
+    <word><so>動</so><sh>{liz}</sh><ja>語る</ja></word>
+    <word><so>動</so><sh>{xaslih}</sh><ja>大成功する</ja></word>
+    <word><so>動</so><sh>{dîtik}</sh><ja>イライラさせる</ja></word>
   </word-list>
 
 </exercise>
