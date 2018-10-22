@@ -140,7 +140,7 @@
               keep-with-next.within-page="always"
               font-size="1.2em"
               color="{$border-color}"
-              line-height="{$line-height}"
+              line-height="1"
               text-align="center"
               linefeed-treatment="ignore">
       <fo:inline>

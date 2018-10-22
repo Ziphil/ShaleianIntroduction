@@ -8,6 +8,10 @@
                 xmlns:zp="http://ziphil.com/XSL">
   <xsl:output method="xml" indent="no"/>
 
+  <xsl:param name="exercise-answer.large-space" select="'0.5em'"/> <!-- 演習問題番号の前後 -->
+  <xsl:param name="exercise-answer.small-space" select="'0.3em'"/> <!-- 大問間 -->
+  <xsl:param name="exercise-answer.maximum-tiny-space" select="'0.2em'"/> <!-- 小問間 -->
+
   <!-- page-master ============================================================================= -->
 
   <xsl:template name="exercise-answer.page-master">
@@ -103,17 +107,17 @@
   </xsl:template>
 
   <xsl:template match="exercise" mode="exercise-answer">
-    <fo:block space-before="0.5em"
-              space-before.maximum="0.5em * {$maximum-ratio}"
-              space-before.minimum="0.5em * {$minimum-ratio}"
-              space-after="0.5em"
-              space-after.maximum="0.5em * {$maximum-ratio}"
-              space-after.minimum="0.5em * {$minimum-ratio}"
+    <fo:block space-before="{$exercise-answer.large-space}"
+              space-before.maximum="{$exercise-answer.large-space} * {$maximum-ratio}"
+              space-before.minimum="{$exercise-answer.large-space} * {$minimum-ratio}"
+              space-after="{$exercise-answer.large-space}"
+              space-after.maximum="{$exercise-answer.large-space} * {$maximum-ratio}"
+              space-after.minimum="{$exercise-answer.large-space} * {$minimum-ratio}"
               keep-with-next.within-page="always"
               keep-with-next.within-column="always"
               font-size="1.2em"
               color="{$border-color}"
-              line-height="{$line-height}"
+              line-height="1"
               text-align="center"
               linefeed-treatment="ignore">
       <fo:inline>
@@ -133,19 +137,13 @@
   </xsl:template>
 
   <xsl:template match="answer" mode="exercise-answer">
-    <fo:block space-before="0.3em"
-              space-before.maximum="0.3em * {$maximum-ratio}"
-              space-before.minimum="0.3em * {$minimum-ratio}"
-              space-after="0.3em"
-              space-after.maximum="0.3em * {$maximum-ratio}"
-              space-after.minimum="0.3em * {$minimum-ratio}">
-      <fo:block space-before="0.1em"
-                space-before.maximum="0.1em * {$maximum-ratio}"
-                space-before.minimum="0.1em * {$minimum-ratio}"
-                space-after="0.1em"
-                space-after.maximum="0.1em * {$maximum-ratio}"
-                space-after.minimum="0.1em * {$minimum-ratio}"
-                keep-with-next.within-page="always"
+    <fo:block space-before="{$exercise-answer.small-space}"
+              space-before.maximum="{$exercise-answer.small-space} * {$maximum-ratio}"
+              space-before.minimum="{$exercise-answer.small-space} * {$minimum-ratio}"
+              space-after="{$exercise-answer.small-space}"
+              space-after.maximum="{$exercise-answer.small-space} * {$maximum-ratio}"
+              space-after.minimum="{$exercise-answer.small-space} * {$minimum-ratio}">
+      <fo:block keep-with-next.within-page="always"
                 keep-with-next.within-column="always">
         <xsl:call-template name="exercise-element-number">
           <xsl:with-param name="number" select="position()"/>
@@ -161,7 +159,12 @@
   </xsl:template>
 
   <xsl:template match="li" mode="exercise-answer.answer">
-    <fo:list-item>
+    <fo:list-item space-before="0em"
+                  space-before.maximum="{$exercise-answer.maximum-tiny-space}"
+                  space-before.minimum="0em"
+                  space-after="0em"
+                  space-after.maximum="{$exercise-answer.maximum-tiny-space}"
+                  space-after.minimum="0em">
       <fo:list-item-label start-indent="0em" 
                           end-indent="label-end()">
         <fo:block line-height="{$close-line-height}">
@@ -182,9 +185,6 @@
   </xsl:template>
 
   <xsl:template match="sm" mode="exercise-answer.element">
-    <fo:inline font-size="0.9em">
-      <xsl:apply-templates mode="exercise-answer.element"/>
-    </fo:inline>
   </xsl:template>
 
 </xsl:stylesheet>
