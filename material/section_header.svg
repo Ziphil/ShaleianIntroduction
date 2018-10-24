@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="header.svg">
+   sodipodi:docname="section_header.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="381.30833"
-     inkscape:cy="563.61115"
+     inkscape:zoom="1"
+     inkscape:cx="238.17805"
+     inkscape:cy="513.86162"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,11 +71,6 @@
        id="guide824"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3,3"
-       orientation="1,0"
-       id="guide832"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="151,3"
        orientation="1,0"
        id="guide834"
@@ -84,6 +79,11 @@
        position="3,177"
        orientation="0,1"
        id="guide836"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,213"
+       orientation="1,0"
+       id="guide827"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -127,12 +127,5 @@
        id="path853"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#f30000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:0.80000001, 0.2, 0.1, 0.2;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect823"
-       width="148"
-       height="210"
-       x="3"
-       y="84" />
   </g>
 </svg>

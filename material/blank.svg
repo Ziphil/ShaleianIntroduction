@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="page range.svg">
+   sodipodi:docname="blank.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="98.905809"
-     inkscape:cy="312.57828"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="92.850875"
+     inkscape:cy="613.02229"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,13 +102,5 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-81)">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#f30000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:0.8,0.2,0.1,0.2;stroke-opacity:1;stroke-dashoffset:0"
-       id="rect823"
-       width="148"
-       height="210"
-       x="3"
-       y="84" />
-  </g>
+     transform="translate(0,-81)" />
 </svg>
