@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.2092mm"
+   height="218mm"
+   viewBox="0 0 17.2092 218"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="spine.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.515"
+     inkscape:cx="890.7317"
+     inkscape:cy="718.98604"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="130.927,491.339"
+     inkscape:measure-end="130.927,421.339"
+     borderlayer="true"
+     inkscape:snap-center="false"
+     inkscape:snap-text-baseline="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       units="mm"
+       spacingx="0.99999998"
+       spacingy="0.99999998"
+       originx="3.9999999"
+       originy="3.9999999"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="3.9999998,213.99999"
+       orientation="0,1"
+       id="guide817"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.9999997,213.99999"
+       orientation="1,0"
+       id="guide821"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.209,214"
+       orientation="1,0"
+       id="guide823"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="3.9999996,3.9999999"
+       orientation="0,1"
+       id="guide825"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid995"
+       units="px"
+       empspacing="5"
+       spacingy="0.13229166"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="false" />
+    <sodipodi:guide
+       position="8.6045998,214"
+       orientation="1,0"
+       id="guide827"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="背景"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-79)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#663c00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.6046"
+       y="103.00001"
+       id="text831"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="104.00001"
+         y="7.6045961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';writing-mode:tb-rl;fill:#663c00;fill-opacity:1;stroke-width:0.26458332">入門</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#663c00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.6046"
+       y="114.23077"
+       id="text831-8"><tspan
+         sodipodi:role="line"
+         id="tspan829-2"
+         x="115.23077"
+         y="7.6045961"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif Bold';writing-mode:tb-rl;fill:#663c00;fill-opacity:1;stroke-width:0.26458332">シャレイア語</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#663c00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.6046"
+       y="273"
+       id="text831-0"><tspan
+         sodipodi:role="line"
+         id="tspan829-7"
+         x="278"
+         y="3.6045995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:end;writing-mode:tb-rl;text-anchor:end;fill:#663c00;fill-opacity:1;stroke-width:0.26458332">Ziphil Shaleiras</tspan></text>
+  </g>
+</svg>
