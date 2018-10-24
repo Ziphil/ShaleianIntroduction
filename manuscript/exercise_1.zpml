@@ -52,7 +52,7 @@
 
   <answer>
     <li>{vilisac a tel.}</li>
-    <li>{zédices odalaz a ces.} <sm>({odalaz} は文末でも可)</sm></li>
+    <li>{zédices odalaz a ces.}<alt>{zédices a ces odalaz}</alt></li>
     <li>{déxes a tel etut.}</li>
     <li>{fegis a ces e zeqil.}</li>
     <!-- <li>{kotikes a tel e nát abig.}</li> -->
@@ -94,7 +94,7 @@
   </element>
 
   <answer>
-    <li>{kâkak a monaf.} <sm>({kâkak} の代わりに {kâkes} でも可)</sm></li>
+    <li>{kâkak a monaf.}<alt>{kâkes a monaf.}</alt></li>
     <li>{sôdac a ces e lesit.}</li>
     <li>{déqat a tel te sot.}</li>
     <li>{séqes a tel e latyem asaret ca ces.}</li>

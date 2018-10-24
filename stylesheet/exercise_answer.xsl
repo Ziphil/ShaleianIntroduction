@@ -184,7 +184,9 @@
     </fo:list-item>
   </xsl:template>
 
-  <xsl:template match="sm" mode="exercise-answer.element">
+  <xsl:template match="alt" mode="exercise-answer.element">
+    <xsl:text> / </xsl:text>
+    <xsl:apply-templates mode="exercise-answer.element"/>
   </xsl:template>
 
 </xsl:stylesheet>

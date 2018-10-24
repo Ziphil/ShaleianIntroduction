@@ -59,7 +59,7 @@
   </element>
 
   <answer>
-    <li>{ricames a tel ovit emic ini kilat los a ces.} <sm>({ini} 節内の時制に注意)</sm></li>
+    <li>{ricames a tel ovit emic ini kilat los a ces.}</li>
     <li>{salat a ces e azisqom emic ini let te zîk.}</li>
   </answer>
 
@@ -111,6 +111,5 @@
     <word><so>動</so><sh>{zacàt}</sh><ja>熱心に</ja></word>
     <word><so>動</so><sh>{qôc}</sh><ja>他の</ja></word>
   </word-list>
-
 
 </exercise>
