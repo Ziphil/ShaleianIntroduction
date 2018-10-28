@@ -85,7 +85,7 @@
         <ja>私はパソコンを友達に<s>貸した</s>。</ja>
       </li>
       <li>
-        <sh><s>{qorasis}</s>{ a tel ca ʻnagoyas te tacar.}</sh>
+        <sh><s>{qorasis}</s>{ a tel ca ʻnagoyas te tacál.}</sh>
         <ja>私は名古屋に明日<s>旅行する</s>。</ja>
       </li>
     </xl>
@@ -278,7 +278,7 @@
     <word><so>名</so><sh>{qikov}</sh><ja>パソコン</ja></word>
     <word><so>名</so><sh>{refet}</sh><ja>友達</ja></word>
     <word><so>動</so><sh>{qoras}</sh><shd>{qorasis}</shd><ja>旅行する</ja></word>
-    <word><so>名</so><sh>{tacar}</sh><ja>明日</ja></word>
+    <word><so>名</so><sh>{tacál}</sh><ja>明日</ja></word>
     <word><so>動</so><sh>{vahix}</sh><shd>{vahixos}</shd><ja>死ぬ</ja></word>
     <word><so>動</so><sh>{kôk}</sh><shd>{okôk}</shd><ja>必ず</ja></word>
     <word><so>名</so><sh>{laxol}</sh><ja>人間</ja></word>

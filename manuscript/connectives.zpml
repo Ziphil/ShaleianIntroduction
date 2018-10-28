@@ -8,7 +8,7 @@
       <ja>私は犬と猫を飼っている。</ja>
     </li>
     <li>
-      <sh>{liqetes a tel te tazîk e ces, dà dulicanes a ces zi cit.}</sh>
+      <sh>{liqetes a tel te tazît e ces, dà dulicanes a ces zi cit.}</sh>
       <ja>私は昨日彼に電話したが、彼はそれに応答しなかった。</ja>
     </li>
     <li>
@@ -116,7 +116,7 @@
     </p>
     <xl>
       <li>
-        <sh>{liqetes a tel te tazîk e ces, }<s>{dà}</s>{ dulicanes a ces zi cit.}</sh>
+        <sh>{liqetes a tel te tazît e ces, }<s>{dà}</s>{ dulicanes a ces zi cit.}</sh>
         <ja>私は昨日彼に電話した<s>が</s>、彼はそれに応答しなかった。</ja>
       </li>
     </xl>
@@ -147,7 +147,7 @@
     </p>
     <xl>
       <li>
-        <sh>{pa }<s>{rahaset á tigumet}</s>{ te tazîk e loc?}</sh>
+        <sh>{pa }<s>{rahaset á tigumet}</s>{ te tazît e loc?}</sh>
         <ja>あなたは<s>楽しかったか苦しかったかどちら</s>ですか?</ja>
       </li>
       <li>

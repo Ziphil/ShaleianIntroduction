@@ -74,7 +74,7 @@
     </p>
     <xl>
       <li>
-        <sh><s>{kéces}</s>{ a ces e kin poqosec a ces te tazîk e hîxlon fe fakrêy.}</sh>
+        <sh><s>{kéces}</s>{ a ces e kin poqosec a ces te tazît e hîxlon fe fakrêy.}</sh>
         <ja>昨日は夜空を彼女と一緒に眺めていたと彼は<s>言った</s>。</ja>
       </li>
     </xl>
@@ -100,7 +100,7 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces te tazîk }<s>{e kin câses a ces e qâz i tel}</s>{.}</sh>
+        <sh>{kéces a ces te tazît }<s>{e kin câses a ces e qâz i tel}</s>{.}</sh>
         <ja><s>私の父親に会ったと</s>彼は昨日言った。</ja>
       </li>
     </xl>
@@ -109,12 +109,12 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{ te tazîk.}</sh>
+        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{ te tazît.}</sh>
         <ja>昨日<s>私の父親に会ったと</s>彼は言った。</ja>
       </li>
     </xl>
     <p>
-      こうすると、文末の {te tazîk} が主節の {kéces} に係っているとも解釈できますし、{kin} 節の {câses} に係っているとも解釈できてしまうので、文の意味が曖昧になります。
+      こうすると、文末の {te tazît} が主節の {kéces} に係っているとも解釈できますし、{kin} 節の {câses} に係っているとも解釈できてしまうので、文の意味が曖昧になります。
       言い方を変えれば、父親に会ったのが昨日なのか、そのことを言ったのが昨日なのかが、明確には分かりません。
       このような曖昧性を避けるために、{kin} 節を文末に置くことが多いわけです。
     </p>
@@ -124,7 +124,7 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{, te tazîk.}</sh>
+        <sh>{kéces a ces }<s>{e kin câses a ces e qâz i tel}</s>{, te tazît.}</sh>
         <ja>昨日、<s>私の父親に会ったと</s>彼は言った。</ja>
       </li>
     </xl>

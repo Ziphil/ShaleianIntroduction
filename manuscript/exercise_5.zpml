@@ -4,12 +4,12 @@
 
   <element> <!-- 21 -->
     <state>次の文中の限定節に含まれている下線部を消去しつつ、助接詞の非動詞修飾形を用いることで、意味を変えずに文を書き換えなさい。</state>
-    <li>{pa salat e pas a fakel }<u>{câses e a loc}</u>{ te tazîk?}</li>
+    <li>{pa salat e pas a fakel }<u>{câses e a loc}</u>{ te tazît?}</li>
     <li>{feges a tel e likok }<u>{qîlos a tel}</u>{ so teros a'l e cèr.}</li>
   </element>
 
   <answer>
-    <li>{pa salat e pas a fakel ite tazîk?}</li>
+    <li>{pa salat e pas a fakel ite tazît?}</li>
     <li>{feges a tel e likok iso teros a'l e cèr.}</li>
   </answer>
 

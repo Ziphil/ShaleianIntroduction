@@ -157,7 +157,7 @@
     </p>
     <xl>
       <li>
-        <sh>{pa qetet a loc te lon i tazîk }<s>{vo pâd}</s>{?}</sh>
+        <sh>{pa qetet a loc te lon i tazît }<s>{vo pâd}</s>{?}</sh>
         <ja>あなたは昨日の夜<s>どこに</s>いましたか?</ja>
       </li>
       <li>
@@ -187,7 +187,7 @@
     </p>
     <xl>
       <li>
-        <sh>{pa lesec a loc }<s>{e pil}</s>{ te tazîkhil?}</sh>
+        <sh>{pa lesec a loc }<s>{e pil}</s>{ te tazîthil?}</sh>
         <ja>あなたは一昨日<s>何を</s>していましたか?</ja>
       </li>
       <li>
@@ -225,7 +225,7 @@
     <word><so>動</so><sh>{bozet}</sh><ja>殴る</ja></word>
     <word><so>名</so><sh>{lon}</sh><ja>夜</ja></word>
     <word><so>動</so><sh>{xalket}</sh><ja>かっこいい</ja></word>
-    <word><so>名</so><sh>{tazîkhil}</sh><ja>一昨日</ja></word>
+    <word><so>名</so><sh>{tazîthil}</sh><ja>一昨日</ja></word>
   </word-list>
 
 </section>

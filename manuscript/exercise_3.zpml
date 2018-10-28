@@ -61,12 +61,12 @@
   <element> <!-- 16 -->
     <state>次の文は本来は反復表現にする必要があります。正しい文に直しなさい。</state>
     <li>{terac otêl a tel e cèrzaf.}</li>
-    <li>{dufetekac a refet e tel zite tazîkhil.}</li>
+    <li>{dufetekac a refet e tel zite tazîthil.}</li>
   </element>
 
   <answer>
     <li>{vomac teros otêl a tel e cèrzaf.}</li>
-    <li>{vomac dufetekos a refet e tel zite tazîkhil.}</li>
+    <li>{vomac dufetekos a refet e tel zite tazîthil.}</li>
   </answer>
 
   <element> <!-- 総合 -->

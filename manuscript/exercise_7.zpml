@@ -42,14 +42,14 @@
   <element> <!-- 31 -->
     <state>次の文中に直接話法が含まれていれば間接話法に書き換え、間接話法が含まれていれば直接話法に書き換えなさい。</state>
     <li>{tufoses a tel e [[debat e tel.]].}</li>
-    <li>{kéces a ces e [[ricames a tel vo risis te tazîk.]].}</li>
-    <li>{cazes a ces ca tel e kin zedat câsis a ces e tel te tacar.}</li>
+    <li>{kéces a ces e [[ricames a tel vo risis te tazît.]].}</li>
+    <li>{cazes a ces ca tel e kin zedat câsis a ces e tel te tacál.}</li>
   </element>
 
   <answer>
     <li>{tufoses a tel e kin debat e tel.}</li>
-    <li>{kéces a ces e kin ricames a ces vo risis te tazîk.}</li>
-    <li>{cazes a ces ca tel e [[zedat câsis a tel e loc te tacar.]].}</li>
+    <li>{kéces a ces e kin ricames a ces vo risis te tazît.}</li>
+    <li>{cazes a ces ca tel e [[zedat câsis a tel e loc te tacál.]].}</li>
   </answer>
 
   <element> <!-- 32 -->

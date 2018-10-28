@@ -67,20 +67,20 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a tel e }<s>{[[câses a tel e yetih avalát te tazîk.]]}</s>{.}</sh>
+        <sh>{kéces a tel e }<s>{[[câses a tel e yetih avalát te tazît.]]}</s>{.}</sh>
         <ja><s>｢有名なアイドルに昨日会った。｣</s><half-space/>と私は言った。</ja>
       </li>
       <li>
-        <sh>{kéces a tel e kin }<s>{câses a tel e yetih avalát te tazîk}</s>{.}</sh>
+        <sh>{kéces a tel e kin }<s>{câses a tel e yetih avalát te tazît}</s>{.}</sh>
         <ja><s>有名なアイドルに昨日会った</s>と私は言った。</ja>
       </li>
     </xl>
     <p>
       1 つ目の文では直接話法が使われているので、ラクットの中身は発言そのものです。
-      したがって、{câses} の過去時制は発言時点より過去であることを意味し、{tazîk} は発言日の前日を指します。
+      したがって、{câses} の過去時制は発言時点より過去であることを意味し、{tazît} は発言日の前日を指します。
       一方、2 つ目の文では間接話法が使われています。
      {kin} 節の中の時制や時間表現は、主節である {kéces} が成立した時間を基準とした意味になるわけですが、この時間とはまさに発言した時間のことなので、{kin} 節の中での時間の基準は直接話法のときと変わりません。
-     そのため、{câses} は過去時制のままで良く、{tazîk} もそのまま用いることができます。
+     そのため、{câses} は過去時制のままで良く、{tazît} もそのまま用いることができます。
      英語では the day before などと言い換える必要がありますが、シャレイア語ではその必要はありません。
     </p>
   </element>

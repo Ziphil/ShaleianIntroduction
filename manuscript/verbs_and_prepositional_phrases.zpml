@@ -147,11 +147,11 @@
     </xl>
     <p>
       {te} は、動詞が表す動作を行った時刻を表します。
-      例えば、「昨日」はシャレイア語で {tazîk} と言いますが、これは英語の yesterday と違って名詞なので、{te} とともに {te tazîk} のように使われます。
+      例えば、「昨日」はシャレイア語で {tazît} と言いますが、これは英語の yesterday と違って名詞なので、{te} とともに {te tazît} のように使われます。
     </p>
     <xl>
       <li>
-        <sh>{zédices a ces }<s>{te tazîk}</s>{.}</sh>
+        <sh>{zédices a ces }<s>{te tazît}</s>{.}</sh>
         <ja>彼は<s>昨日</s>運動した。</ja>
       </li>
     </xl>
@@ -214,7 +214,7 @@
     <word><so>名</so><sh>{sokiq}</sh><ja>腕時計</ja></word>
     <word><so>動</so><sh>{nifet}</sh><shd>{nifetes}</shd><ja>持って来る</ja></word>
     <word><so>名</so><sh>{sod}</sh><ja>家</ja></word>
-    <word><so>名</so><sh>{tazîk}</sh><ja>昨日</ja></word>
+    <word><so>名</so><sh>{tazît}</sh><ja>昨日</ja></word>
     <word><so>動</so><sh>{zédic}</sh><shd>{zédices}</shd><ja>運動する</ja></word>
     <word><so>名</so><sh>{fêd}</sh><ja>ここ</ja></word>
     <word><so>動</so><sh>{kotik}</sh><shd>{kotikes}</shd><ja>見つける</ja></word>
