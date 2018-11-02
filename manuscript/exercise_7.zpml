@@ -24,7 +24,7 @@
 
   <answer>
     <li>{salat a levlis afik e axodol ilede yen 5000.}</li>
-    <li>{di'dunifetis a'c e zat adôz ilehi dok 23.}</li>
+    <li>{ditat dunifetis a'c e zat adôz ilehi dok 23.}</li>
     <li>{kavat a ces e refet avôl ilevo lêk 100.}</li>
   </answer>
 
@@ -36,7 +36,7 @@
 
   <answer>
     <li>{dusâfat a tel, tê, e naved.}</li>
-    <li>{dibe e kin qonoces a tel e xoq afik.}</li>
+    <li>{dibe e kin qonoces a tel e xoq aquk.}</li>
   </answer>
 
   <element> <!-- 31 -->
@@ -48,7 +48,7 @@
 
   <answer>
     <li>{tufoses a tel e kin debat e tel.}</li>
-    <li>{kéces a ces e kin ricames a ces vo risis te tazît.}</li>
+    <li>{kéces a ces e kin ricames a's vo risis te tazît.}</li>
     <li>{cazes a ces ca tel e [[zedat câsis a tel e loc te tacál.]].}</li>
   </answer>
 
@@ -66,17 +66,17 @@
   <element> <!-- 総合 -->
     <state>次の文を日本語に訳しなさい。</state>
     <li>{xôyes a ces e sokul otîv iletu meris axal.}</li>
-    <li>{yo loc, pa sokat a loc e'n qetat vo pâd a kolothil? pasifat a tel.}</li>
+    <li>{yo loc, pa sokat a loc e'n qetat vo pâd a kolothil?}</li>
     <li>{zavages a ces e [[tevodes e nát ivo nasfek a ʻkelvis, a dutel!]], dà dukosatat a tel e cal.}</li>
-    <li>{a kin lizac olov a ces e rát aqonef iloke'n xaslihat a's qi pil, dîtikat ovel ebam e tel.}</li>
+    <li>{a kin lizac olov a ces e rát aqonef iloke'n xaslihes a's qi pil, dîtikat ovel ebam e tel.}</li>
     <li>{di'kécis a'c e [[te lôk acál]] lo di'dulis e [[câvo]]. ri lis, qifit câsos ovop a tel e loc. pa e ayát?}</li>
   </element>
 
   <answer>
     <li>彼は部屋を 5 分未満で片付けた。</li>
-    <li>すみません、空港がどこにあるか知っていますか? 道に迷ってしまって。</li>
+    <li>すみません、空港がどこにあるか知っていますか?</li>
     <li>彼は「庭の花を折ったのはケルヴィスだ、僕じゃない!」と叫んだが、私はそれを信じていない。</li>
-    <li>彼がどのようにして大成功したかについての話をずっと語っていることだ、私をとてもイライラさせているのは。</li>
+    <li>彼がどのように大成功したかについてのつまらない話をずっと語っていることだ、私をとてもイライラさせているのは。</li>
     <li>「またね」と言って、「さようなら」とは言わないで。そうすれば、またあなたに会えるでしょ?</li>
   </answer>
 
@@ -92,8 +92,8 @@
   <answer>
     <li>{salat a fax i tel e alosod emic ile latvác apiv ini qâz i tel.}</li>
     <li>{salat e axodol emic ilevo vâl atiset ini sokiq i tel a met qoletac e vo fêd.}</li>
-    <li>{rafat a tel e'n kécis e [[dibe]] a ces, padofes a e sòlaq i tel.}</li>
-    <li>{pa kilat pafisos a tel e'n bâgit e zis asafey itace ces.}</li>
+    <li>{rafat a tel e'n kécis e [[dibe]] a ces, paqofes a e sòlaq i tel.}</li>
+    <li>{pa qifat pafisas a tel e'n bâgit e zis asafey itace ces.}</li>
     <li>{sê, a xiflohis! la tal acates, licac a tel e met.} </li>
   </answer>
 
@@ -105,7 +105,6 @@
     <word><so>動</so><sh>{tudcat}</sh><ja>予期せず</ja></word>
     <word><so>動</so><sh>{baval}</sh><ja>割る</ja></word>
     <word><so>名</so><sh>{kolothil}</sh><ja>空港</ja></word>
-    <word><so>動</so><sh>{pasif}</sh><ja>道に迷う</ja></word>
     <word><so>動</so><sh>{tevod}</sh><ja>折る</ja></word>
     <word><so>動</so><sh>{kosat}</sh><ja>信じる</ja></word>
     <word><so>動</so><sh>{liz}</sh><ja>語る</ja></word>

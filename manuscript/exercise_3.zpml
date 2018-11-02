@@ -30,19 +30,19 @@
 
   <answer>
     <li>{pa sâfat a loc e dales á monaf?}</li>
-    <li>{pa qetat a loc te saq vo sod á kossax?}</li>
+    <li>{pa qetat a loc te sot vo sod á kossax?}</li>
     <li>{pa sohizac a ces, lá pa tayelac a ces e sokul?}</li>
   </answer>
 
   <element> <!-- 14 -->
     <state>次の文を {kin} 節を用いてシャレイア語に訳しなさい。</state>
-    <li>私がもう出かけてしまったということを彼は知っている。</li>
+    <li>私がもう出かけたということを彼は知っている。</li>
     <li>私は海で泳ぐことが好きだ。</li>
   </element>
 
   <answer>
     <li>{sokat a ces e kin folanes ovip a tel.}</li>
-    <li>{sâfat a tel e kin ricamos a tel.}</li>
+    <li>{sâfat a tel e kin ricamos a tel vo riy.}</li>
   </answer>
 
   <element> <!-- 15 -->
@@ -79,10 +79,10 @@
   </element>
 
   <answer>
-    <li>あの人はあなたの姉ですか、それとも母親ですか、それとも彼女ですか?</li>
+    <li>あの人はあなたの姉ですか、それとも母ですか、それとも彼女ですか?</li>
     <li>私の弟はお菓子を食べながら本を読んでいた。</li>
     <li>私はあの男を必ず見つけようと思っている。</li>
-    <li>彼は私に流れ星を見たといった。しかし、それは嘘だった。</li>
+    <li>彼は私に流れ星を見たと言った。しかし、それは嘘だった。</li>
     <li>もし私が空を飛ぶことだけでもできたら、私はあなたに会いに何度もアメリカに行くでしょう。</li>
   </answer>
 
@@ -96,11 +96,11 @@
   </element>
 
   <answer>
-    <li>{kômez a tel li hay acik e hâlfeloq ahafas o ahâl.}</li>
+    <li>{kômez a tel li hay acik e hâlfeloq ahafas o afehal.}</li>
     <li>{rafat lanis a tel ca riy fe refet.}</li>
-    <li>{zazes e ces a kin liqetas a tel e ces.}</li>
+    <li>{zazes e ces a kin edif liqetas a tel e ces.}</li>
     <li>{bozetes a tel e ces. vade, vomec déqitos otêl a ces e tel.}</li>
-    <li>{ri cazes ca tel a ces e rát acik, duqetat a tel te sot vo fêd.}</li>
+    <li>{ri ducazes ca tel a ces e rát acik, duqetat a tel te sot vo fêd.}</li>
   </answer>
 
   <word-list>

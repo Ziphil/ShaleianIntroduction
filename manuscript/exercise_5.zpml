@@ -49,7 +49,7 @@
   <answer>
     <li>{salat a qaled i tel e asafey emic ini tel.}</li>
     <li>{teres a tel e korac amay evêl ini micés.}</li>
-    <li>{salat a ces e asiref ehic ive refet i tel.}</li>
+    <li>{salat a ces e asiref ehiv ive refet i tel.}</li>
   </answer>
 
   <element> <!-- 23 -->
@@ -65,7 +65,7 @@
 
   <element> <!-- 総合 -->
     <state>次の文を日本語に訳しなさい。</state>
-    <li>{vîtices ovop a tel vo naflat e fakel ivo vosrac afêc ica sod i'l.}</li>
+    <li>{vîtices ovop a tel vo naflat e fakel ivo vosras afêc ica sod i'l.}</li>
     <li>{hikutec zi zál a hîxlon avotiq ica xif alikxel.}</li>
     <li>{duliqetes a ces e tel. pa pâmat a ces e kozis ike'n lis?}</li>
     <li>{xâyat e zál ovel edès, ni let te keqilec a zál vo amerikas.}</li>
@@ -73,11 +73,11 @@
   </element>
 
   <answer>
-    <li>私は家から近いカフェにいた女性を公園で再び見かけた。</li>
+    <li>私は私の家から近いカフェにいた女性を公園で再び見かけた。</li>
     <li>私たちは輝く星でいっぱいの夜空に覆われていた。</li>
     <li>彼は私に電話しなかった。彼はそうするという約束を忘れているのだろうか?</li>
     <li>私たちはアメリカに住んでいたときほど幸せではない。</li>
-    <li>私は他の誰よりも熱心に働いたので、今は何もしようと思えないほど疲れている。</li>
+    <li>私は他の誰よりも熱心に働いたので、今は何もしようと思わないほどに疲れている。</li>
   </answer>
 
   <element> <!-- 総合 -->
@@ -92,7 +92,7 @@
   <answer>
     <li>{qetat a kedxovas avôl vo fecil ica kolot afik.}</li>
     <li>{semisat a ces feli dufedakat a's e'n qòcasac e's a tel.}</li>
-    <li>{dozat tayelis a tel e sokulxoq afik otîv ehiv ini qifat las.}</li>
+    <li>{dozat tayelis a tel e sokulxoq afik otîv evêl ini qifat las.}</li>
     <li>{pa salat e pet a celvir axodol ehiv ive met kûtat e a loc?}</li>
     <li>{te kéces a tel ca ces e'n vahixes a hinof i tel, dodes e's feli les a hinof i ces.}</li>
   </answer>
