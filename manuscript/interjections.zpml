@@ -154,7 +154,7 @@
     <p>
       {e taqxáf axaslef} は、直訳では「素晴らしい誕生日を」となる表現で、相手の誕生日を祝う言葉です。
       {taqxáf} を別の記念日を表す単語に変えることで、その日を祝う表現にすることができます。
-      例えば、「クリスマス」を意味する {taqkeraset} を用いて {e taqkeraset axaslef} と言えば、「良いクリスマスを」や「メリークリスマス」のような意味になります。
+      例えば、「クリスマス」を意味する {taqsíq} を用いて {e taqsíq axaslef} と言えば、「良いクリスマスを」や「メリークリスマス」のような意味になります。
     </p>
     <p>
       {yo loc} は、道端などで通りがかりの人に声をかけるときに用いる表現です。
@@ -184,7 +184,7 @@
     <word><so>名</so><sh>{pér}</sh><ja>夢</ja></word>
     <word><so>動</so><sh>{sas}</sh><ja>良い</ja></word>
     <word><so>動</so><sh>{xaslef}</sh><ja>素晴らしい</ja></word>
-    <word><so>名</so><sh>{taqkeraset}</sh><ja>クリスマス</ja></word>
+    <word><so>名</so><sh>{taqsíq}</sh><ja>クリスマス</ja></word>
   </word-list>
 
 </section>
