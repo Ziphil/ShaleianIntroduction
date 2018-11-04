@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="conjugation of verbal infinitives.svg">
+   sodipodi:docname="conjugation_of_verbal_infinitives.svg">
   <defs
      id="defs2">
     <marker
@@ -102,7 +102,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="115.01841"
+     inkscape:cx="84.571981"
      inkscape:cy="18.812094"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -278,12 +278,14 @@
          x="29.368752"
          y="297"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:IPAMincho;-inkscape-font-specification:IPAMincho;stroke-width:0.26458332"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0162499px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-   id="tspan4555">xôy</tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine'"
-   id="tspan4557"> (</tspan>不変化<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine'"
-   id="tspan4559">)</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0162499px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="tspan4555">xôy</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine'"
+           id="tspan4557"> (</tspan><tspan
+           style="-inkscape-font-specification:'Source Han Serif';font-family:'Source Han Serif';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan886">不変化</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine'"
+           id="tspan4559">)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 6.3500004,279.53751 c 0,0 -0.79375,0 -0.79375,1.19062 v 6.74688 c 0,1.19062 -0.79375,1.19062 -0.79375,1.19062 0,0 0.79375,0 0.79375,1.19063 v 6.74687 c 0,1.19062 0.79375,1.19062 0.79375,1.19062"
