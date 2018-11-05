@@ -54,13 +54,13 @@
     </p>
     <xl>
       <li>
-        <sh>{kômes a tel e }<s>{solak afâl afik}</s>{ te tazît.}</sh>
+        <sh>{kômes a tel e }<s>{solak afehal afik}</s>{ te tazît.}</sh>
         <ja>私は<s>このかわいらしい洋服を</s>昨日着た。</ja>
       </li>
     </xl>
     <p>
-      この例では、{afâl} と {afik} という 2 つの形容詞が {solak} を修飾していますが、{afik} は「この」を意味する指示形容詞なので、{afâl} より後に置かれています。
-      {afâl} と {afik} の順番を変えて {solak afik afâl} とすることはできません。
+      この例では、{afehal} と {afik} という 2 つの形容詞が {solak} を修飾していますが、{afik} は「この」を意味する指示形容詞なので、{afehal} より後に置かれています。
+      {afehal} と {afik} の順番を変えて {solak afik afehal} とすることはできません。
     </p>
   </element>
 
@@ -194,7 +194,7 @@
     <word><so>動</so><sh>{judôl}</sh><shd>{ajudôl}</shd><ja>汚い</ja></word>
     <word><so>動</so><sh>{kôm}</sh><shd>{kômes}</shd><ja>着る</ja></word>
     <word><so>名</so><sh>{solak}</sh><ja>洋服</ja></word>
-    <word><so>動</so><sh>{fâl}</sh><shd>{afâl}</shd><ja>かわいらしい</ja></word>
+    <word><so>動</so><sh>{fehal}</sh><shd>{afehal}</shd><ja>かわいらしい</ja></word>
     <word><so>動</so><sh>{fik}</sh><shd>{afik}</shd><ja>この</ja></word>
     <word><so>動</so><sh>{feg}</sh><shd>{fegeq}</shd><ja>買う</ja></word>
     <word><so>名</so><sh>{loqis}</sh><ja>車</ja></word>

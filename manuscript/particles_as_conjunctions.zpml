@@ -23,7 +23,7 @@
 
   <element title="接続詞としての助接詞">
     <p>
-      <section-number title="語彙的品詞と文法的品詞"/>で学んだように、助接詞は文中で助詞としても接続詞としても使うことができます。
+      <section-number title="語彙的品詞と文法的品詞"/>で学んだように、一般に助接詞は文中で助詞としても接続詞としても使うことができます。
       助詞としての用法は、<section-number title="動詞と助詞句"/>で学んだ通りです。
       復習しておくと、名詞の前に置かれて、主語や時間などのその名詞の文中での意味的役割を示すのでした。
       また、<section-number title="特殊な動詞"/>で学んだように、一部の動詞とともに使われる場合は、助詞の後に形容詞が置かれることもあったのでした。
@@ -168,7 +168,7 @@
     </p>
     <xl>
       <li>
-        <sh>{déxez a tel e qasot o fay. }<s>{dà}</s>{, feketes a ces ofev.}</sh>
+        <sh>{déxez a tel li qasot o fay. }<s>{dà}</s>{, feketes a ces ofev.}</sh>
         <ja>私は息子と娘を寝かせた。<s>しかし</s>、すぐに起きてしまった。</ja>
       </li>
     </xl>
