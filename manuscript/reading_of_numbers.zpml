@@ -130,25 +130,25 @@
 
   <word-list>
     <word><so>動</so><sh>{nof}</sh><ja>0</ja></word>
-    <word><so>動</so><sh>{mul}</sh><ja>0//10</ja></word>
+    <word><so>動</so><sh>{mul}</sh><ja>0.0</ja></word>
     <word><so>動</so><sh>{tis}</sh><ja>1</ja></word>
-    <word><so>動</so><sh>{daf}</sh><ja>1//10</ja></word>
+    <word><so>動</so><sh>{daf}</sh><ja>0.1</ja></word>
     <word><so>動</so><sh>{qec}</sh><ja>2</ja></word>
-    <word><so>動</so><sh>{cid}</sh><ja>2//10</ja></word>
+    <word><so>動</so><sh>{cid}</sh><ja>0.2</ja></word>
     <word><so>動</so><sh>{yos}</sh><ja>3</ja></word>
-    <word><so>動</so><sh>{hut}</sh><ja>3//10</ja></word>
+    <word><so>動</so><sh>{hut}</sh><ja>0.3</ja></word>
     <word><so>動</so><sh>{piv}</sh><ja>4</ja></word>
-    <word><so>動</so><sh>{bac}</sh><ja>4//10</ja></word>
+    <word><so>動</so><sh>{bac}</sh><ja>0.4</ja></word>
     <word><so>動</so><sh>{xal}</sh><ja>5</ja></word>
-    <word><so>動</so><sh>{jes}</sh><ja>5//10</ja></word>
+    <word><so>動</so><sh>{jes}</sh><ja>0.5</ja></word>
     <word><so>動</so><sh>{ric}</sh><ja>6</ja></word>
-    <word><so>動</so><sh>{lam}</sh><ja>6//10</ja></word>
+    <word><so>動</so><sh>{lam}</sh><ja>0.6</ja></word>
     <word><so>動</so><sh>{sez}</sh><ja>7</ja></word>
-    <word><so>動</so><sh>{ziq}</sh><ja>7//10</ja></word>
+    <word><so>動</so><sh>{ziq}</sh><ja>0.7</ja></word>
     <word><so>動</so><sh>{kaq}</sh><ja>8</ja></word>
-    <word><so>動</so><sh>{get}</sh><ja>8//10</ja></word>
+    <word><so>動</so><sh>{get}</sh><ja>0.8</ja></word>
     <word><so>動</so><sh>{von}</sh><ja>9</ja></word>
-    <word><so>動</so><sh>{fus}</sh><ja>9//10</ja></word>
+    <word><so>動</so><sh>{fus}</sh><ja>0.9</ja></word>
   </word-list>
 
 </section>
