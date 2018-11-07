@@ -4,7 +4,7 @@
 
   <example-list>
     <li>
-      <sh>{vade kômet a ces e hâl afec, rafat fegis a tel e met.}</sh>
+      <sh>{vade kômet a ces e hâl acac, rafat fegis a tel e met.}</sh>
       <ja>彼女が新しいスカートを着ていたので、私はスカートを買いたい。</ja>
     </li>
     <li>
@@ -19,7 +19,7 @@
     </p>
     <xl>
       <li>
-        <sh>{vade kômet a ces e }<s>{hâl}</s>{ afec, rafat fegis a tel e }<s>{hâl}</s>{.}</sh>
+        <sh>{vade kômet a ces e }<s>{hâl}</s>{ acac, rafat fegis a tel e }<s>{hâl}</s>{.}</sh>
         <ja>彼女が新しい<s>スカート</s>を着ていたので、私は<s>スカート</s>を買いたい。</ja>
       </li>
     </xl>
@@ -35,7 +35,7 @@
     </p>
     <xl>
       <li>
-        <sh>{vade kômet a ces e hâl afec, rafat fegis a tel e }<s>{met}</s>{.}</sh>
+        <sh>{vade kômet a ces e hâl acac, rafat fegis a tel e }<s>{met}</s>{.}</sh>
         <ja>彼女が新しいスカートを着ていたので、私は<s>スカート</s>を買いたい。</ja>
       </li>
     </xl>
@@ -54,7 +54,7 @@
     </p>
     <xl>
       <li>
-        <sh>{vade kômet a ces e hâl afec, rafat fegis a tel e }<s>{cit}</s>{ evoc.}</sh>
+        <sh>{vade kômet a ces e hâl acac, rafat fegis a tel e }<s>{cit}</s>{.}</sh>
         <ja>彼女が新しいスカートを着ていたので、私は<s>それ</s>を買いたい。</ja>
       </li>
     </xl>
@@ -104,7 +104,7 @@
 
   <word-list>
     <word><so>名</so><sh>{hâl}</sh><ja>スカート</ja></word>
-    <word><so>動</so><sh>{fec}</sh><ja>新しい</ja></word>
+    <word><so>動</so><sh>{cac}</sh><ja>新しい</ja></word>
     <word><so>名</so><sh>{met}</sh><ja>それ</ja></word>
     <word><so>動</so><sh>{buqot}</sh><ja>嫌う</ja></word>
     <word><so>名</so><sh>{vafos}</sh><ja>動物</ja></word>
