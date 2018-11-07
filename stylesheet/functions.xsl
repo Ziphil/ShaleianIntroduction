@@ -118,7 +118,7 @@
 
   <xsl:function name="zp:key">
     <xsl:param name="name"/>
-    <xsl:value-of select="translate($name, 'sztdkgfvpbcqxjlrnmyhaâáàeêéèiîíìoôòuûù', 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよ')"/>
+    <xsl:value-of select="translate($name, 'sztdkgfvpbcqxjlrnmyhaâáàeêéèiîíìoôòuûù''', 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよ')"/>
   </xsl:function>
 
   <xsl:function name="zp:or-else">
