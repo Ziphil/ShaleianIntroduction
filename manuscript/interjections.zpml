@@ -125,8 +125,10 @@
     </p>
     <xl>
       <li>
-        <sh>{}<s>{yo nîl}</s>{, pa licac a loc e lasav atùk ovop?}</sh>
-        <ja><s>お兄ちゃん</s>、また変なアニメ見てるの?</ja>
+        <sh>{}<s>{yo nîl}</s>{, pa dufeketat a loc omez?}</sh>
+        <ja><s>お兄ちゃん</s>、まだ起きてないの?</ja>
+        <!-- <sh>{}<s>{yo nîl}</s>{, pa licac a loc e lasav atùk ovop?}</sh> -->
+        <!-- <ja><s>お兄ちゃん</s>、また変なアニメ見てるの?</ja> -->
       </li>
     </xl>
   </element>
@@ -179,7 +181,7 @@
     <word><so>名</so><sh>{sotishil}</sh><ja>孫</ja></word>
     <word><so>動</so><sh>{kozes}</sh><ja>約束する</ja></word>
     <word><so>助</so><sh>{yo}</sh><ja>～よ</ja></word>
-    <word><so>動</so><sh>{tùk}</sh><ja>変な</ja></word>
+    <!-- <word><so>動</so><sh>{tùk}</sh><ja>変な</ja></word> -->
     <word><so>名</so><sh>{lôk}</sh><ja>時間</ja></word>
     <word><so>名</so><sh>{pér}</sh><ja>夢</ja></word>
     <word><so>動</so><sh>{sas}</sh><ja>良い</ja></word>
