@@ -73,7 +73,7 @@
     <li>{duleses e kin folanes a tel fe fayhil al'aqec, lo fevetes a tel e dus.}</li> <!-- les 付き部分否定 -->
     <li>{pa qokuzac a loc e yét vade pil ive kin rafat lac a loc o kin deqiges ca loc e'n lic?}</li> <!-- ve の選択疑問文 -->
     <li>{vade fôcis e sávak acál te tat ile tef 15 meris 10, ditat zifimis a'c ca fêd dite tat ile taf 15.}</li> <!-- 時間表現 -->
-    <li>{selbutec ogicaz a zissác e zissohiz meloses a la tal al'ayos e'n lanis a's ca kossax. bava, salot odukôk a selbut e acasat ica'n dibuloz a zis li zis.}</li>
+    <li>{selbutec ogicaz a zissác e zissohiz meloses a la tal al'ayos e'n lanis a's ca kossax. bava, salot odukôk a selbut e acasat ica'n dibuloz a ces li zissohiz.}</li>
   </element>
 
   <answer>
@@ -81,7 +81,7 @@
     <li>私は 2 人の孫娘と一緒に出かけたわけではなく、私は誰も連れて行かなかった。</li>
     <li>あなたが真実を隠しているのはあなたがそうしたいからですか、それともそう命じられたからですか?</li>
     <li>次の授業は 15 時 10 分に始まるので、15 時までにここに戻ってきてください。</li>
-    <li>学校に来るのに 3 度遅れた生徒を先生が激しく叱っていた。叱ることが必ずしも人を反省させるのに効果的というわけではないのに。</li>
+    <li>学校に来るのに 3 度遅れた生徒を先生が激しく叱っていた。叱ることが必ずしも彼が生徒を反省させるのに効果的というわけではないのに。</li>
   </answer>
 
   <element> <!-- 総合 -->
