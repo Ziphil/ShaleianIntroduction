@@ -91,11 +91,11 @@
       <fo:static-content flow-name="section.first-header">
         <fo:block-container id="section.top-{count(preceding-sibling::section) + 1}"
                             height="36mm + {$bleed-size}">
-          <fo:block-container width="20mm"
-                              top="3mm + {$bleed-size}"
-                              left="2mm + {$bleed-size}"
+          <fo:block-container width="15mm"
+                              top="4.5mm + {$bleed-size}"
+                              left="6mm + {$bleed-size}"
                               font-family="{$emphasis-font-family}"
-                              font-size="56pt"
+                              font-size="50pt"
                               color="{$border-color}"
                               text-align="center"
                               letter-spacing="-0.05em"
