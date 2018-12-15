@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section title="限定節">
+  <title>限定節</title>
 
   <example-list>
     <li>
@@ -10,6 +11,7 @@
   </example-list>
 
   <element title="限定節">
+    <title>限定節</title>
     <p>
       シャレイア語では、ある名詞を文によって説明するための構文があります。
       以下に、具体例を挙げながらその構文の作り方を説明していきます。
@@ -88,6 +90,7 @@
   </element>
 
   <element title="限定節の例">
+    <title>限定節の例</title>
     <p>
       限定節を用いたいくつかの例文を載せておきます。
       それぞれの例文について、限定節によって 1 つの文にまとめられる前の 2 つの文を想像すると、良い練習になるかもしれません。
@@ -132,6 +135,7 @@
   </element>
 
   <element title="限定節の時制">
+    <title>限定節の時制</title>
     <p>
       限定節内の動詞の時制が示す時間は、主節の動詞の動作が行われた時間を基準にして決まります。
       <section-number title="{kin} 節"/>で学んだ {kin} 節の時制の場合と全く同じです。

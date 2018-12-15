@@ -42,7 +42,7 @@
       <fo:bookmark-title>
         <xsl:number value="count(preceding-sibling::section) + 1"/>
         <xsl:text>. </xsl:text>
-        <xsl:value-of select="zp:plain(@title)"/>
+        <xsl:value-of select="zp:plain(title)"/>
       </fo:bookmark-title>
     </fo:bookmark>
   </xsl:template>

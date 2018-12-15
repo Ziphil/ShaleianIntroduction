@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section title="繰り返しの回避">
+  <title>繰り返しの回避</title>
 
   <example-list>
     <li>
@@ -14,6 +15,7 @@
   </example-list>
 
   <element title="{met}">
+    <title>{met}</title>
     <p>
       まずは以下の文を見てください。
     </p>
@@ -67,6 +69,7 @@
   </element>
 
   <element title="{l}">
+    <title>{l}</title>
     <p>
       {met} は名詞 1 単語の代わりをしますが、動詞とそれに係る助詞句の代わりをする単語もあります。
       それが {l} です。

@@ -110,7 +110,7 @@
                               letter-spacing="0.05em"
                               absolute-position="absolute">
             <fo:block>
-              <xsl:sequence select="zp:enrich(@title)"/>
+              <xsl:sequence select="zp:enrich(title)"/>
             </fo:block>
           </fo:block-container>
         </fo:block-container>
@@ -122,7 +122,7 @@
                             display-align="after">
           <fo:block border-bottom="{$border-width} {$border-color} solid">
             <fo:inline padding="0mm 0mm 0mm 1mm">
-              <xsl:sequence select="zp:enrich(@title)"/>
+              <xsl:sequence select="zp:enrich(title)"/>
             </fo:inline>
           </fo:block>
         </fo:block-container>
@@ -134,7 +134,7 @@
                             display-align="after">
           <fo:block border-bottom="{$border-width} {$border-color} solid">
             <fo:inline padding="0mm 1mm 0mm 0mm">
-              <xsl:sequence select="zp:enrich(@title)"/>
+              <xsl:sequence select="zp:enrich(title)"/>
             </fo:inline>
           </fo:block>
         </fo:block-container>
@@ -210,7 +210,7 @@
           <xsl:number value="count(preceding-sibling::element) + 1"/>
         </fo:block>
       </fo:inline-container>
-      <xsl:sequence select="zp:enrich(@title)"/> 
+      <xsl:sequence select="zp:enrich(title)"/> 
       <fo:leader margin="0em 0em 0em 0.5em"
                  color="{$border-color}"
                  leader-pattern="rule"
@@ -219,6 +219,8 @@
                  baseline-shift="0.3em"/>
     </fo:block>
   </xsl:template>
+
+  <xsl:template match="title" mode="section.element"/>
 
   <xsl:template match="xl" mode="section.element">
     <fo:block space-before="{$section.small-space}"
@@ -391,23 +393,27 @@
               <fo:block margin-bottom="0.3em"
                         line-height="1">
                 <fo:inline font-size="1.2em">
-                  <xsl:sequence select="zp:enrich(@trans)"/>
+                  <xsl:sequence select="zp:enrich(trans)"/>
                 </fo:inline>
                 <fo:inline margin-left="0.8em">
-                  <xsl:sequence select="zp:enrich(@pron)"/>
+                  <xsl:sequence select="zp:enrich(pron)"/>
                 </fo:inline>
               </fo:block>
               <fo:block text-align="justify"
                         axf:text-justify-trim="punctuation ideograph inter-word"
                         linefeed-treatment="ignore"
                         line-height="{$line-height}">
-                <xsl:apply-templates mode="section.element"/>
+                <xsl:apply-templates select="p" mode="section.vertical-letter-list"/>
               </fo:block>
             </fo:table-cell>
           </fo:table-row>
         </fo:table-body>
       </fo:table>
     </fo:table-and-caption>
+  </xsl:template>
+
+  <xsl:template match="p" mode="vertical-letter-list">
+    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="horizontal-letter-list" mode="section.element">
@@ -439,7 +445,7 @@
                 font-size="1.2em"
                 text-align="center"
                 line-height="1">
-        <xsl:sequence select="zp:enrich(@trans)"/>
+        <xsl:sequence select="zp:enrich(trans)"/>
       </fo:block>
       <fo:block font-size="0pt">
         <fo:external-graphic src="url(letter/{@name}.svg)"/>

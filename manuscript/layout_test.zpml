@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section title="レイアウトテスト">
+  <title>レイアウトテスト</title>
 
   <example-list>
     <li>
@@ -14,24 +15,28 @@
   </example-list>
 
   <element title="Здравствуйте">
+    <title>Здравствуйте</title>
     <p>
       Σημεῖόν ἐστιν, οὗ μέρος οὐθέν.
     </p>
   </element>
 
   <element title="文章">
+    <title>文章</title>
     <p>
       Lorsque j'avais six ans j'ai vu, une fois, une magnifique image dans un livre qui s'applait…, ah… s'applait…, quel est le titre du livre? 
     </p>
   </element>
 
   <element title="リガチャ">
+    <title>リガチャ</title>
     <p>
       The fluffy fjord is difficult to find: WALT.
     </p>
   </element>
 
   <element title="その 4">
+    <title>その 4</title>
     <p>
       解説の途中には例文が挟まることがあります。
       というか、挟まることばかりです。
@@ -63,6 +68,7 @@
   </element>
 
   <element title="フォント変更">
+    <title>フォント変更</title>
     <p>
       シャレイア語は公式サイトと同様にサンセリフ体で記されます。
       シャレイア語部分の指定方法は ZpML に準拠しています。
@@ -76,6 +82,7 @@
   </element>
 
   <element title="表とリスト">
+    <title>表とリスト</title>
     <p>
       表が書けます。
       上下の余白にちょっと調整が入っています。
@@ -105,6 +112,7 @@
   </element>
 
   <element title="結合文字">
+    <title>結合文字</title>
     <p>
       声調記号は、//p͡fɮɜːtʰ˥˨˦// のように 3 つまでの合成はできるらしいです。
       ダイアクリティカルマークは、z&#x302;&#x308;&#x326;u&#x327;&#x304;&#x30A;m&#x303;&#x330;&#x30B;&#x30C;ø&#x312;j&#x311; のようにフォントが対応していればわりとちゃんと表示されます。

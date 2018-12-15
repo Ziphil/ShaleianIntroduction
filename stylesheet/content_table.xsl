@@ -204,7 +204,7 @@
       </fo:inline>
       <fo:basic-link internal-destination="section.top-{$section-number}">
         <fo:inline>
-          <xsl:sequence select="zp:enrich(@title)"/>
+          <xsl:sequence select="zp:enrich(title)"/>
         </fo:inline>
       </fo:basic-link>
       <fo:leader margin="0em 0.5em 0em 0.5em"
@@ -236,7 +236,7 @@
       <xsl:for-each select="element">
         <fo:block>
           <fo:basic-link internal-destination="section.element-{count(../preceding-sibling::section) + 1}-{position()}">
-            <xsl:sequence select="zp:enrich(@title)"/>
+            <xsl:sequence select="zp:enrich(title)"/>
           </fo:basic-link>
         </fo:block>
       </xsl:for-each>

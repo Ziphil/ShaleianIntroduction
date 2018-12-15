@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section title="比較表現発展">
+  <title>比較表現発展</title>
 
   <example-list>
     <li>
@@ -22,6 +23,7 @@
   </example-list>
 
   <element title="差異の数値による明示">
+    <title>差異の数値による明示</title>
     <p>
       <section-number title="比較表現 I"/>では優劣表現の作り方を学びました。
       しかし、2 つのものを比較してどちらがより甚だしいかを単に述べるだけではなく、その差が具体的にどのくらいなのかを述べたい場合もあるでしょう。
@@ -50,6 +52,7 @@
   </element>
 
   <element title="倍数">
+    <title>倍数</title>
     <p>
       上で説明した {ile} 句による差異の表現において、単位を表す名詞の代わりに「倍」を意味する {vâl} を置くことで、差異を倍数で表すことができます。
     </p>
@@ -75,6 +78,7 @@
   </element>
 
   <element title="順位">
+    <title>順位</title>
     <p>
       <section-number title="比較表現 II"/>で学んだ最上表現では、何かが特定の範囲の中で最も優れていることしか表せませんでした。
       しかし、{le} を用いることで 2 番目や 3 番目なども表現することができます。
@@ -111,6 +115,7 @@
   </element>
 
   <element title=" ｢以上」と「以下｣ ">
+    <title> ｢以上」と「以下｣ </title>
     <p>
       <section-number title="数詞の用法"/>において、{le} を用いて形容詞の程度を数値で説明する構文について学びました。
       例として、以下の文を考えてみましょう。

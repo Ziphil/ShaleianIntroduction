@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <section title="特殊助接詞">
+  <title>特殊助接詞</title>
 
   <example-list>
     <li>
@@ -22,6 +23,7 @@
   </example-list>
 
   <element title="特殊助接詞の用法">
+    <title>特殊助接詞の用法</title>
     <p>
       特殊助接詞の用法は単語によって異なるので、それらを包括して説明できる一般論があるわけではありませんが、いくつか共通の法則があります。
     </p>
@@ -42,6 +44,7 @@
   </element>
 
   <element title="{ke}">
+    <title>{ke}</title>
     <p>
       特殊助接詞の {ke} は、常に非動詞修飾形の助詞として用いられます。
       このとき、{ike} の後ろに {kin} 節を伴って {ike} とその {kin} 節全体で名詞を修飾し、その名詞の内容を表します。
@@ -63,6 +66,7 @@
   </element>
 
   <element title="{ti}">
+    <title>{ti}</title>
     <p>
       特殊助接詞の {ti} は、原則として非動詞修飾形の接続詞として用いられます。
       {iti} の後ろに節を直接伴って {iti} 節全体で形容詞や副詞を修飾し、その形容詞や副詞の程度を表します。
@@ -93,6 +97,7 @@
   </element>
 
   <element title="特殊助接詞の言い換え">
+    <title>特殊助接詞の言い換え</title>
     <p>
       {ti} の使い方は基本的に上に述べた通りです。
       ただし、上で説明した通りに文を作った後で、以下のような手順で原形を用いる形に言い換えることが可能です。
@@ -134,6 +139,7 @@
   </element>
 
   <element title="{feli} と {tace}">
+    <title>{feli} と {tace}</title>
     <p>
       特殊助接詞の {feli} と {tace} は、ともに日本語の「～のように」に相当します。
     </p>
