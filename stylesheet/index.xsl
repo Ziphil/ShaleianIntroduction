@@ -17,7 +17,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('material/blank.svg')">
+                           background-image="url('../material/blank.svg')">
       <fo:region-body region-name="index.body"
                       margin-top="{$page-top-space} + {$bleed-size}"
                       margin-right="{$page-inner-space} + {$bleed-size}"
@@ -34,7 +34,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('material/blank.svg')">
+                           background-image="url('../material/blank.svg')">
       <fo:region-body region-name="index.body"
                       margin-top="{$page-top-space} + {$bleed-size}"
                       margin-right="{$page-inner-space} + {$bleed-size}"
@@ -48,7 +48,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('material/blank.svg')">
+                           background-image="url('../material/blank.svg')">
       <fo:region-body region-name="index.body"
                       margin-top="{$page-top-space} + {$bleed-size}"
                       margin-right="{$page-outer-space} + {$bleed-size}"

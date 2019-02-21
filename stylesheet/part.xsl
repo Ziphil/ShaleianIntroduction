@@ -19,7 +19,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('material/part.svg')"
+                           background-image="url('../material/part.svg')"
                            background-position-horizontal="{$bleed-size}"
                            background-position-vertical="{$bleed-size}">
       <fo:region-body region-name="part.body"
