@@ -7,7 +7,7 @@
 
   <title/>
 
-  <import src="preface.zpml" full="true"/>
+  <import src="preface.zpml"/>
   <content-table/>
 
   <blank/>
@@ -62,11 +62,11 @@
   <!-- <import src="part_test.zpml" full="true"/> -->
   <!-- <import src="layout_test.zpml" full="true"/> -->
 
-  <exercise-answer full="true"/>
-  <index full="true"/>
+  <exercise-answer/>
+  <index/>
 
-  <blank full="true"/>
-  <blank full="true"/>
-  <import src="colophon.zpml" full="true"/>
+  <blank/>
+  <blank/>
+  <import src="colophon.zpml"/>
 
 </root>

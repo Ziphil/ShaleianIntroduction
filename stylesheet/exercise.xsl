@@ -21,7 +21,9 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/exercise_header.svg')">
+                           background-image="url('../material/exercise_header.svg')"
+                           background-position-vertical="{$bleed-size} - 3mm"
+                           background-position-horizontal="{$bleed-size} - 3mm">
       <fo:region-body region-name="exercise.body"
                       margin-top="{$exercise.page-top-space} + {$bleed-size}"
                       margin-right="{$page-inner-space} + {$bleed-size}"
@@ -38,7 +40,9 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/exercise_header.svg')">
+                           background-image="url('../material/exercise_header.svg')"
+                           background-position-vertical="{$bleed-size} - 3mm"
+                           background-position-horizontal="{$bleed-size} - 3mm">
       <fo:region-body region-name="exercise.body"
                       margin-top="{$exercise.page-top-space} + {$bleed-size}"
                       margin-right="{$page-inner-space} + {$bleed-size}"
@@ -52,7 +56,9 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/exercise_header.svg')">
+                           background-image="url('../material/exercise_header.svg')"
+                           background-position-vertical="{$bleed-size} - 3mm"
+                           background-position-horizontal="{$bleed-size} - 3mm">
       <fo:region-body region-name="exercise.body"
                       margin-top="{$exercise.page-top-space} + {$bleed-size}"
                       margin-right="{$page-outer-space} + {$bleed-size}"
