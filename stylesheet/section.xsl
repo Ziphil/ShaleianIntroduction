@@ -24,7 +24,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/section_header.svg')"
+                           background-image="url('../document/material/section_header.svg')"
                            background-position-vertical="{$bleed-size} - 3mm"
                            background-position-horizontal="{$bleed-size} - 3mm">
       <fo:region-body region-name="section.body"
@@ -43,7 +43,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/blank.svg')">
+                           background-image="url('../document/material/blank.svg')">
       <fo:region-body region-name="section.body"
                       margin-top="{$section.page-top-space} + {$bleed-size}"
                       margin-right="{$page-inner-space} + {$bleed-size}"
@@ -60,7 +60,7 @@
                            page-width="{$page-width} + {$bleed-size} * 2"
                            page-height="{$page-height} + {$bleed-size} * 2"
                            margin="0mm"
-                           background-image="url('../material/blank.svg')">
+                           background-image="url('../document/material/blank.svg')">
       <fo:region-body region-name="section.body"
                       margin-top="{$section.page-top-space} + {$bleed-size}"
                       margin-right="{$page-outer-space} + {$bleed-size}"
@@ -352,8 +352,8 @@
               font-size="0pt"
               text-align="center">
       <xsl:choose>
-        <xsl:when test="doc-available(concat('../', @src))">
-          <fo:external-graphic src="url(../{@src})"/>
+        <xsl:when test="doc-available(concat('../document/', @src))">
+          <fo:external-graphic src="url(../document/{@src})"/>
         </xsl:when>
         <xsl:otherwise>
           <fo:inline color="#FFFFFF"
@@ -388,7 +388,7 @@
           <fo:table-row>
             <fo:table-cell>
               <fo:block font-size="0pt">
-                <fo:external-graphic src="url(../letter/{@name}.svg)"/>
+                <fo:external-graphic src="url(../document/letter/{@name}.svg)"/>
               </fo:block>
             </fo:table-cell>
             <fo:table-cell padding-left="1em">
@@ -450,7 +450,7 @@
         <xsl:sequence select="zp:enrich(trans)"/>
       </fo:block>
       <fo:block font-size="0pt">
-        <fo:external-graphic src="url(../letter/{@name}.svg)"/>
+        <fo:external-graphic src="url(../document/letter/{@name}.svg)"/>
       </fo:block>
     </fo:inline-container>
   </xsl:template>

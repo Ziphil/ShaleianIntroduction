@@ -15,7 +15,7 @@
               text-align-last="center">
       <fo:inline-container width="70.5mm"
                            height="12.5mm"
-                           background-image="url('../material/miscellaneous_header.svg')">
+                           background-image="url('../document/material/miscellaneous_header.svg')">
         <fo:block font-size="16pt"
                   color="{$border-color}"
                   letter-spacing="0.25em"
