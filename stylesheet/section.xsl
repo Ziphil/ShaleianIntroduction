@@ -530,6 +530,11 @@
           <xsl:value-of select="@colspan"/>
         </xsl:attribute>
       </xsl:if>
+      <xsl:if test="@border-top">
+        <xsl:attribute name="border-top">
+          <xsl:value-of select="concat($border-width, ' ', $border-color, ' solid')"/>
+        </xsl:attribute>
+      </xsl:if>
       <fo:block-container width="3em"/>
     </fo:table-cell>
   </xsl:template>
