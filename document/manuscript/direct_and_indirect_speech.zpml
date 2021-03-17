@@ -5,11 +5,11 @@
 
   <example-list>
     <li>
-      <sh>{kéces a ces e [[nalsoles e nâd afik a tel.]].}</sh>
+      <sh>{kéces a ces e «nalsoles e nâd afik a tel.».}</sh>
       <ja>彼は「この木を植えたのは私だ。」と言った。</ja>
     </li>
     <li>
-      <sh>{zavages a tel. [[di'dufêcis a'c ca tel!]]}</sh>
+      <sh>{zavages a tel. «di'dufêcis a'c ca tel!»}</sh>
       <ja>私は叫んだ。「私に近づくな!」</ja>
     </li>
     <li>
@@ -27,7 +27,7 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a ces e }<s>{[[nalsoles e nâd afik a tel.]]}</s>{.}</sh>
+        <sh>{kéces a ces e }<s>{«nalsoles e nâd afik a tel.»}</s>{.}</sh>
         <ja>彼は<half-space/><s>｢この木を植えたのは私だ。｣</s><half-space/>と言った。</ja>
       </li>
     </xl>
@@ -48,7 +48,7 @@
     </p>
     <xl>
       <li>
-        <sh>{reves a ces e }<s>{[[pa delivos vade pil a sakil?]]}</s>{.}</sh>
+        <sh>{reves a ces e }<s>{«pa delivos vade pil a sakil?»}</s>{.}</sh>
         <ja>彼は<half-space/><s>｢なぜリンゴは落ちるのだろう?｣</s><half-space/>と思った。</ja>
       </li>
     </xl>
@@ -70,7 +70,7 @@
     </p>
     <xl>
       <li>
-        <sh>{kéces a tel e }<s>{[[câses a tel e yetih avalát te tazît.]]}</s>{.}</sh>
+        <sh>{kéces a tel e }<s>{«câses a tel e yetih avalát te tazît.»}</s>{.}</sh>
         <ja><s>｢有名なアイドルに昨日会った。｣</s><half-space/>と私は言った。</ja>
       </li>
       <li>
@@ -97,11 +97,11 @@
     </p>
     <xl>
       <li>
-        <sh>{sitifes a ces e }<s>{[[te lôk acál]]}</s>{.}</sh>
+        <sh>{sitifes a ces e }<s>{«te lôk acál»}</s>{.}</sh>
         <ja>彼は<half-space/><s>｢またね｣</s><half-space/>と囁いた。</ja>
       </li>
       <li>
-        <sh>{kéces a tel e }<s>{[[sîya]]}</s>{, dà semiset a ces.}</sh>
+        <sh>{kéces a tel e }<s>{«sîya»}</s>{, dà semiset a ces.}</sh>
         <ja>私は<half-space/><s>｢こんにちは｣</s><half-space/>と言ったが、彼は黙っていた。</ja>
       </li>
     </xl>
@@ -120,7 +120,7 @@
     </p>
     <xl>
       <li>
-        <sh>{zavages a tel e }<s>{[[di'dufêcis a'c ca tel!]]}</s>{.}</sh>
+        <sh>{zavages a tel e }<s>{«di'dufêcis a'c ca tel!»}</s>{.}</sh>
         <ja>私は<half-space/><s>｢私に近づくな!｣</s><half-space/>と叫んだ。</ja>
       </li>
     </xl>
@@ -129,7 +129,7 @@
     </p>
     <xl>
       <li>
-        <sh>{zavages a tel. }<s>{[[di'dufêcis a'c ca tel!]]}</s>{}</sh>
+        <sh>{zavages a tel. }<s>{«di'dufêcis a'c ca tel!»}</s>{}</sh>
         <ja>私は叫んだ。<s>｢私に近づくな!｣</s></ja>
       </li>
     </xl>

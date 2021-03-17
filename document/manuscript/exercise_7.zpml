@@ -41,15 +41,15 @@
 
   <element> <!-- 31 -->
     <state>次の文中に直接話法が含まれていれば間接話法に書き換え、間接話法が含まれていれば直接話法に書き換えなさい。</state>
-    <li>{tufoses a tel e [[debat e tel.]].}</li>
-    <li>{kéces a ces e [[ricames a tel vo risis te tazît.]].}</li>
+    <li>{tufoses a tel e «debat e tel.».}</li>
+    <li>{kéces a ces e «ricames a tel vo risis te tazît.».}</li>
     <li>{cazes a ces ca tel e kin zedat câsis a ces e tel te tacál.}</li>
   </element>
 
   <answer>
     <li>{tufoses a tel e kin debat e tel.}</li>
     <li>{kéces a ces e kin ricames a's vo risis te tazît.}</li>
-    <li>{cazes a ces ca tel e [[zedat câsis a tel e loc te tacál.]].}</li>
+    <li>{cazes a ces ca tel e «zedat câsis a tel e loc te tacál.».}</li>
   </answer>
 
   <element> <!-- 32 -->
@@ -67,9 +67,9 @@
     <state>次の文を日本語に訳しなさい。</state>
     <li>{xôyes a ces e sokul otîv iletu meris axal.}</li>
     <li>{yo loc, pa sokat a loc e'n qetat vo pâd a kolothil?}</li>
-    <li>{zavages a ces e [[tevodes e nát ivo nasfek a ʻkelvis, a dutel!]], dà dukosatat a tel e cal.}</li>
+    <li>{zavages a ces e «tevodes e nát ivo nasfek a ʻkelvis, a dutel!», dà dukosatat a tel e cal.}</li>
     <li>{a kin lizac olov a ces e rát aqonef iloke'n xaslihes a's qi pil, dîtikat ovel ebam e tel.}</li>
-    <li>{di'kécis a'c e [[te lôk acál]] lo di'dulis e [[câvo]]. ri lis, qifit câsos ovop a tel e loc. pa e ayát?}</li>
+    <li>{di'kécis a'c e «te lôk acál» lo di'dulis e «câvo». ri lis, qifit câsos ovop a tel e loc. pa e ayát?}</li>
   </element>
 
   <answer>
@@ -92,7 +92,7 @@
   <answer>
     <li>{salat a fax i tel e alosod emic ile latvác apiv ini qâz i tel.}</li>
     <li>{salat e axodol emic ilevo vâl atiset ini sokiq i tel a met qoletac e vo fêd.}</li>
-    <li>{rafat a tel e'n kécis e [[dibe]] a ces, paqofes a e sòlaq i tel.}</li>
+    <li>{rafat a tel e'n kécis e «dibe» a ces, paqofes a e sòlaq i tel.}</li>
     <li>{pa qifat pafisas a tel e'n bâgit e zis asafey itace ces.}</li>
     <li>{sê, a xiflohis! la tal acates, licac a tel e met.} </li>
   </answer>
