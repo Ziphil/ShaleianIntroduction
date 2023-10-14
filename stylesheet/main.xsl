@@ -8,14 +8,14 @@
                 xmlns:zp="http://ziphil.com/XSL">
   <xsl:output method="xml" indent="no"/>
 
-  <xsl:param name="europian-font-family" select="'Linux Libertine G'"/>
-  <xsl:param name="japanese-font-family" select="'源ノ明朝'"/>
+  <xsl:param name="europian-font-family" select="'Brill'"/>
+  <xsl:param name="japanese-font-family" select="'Yu Mincho'"/>
   <xsl:param name="symbol-font-family" select="'IPA明朝'"/>
-  <xsl:param name="europian-shaleia-font-family" select="'FreeSans'"/>
-  <xsl:param name="japanese-shaleia-font-family" select="'源ノ角ゴシック'"/>
+  <xsl:param name="europian-shaleia-font-family" select="'Inter'"/>
+  <xsl:param name="japanese-shaleia-font-family" select="'Yu Gothic Medium'"/>
   <xsl:param name="emphasis-font-family" select="'Gill Sans Nova Cn Book'"/>
   <xsl:param name="font-size" select="'9pt'"/>
-  <xsl:param name="shaleia-font-size" select="'95%'"/>
+  <xsl:param name="shaleia-font-size" select="'100%'"/>
   <xsl:param name="line-height" select="'1.5'"/>
   <xsl:param name="close-line-height" select="'1.3'"/>
   <xsl:param name="border-color" select="'#444444'"/> <!-- rgb(140, 255, 85) -->
@@ -57,6 +57,7 @@
     <fo:root xml:lang="ja"
              font-family="{$font-family}"
              font-size="{$font-size}"
+             font-variant="lining-nums"
              axf:ligature-mode="all">
       <fo:layout-master-set>
         <xsl:call-template name="section.page-master"/>
