@@ -30,6 +30,7 @@
     <xsl:param name="number"/>
     <fo:inline font-family="{$emphasis-font-family}"
                font-size="1.4em"
+               font-weight="bold"
                color="{$border-color}"
                line-height="0">
       <fo:inline-container width="0.5em"
@@ -48,6 +49,7 @@
     <xsl:param name="number"/>
     <fo:inline font-family="{$emphasis-font-family}"
                font-size="1em"
+               font-weight="bold"
                color="{$border-color}"
                line-height="0">
       <fo:inline font-size="0.8em"
@@ -77,6 +79,7 @@
                         left="0mm"
                         font-family="{$emphasis-font-family}"
                         font-size="1.1em"
+                        font-weight="bold"
                         text-align="left"
                         line-height="1"
                         absolute-position="absolute">
@@ -96,6 +99,7 @@
                         right="0mm"
                         font-family="{$emphasis-font-family}"
                         font-size="1.1em"
+                        font-weight="bold"
                         text-align="right"
                         line-height="1"
                         absolute-position="absolute">

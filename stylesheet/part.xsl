@@ -65,7 +65,8 @@
       </fo:inline>
       <fo:inline margin="0em 0.4em 0em 0.4em"
                  font-family="{$emphasis-font-family}"
-                 font-size="3em">
+                 font-size="3em"
+                 font-weight="bold">
         <xsl:number value="count(preceding-sibling::part) + 1" format="1"/>
       </fo:inline>
       <fo:inline baseline-shift="1mm">

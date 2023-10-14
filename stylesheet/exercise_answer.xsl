@@ -126,6 +126,7 @@
       <fo:inline margin="0em 0.3em 0em 0.3em"
                  font-family="{$emphasis-font-family}"
                  font-size="1.5em"
+                 font-weight="bold"
                  line-height="0"
                  baseline-shift="-0.05em">
         <xsl:number value="position()"/>

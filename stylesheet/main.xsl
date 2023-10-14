@@ -8,12 +8,12 @@
                 xmlns:zp="http://ziphil.com/XSL">
   <xsl:output method="xml" indent="no"/>
 
-  <xsl:param name="europian-font-family" select="'Linux Libertine'"/>
+  <xsl:param name="europian-font-family" select="'Linux Libertine G'"/>
   <xsl:param name="japanese-font-family" select="'源ノ明朝'"/>
   <xsl:param name="symbol-font-family" select="'IPA明朝'"/>
   <xsl:param name="europian-shaleia-font-family" select="'FreeSans'"/>
   <xsl:param name="japanese-shaleia-font-family" select="'源ノ角ゴシック'"/>
-  <xsl:param name="emphasis-font-family" select="'Gill Sans Nova Cond Bold'"/>
+  <xsl:param name="emphasis-font-family" select="'Gill Sans Nova Cn Book'"/>
   <xsl:param name="font-size" select="'9pt'"/>
   <xsl:param name="shaleia-font-size" select="'95%'"/>
   <xsl:param name="line-height" select="'1.5'"/>

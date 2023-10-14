@@ -100,6 +100,7 @@
               <fo:inline margin="0em 0em 0em 0.2em"
                          font-family="{$emphasis-font-family}"
                          font-size="32pt"
+                         font-weight="bold"
                          line-height="0"
                          baseline-shift="-0.05em">
                 <xsl:number value="count(preceding-sibling::exercise) + 1" format="1"/>

@@ -149,6 +149,7 @@
       <fo:inline margin="0em 0.3em 0em 0.3em"
                  font-family="{$emphasis-font-family}"
                  font-size="1.5em"
+                 font-weight="bold"
                  line-height="0"
                  baseline-shift="-0.05em">
         <xsl:number value="position()"/>
@@ -191,6 +192,7 @@
                            height="1em"
                            font-family="{$emphasis-font-family}"
                            font-size="1.4em"
+                           font-weight="bold"
                            color="{$border-color}"
                            text-align-last="center">
         <fo:block text-align="center">
@@ -217,6 +219,7 @@
                            height="1em"
                            font-family="{$emphasis-font-family}"
                            font-size="1em"
+                           font-weight="bold"
                            text-align-last="right">
         <fo:block>
           <fo:page-number-citation ref-id="section.top-{$section-number}"/>
@@ -269,7 +272,8 @@
           <xsl:text>演習問題</xsl:text>
         </fo:inline>
         <fo:inline font-family="{$emphasis-font-family}"
-                   font-size="1.2em">
+                   font-size="1.2em"
+                   font-weight="bold">
           <xsl:number value="$exercise-number"/>
         </fo:inline>
       </fo:basic-link>
@@ -283,6 +287,7 @@
                            height="1em"
                            font-family="{$emphasis-font-family}"
                            font-size="1em"
+                           font-weight="bold"
                            text-align-last="right">
         <fo:block>
           <fo:page-number-citation ref-id="exercise.top-{$exercise-number}"/>
@@ -317,6 +322,7 @@
                            height="1em"
                            font-family="{$emphasis-font-family}"
                            font-size="1em"
+                           font-weight="bold"
                            text-align-last="right">
         <fo:block>
           <fo:page-number-citation ref-id="{$ref-id}"/>
